@@ -4674,6 +4674,422 @@ https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparallele
 #EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 12
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-012-1648028333/e3235a00450d8646d3373a4ecc642140-1080p.mp4/playlist.m3u8
 
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 1
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-001-1656698510/66e5876523bf1794f3ff9a61d625e4a7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 2
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-002-1656698510/7b7fa80a73577274288450b2e871c9f8-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 3
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-003-1656698510/ec38ecb73a810df4e3b1467aab0a413c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 4
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-004-1656698510/56f23e154a89914e10f133cff1ecfae0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 5
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-005-1656698510/63fca57889ac4545a2d6996afb0d4d47-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 6
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-006-1656698510/3041dd4b8d5c2061d94c3215258329cf-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 7
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-007-1656698510/406e0c7e6ac280f86b2c90f31ee84d75-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 8
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-008-1656698510/0c68c852d24ea873b54083ba182d1329-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 9
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-009-1656698468/e22c5deeaf66fd2adcc7b2766cf998ac-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 10
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-010-1656698468/715043681b9fbf1ee30780e717f14044-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 11
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-011-1656698468/167a873dd782c791c2660a9e552ad3ec-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 12
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-012-1656698468/8823207087be7f074cf11aee00290faf-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 13
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-013-1656698468/278f36932dc965d5b7cb9be53e659a78-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 14
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-014-1656698468/acebcbdc253fecd31062aab9e2f6a27b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 15
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-015-1656698468/4881ebf94ab2f093c5909f0362a7b269-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 16
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-016-1656698468/e3f704c515a318fda1e388d1de8616d4-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 17
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-017-1656698468/8860bcd097c7e2f1055a98bbd3c27125-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 18
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-018-1656698468/d2c18467ceef18579154e960a79a3b85-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 19
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-019-1656698468/257ae92b9b10a4499c825c790876d63b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 20
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-020-1656698468/3430c4426a9fd2ba41d2c60323cf88cd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 21
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-021-1656698468/e9753ea875f567bfe2439b368c6148b2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 22
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-022-1656698468/4a7a66526b6506df60cd1a21bfaa1e5a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 23
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-023-1656698468/bbae95e74e29bf3743a2940f41cb2353-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 24
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-024-1656698392/d1c209f76deadabf075df039e5e826b9-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 25
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-025-1656698392/e2e380f300ad42600a02890dac8d2e7f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 26
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-026-1656698392/6104fd43bad96f4abac112934824717e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 27
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-027-1656698392/9017c64dfbb3404cb20b1d591acdcf91-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 28
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-028-1656698392/0b2e2ace2646fc8c6f8227054c7624e4-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 29
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-029-1656698392/8c31f1f1a72f9b7f6763b7d085808b48-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 30
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-030-1656698392/2c4aedc9d54f3c0c8ead605d9b54b484-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 31
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-031-1656698392/6fd50ab8a0eb8365449065c80abf4b09-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 32
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-032-1656698392/2db7ad640440339a57c51060a1944a3e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 33
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-033-1656698392/97cdf2641186a3c3a582b57a6d1e3d24-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 34
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-034-1656698392/1ee80d04744a91d6740368f5a3e34dce-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 35
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-035-1656698392/5e410561995b3d8243b44c79212b66dc-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 36
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-036-1656698392/be74b2468a8e6a4bdcf7f15a0e354a49-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 37
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-037-1656698392/8fae96a683766171ae5aa2121ecbbd06-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/04/kingdomseason1_2012_jp_b_38t_lg04-07-2022_16g32-24.jpg", Vương Giả Thiên Hạ (Phần 1) - Tập 38
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220702/kingdomseason1-2012-jp-038-1656698392/a4c0542a4e1a075658aec7545b921dc8-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 1
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-001-1659763147/206da3025c16464013efc04a40c51cb9-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 2
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-002-1659763147/34961f7a17d7a1e469bd9d3ec2f1f4c2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 3
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-003-1659763147/21a73f832f8966b97a58644e83a4abfe-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 4
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-004-1659763146/93778b7f142defce69624830156042bd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 5
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-005-1659763146/36b776f0dff935826e8670a133678e91-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 6
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-006-1659763146/cd446640fba8d4beaa786e10eeb90d84-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 7
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-007-1659763146/2a3f348a4f1816e21105a6cedfc89508-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 8
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-008-1659763146/bf7ce9f9224d0b9fd2002f5f895d01de-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 9
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-009-1659763146/b647f46e01185f358ab19860ba8cb97b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 10
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-010-1659763105/658be2c2df50b02cd58f946ce7779cfc-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 11
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-011-1659763105/ad8b33f51e3c87f8cb280fe3d154525f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 12
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-012-1659763105/5e3803ce17e756f962d350c7b73c434b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 13
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-013-1659763105/7590c543dcbd856958cba62b2066ef69-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 14
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-014-1659763105/8dc4cc0bb34a1aa08ae9a1447531d65d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 15
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-015-1659763105/fa12fedad581716b7d143659d5497d93-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 16
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-016-1659763105/2603ef5b59f99a2f5b3692d59a092b0f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 17
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-017-1659763105/eb2e839128bc7dcef7636bd34cc83c84-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 18
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-018-1659763105/f163ea208373cc163491ed5f417dc1e9-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 19
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-019-1659763105/a7b1addb06d019f2cd43f8e10d38228a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 20
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-020-1659763105/e01d96668e266768a4c935571ff5a3cb-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 21
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-021-1659763105/8acf06a3606c3aeec43e1cbf90ed3d1a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 22
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-022-1659763105/f21e315f66e7597a53056b385bda5967-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 23
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-023-1659763105/2220bbed4d5c4cd1be44409b825e7fe4-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 24
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-024-1659763105/75107af7a09085928a6445b51e961726-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 25
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-025-1659763092/55e544e4301fe78441239027608affa2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 26
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-026-1659763092/3a4f31b787a07357b8d811c86c7ecda3-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 27
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-027-1659763092/1cfc8280c18cdfa6f5ade59755aa05e0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 28
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-028-1659763092/584a0908255fa9424eb312d7e3086a46-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 29
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-029-1659763092/a74db9c1fa525c5af7e0a75cc1a138e6-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 30
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-030-1659763092/fac903da72c2cc7d23757da282411da5-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 31
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-031-1659763092/7f7e85d7f349b625abcebc54d10b65b2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 32
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-032-1659763092/a68577982ecb886d08e82ba4308074db-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 33
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-033-1659763092/3e3a2f065e53b68fb0f0199ac1df810c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 34
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-034-1659763092/653e8bbcb584e04193299615f4943568-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 35
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-035-1659763092/ec9864cf1d7775983830333e09cf0061-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 36
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-036-1659763092/3bc0b652f10e97078b83a5c3c1f78bb1-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 37
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-037-1659763092/ecfd32cc4902eeae95514e1d6760481a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 38
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-038-1659763092/a7f81ec64a54c1f2d7b772425cdfb653-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/08/03/vuong-gia-thien-ha-phan-2-fpt-play-1659497961242_Portrait_origin.jpg", Vương Giả Thiên Hạ (Phần 2) - Tập 39
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220806/kingdomseason2-2014-jp-039-1659763092/0d0116b5f6585c880e0b18eefe1f2d1a-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 1
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220218/kingdomseason3-2020-jp-001-1645181453/abdc249a996ed91705261ae679b69aa6-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 2
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220222/kingdomseason3-2020-jp-002-v2-1645523927/187302180ef5dc983b2efd663389a044-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 3
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220222/kingdomseason3-2020-jp-003-v2-1645523927/11b8b51342ed76581c1679b0e8716399-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 4
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220218/kingdomseason3-2020-jp-004-1645181453/cbf4860e61765a725efee4e579abde0b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 5
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220221/kingdomseason3-2020-jp-005-v2-1645434930/134b57dc6ba053e6a0cf67d0f5e0c44d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 6
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220221/kingdomseason3-2020-jp-006-v2-1645433625/cb0f80c87ec37b70ed7fe639c6ab7d6a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 7
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220221/kingdomseason3-2020-jp-007-1645433625/30f32769ea6004ae55574dc3743b9ad7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 8
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220221/kingdomseason3-2020-jp-008-1645433625/3fd8cad1a4d4b94da53a06ee075dfc94-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 9
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220222/kingdomseason3-2020-jp-009-1645522049/cc3c8a2b9f9d1a580b1312a07636a760-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 10
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220222/kingdomseason3-2020-jp-010-1645522049/1f3324cb151f56dac4c96a1b474290c4-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 11
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220223/kingdomseason3-2020-jp-011-1645607846/0b3d82122e13349e947798490cf10154-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 12
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220223/kingdomseason3-2020-jp-012-1645607846/ca246367040d6cdb519290aeae2ee41a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 13
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220224/kingdomseason3-2020-jp-013-1645693886/e384336e222b046ff058193b9c25632c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 14
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220224/kingdomseason3-2020-jp-014-1645693886/bab2cd52656246e6c2c3b1cf9003fc12-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 15
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220225/kingdomseason3-2020-jp-015-1645779397/6095ee763075f113b3bb6b242066208e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 16
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220225/kingdomseason3-2020-jp-016-1645779397/baa76cb47ab96a669e36be10c39e3691-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 17
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220226/kingdomseason3-2020-jp-017-1645891096/c72c6d3caef147e9c354ab2d84237be0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 18
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220226/kingdomseason3-2020-jp-018-1645891096/f271085e2337f173d8f428119277b422-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 19
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220228/kingdomseason3-2020-jp-019-1646056629/cb022bf55d8dbc3f9ed1a0029a253498-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 20
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220228/kingdomseason3-2020-jp-020-1646056629/a37d7ad24f83555b1f8975743a3afb65-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 21
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220301/kingdomseason3-2020-jp-021-1646141101/ff7369591e75713b9433f9bbc59a01ad-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 22
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220301/kingdomseason3-2020-jp-022-1646141101/6e5c1edf981b87d00a5e1722211215a1-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 23
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220302/kingdomseason3-2020-jp-023-1646226544/addbe82cb3c9a9656ea46d6abbe4b62a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 24
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220302/kingdomseason3-2020-jp-024-1646226544/dec315fefa98868eec175396ca7c283f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 25
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220303/kingdomseason3-2020-jp-025-1646303799/633728186f76130c34612e627b235874-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 3)" tvg-logo="https://images.fptplay.net/media/18_02_2022/kingdomseason3_2020_jp_b_26t_lg18-02-2022_22g00-54.jpg", Vương Giả Thiên Hạ (Phần 3) - Tập 26
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220303/kingdomseason3-2020-jp-026-1646303837/5663f0699ebfae0dd4b4f7526c29ad95-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 1
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220516/kingdomseason4-2022-jp-001-v3-1652685296/b57ed8cf6cf68ab4012a8ba15547b926-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 2
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220516/kingdomseason4-2022-jp-002-v3-1652685296/d211bfe6d36753e00bedc5222a8defc7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 3
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220516/kingdomseason4-2022-jp-003-v3-1652685296/8bcd49b562c83b7a963ee35e8ad605f0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 4
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220516/kingdomseason4-2022-jp-004-v5-1652695193/4145952ba05f6dbd41ec29e95b35d4e2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 5
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220516/kingdomseason4-2022-jp-005-v3-1652685296/acdb0f341d0bb2717e5fec2315d60cb9-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 6
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220613/kingdomseason4-2022-jp-006-new-1655126089/f7c9844da178f8277cb284cba4cc8e9b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 7
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220613/kingdomseason4-2022-jp-007-new-1655126089/0060d59c7ebee0e72543bf9559c547b6-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 8
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220607/kingdomseason4-2022-jp-008-v5-1654570556/6f40170cc2a7d98436f0a9156430b36e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 9
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220626/kingdomseason4-2022-jp-009-v3-1656176788/e28f0c667c93767f694a4c87971f0f2e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 10
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220613/kingdomseason4-2022-jp-010-new-1655126089/38ec3edeb302cb34c82f82471e20ecf9-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 11
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/kingdomseason4-2022-jp-011-v2-1655712410/3deba8453469c1373314954bd19ac450-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 12
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220627/kingdomseason4-2022-jp-012-v2-1656316170/4dce56cd95d64e2f20429815240347a1-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 13
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220704/kingdomseason4-2022-jp-013-v2-1656930611/a39ca7a4ec812fbd2e4ef2635419c39e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 14
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220711/kingdomseason4-2022-jp-014-v2-1657536314/2bd3f05fb03a0cce2fedc8f39734f7de-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 15
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220725/kingdomseason4-2022-jp-015-v4-1658756288/059559929998dd97707f5c1449a375e2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 16
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220725/kingdomseason4-2022-jp-016-v4-1658756288/746e1946e9d1dbcd6b994a18c3b30c77-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 17
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220804/kingdomseason4-2022-jp-017-v3-1659626212/a3722a4b5811bf181aa2467631a2652e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 18
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220822/kingdomseason4-2022-jp-018-v9-1661175033/0977cb39d0135bcb494d44ccbe4f70d7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 19
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220817/kingdomseason4-2022-jp-019-v6-1660732544/ba66ff3beeb5011dd3f9aa0fa32dec7c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 20
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220822/kingdomseason4-2022-jp-020-v9-1661175032/76a323dd6af7dfd2d40ab24548e27982-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 21
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220903/kingdomseason4-2022-jp-021-1662214789/51ea94a0119cb4ebbca563a251561d28-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 22
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220916/kingdomseason4-2022-jp-022-checked-1663322531/3abf2f17de5d39ef5d0b504116d233ed-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 23
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220916/kingdomseason4-2022-jp-023-checked-1663322531/986bab6d2e5bb40b91f77715320e1442-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 24
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220929/kingdomseason4-2022-jp-024-v2-1664464407/51aba05ca2a9b557ad155b8911479197-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 25
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220929/kingdomseason4-2022-jp-025-v2-1664464407/2b7719b1a276844981b5c8f48d9d60f7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vương Giả Thiên Hạ (Phần 4)" tvg-logo="https://images.fptplay.net/media/10_04_2022/kingdomseason4_2022_jp_b_26t_lg10-04-2022_10g10-54.jpg", Vương Giả Thiên Hạ (Phần 4) - Tập 26
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221003/kingdomseason4-2022-jp-026-v5-1664789880/a46993cdfb995f715a3c9828e2939243-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 1
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-001-1677561601/692bc12a851371b1fbf7c292ef92c070-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 2
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-002-1677561601/7448e9564e8a9c5dc1b253f4ea2b16b2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 3
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-003-1677561601/6bd7461ff36358a648d408fd70f8875c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 4
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-004-1677561601/8f47a6af084bd3724c815f8afce1f74e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 5
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-005-1677561601/f646346e4beea0329d697b8ec1eb607e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 6
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-006-1677561601/10312208155e52040e8edd2901b34b15-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 7
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-007-1677561601/4a92f002261a368d89e547670ef5fc82-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 8
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-008-1677561601/d7867a0931e355dfa7dcde6e2cd1ff69-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 9
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-009-1677561601/00b3b6b13f60e5f91e2222e6f16e9e62-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 10
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-010-1677561601/9c279184b95d618dfd3f5d6ae2ea7375-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 11
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-011-1677561600/d16836c583c5e38d62cb555a18f6f73b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 12
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-012-1677561588/8e3f037efb3d45adc1804d481e87a697-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 13
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-013-1677561588/24b3cd0e31cf9ac3e844ca5f28a966aa-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 14
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-014-1677561588/d689156323412018bf9b1ee6e8486e32-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 15
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-015-1677561588/9513dfacb3b97d4b721731d7b7677205-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 16
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-016-1677561588/9b2fc5098221bb4b7f3c8bee8ae3a57b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 17
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-017-1677561588/d7ef9fc82a15160544908ce090c5a8e5-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 18
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-018-1677561588/6b475378b6c347210d580d24a86e9d8d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 19
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-019-1677561588/7e749ebc63d6c3c0869169dd2e3a7792-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 20
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-020-1677561588/e25dbc10c7a67fa02cadfabea636c9c4-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 21
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-021-1677561588/b92197b11331b73b9a7c4522ed17c318-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 22
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/inazumaelevenares-2018-jp-b-26t-022-1677561588/a1f431cdbb2288b159ea71d036092ad6-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 23
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/inazumaelevenares-2018-jp-b-26t-023-v2-1678180718/841c4920bbba6ef5ff240299ce12f08f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 24
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/inazumaelevenares-2018-jp-b-26t-024-v2-1678180718/2ed05dddc12070ed5f2e3a479d4b94b7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 25
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/inazumaelevenares-2018-jp-b-26t-025-v2-1678180718/976e7d0d6759a5595aa1f17b30c3faba-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/28/doi-bong-sieu-nang-luc-can-bang-thai-cuc-fpt-play-1677558222778_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Cân Bằng Thái Cực  - Tập 26 - Tập cuối
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/inazumaelevenares-2018-jp-b-26t-026-v2-1678180718/a7aff46516160b7f016c9337bfef5979-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 1
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-001-1681268518/b27483661f90d343d129a568a24dcb7e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 2
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-002-1681268518/9b248c2818252d7ab9bfaa2c3b3c0da5-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 3
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-003-1681268518/63ffad34fbfbf872676fa6cc54571611-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 4
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-004-1681268518/2259c6e36473a327e88057640ae6e599-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 5
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-005-1681268509/72fdcb4a0dea08190b35492db9e78027-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 6
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-006-1681268509/e53ba2a7f97e577671cb6851fbbf5bb6-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 7
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-007-1681268509/bb5ac81e325cfb0f5362087250cb1104-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 8
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-008-1681268509/4e8c2747ce4024b10352503e6f274be2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 9
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-009-1681268509/3ff1007968c547c9bd6e24701219ad61-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 10
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-010-1681268509/1508b83c0af3cccf25c9a28b69dbf65d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 11
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-011-1681268509/e4b0adf73c546450302cb778afae6149-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 12
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-012-1681268509/90cf4b5d96d29e01b5f86aa2e7b9edfe-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 13
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-013-1681268509/947b6233e40af6e2187c8d415bd802e8-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 14
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230413/inazumaelevenorion-2018-jp-b-014-1681350634/a05f5155942db4fcfa70dbc446935f30-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 15
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230413/inazumaelevenorion-2018-jp-b-015-1681350634/cd7156f965eca6e5b3e655fe66c2c1ac-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 16
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230413/inazumaelevenorion-2018-jp-b-016-1681350634/20d4b0260ab8603a73acefebb05d12c9-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 17
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230413/inazumaelevenorion-2018-jp-b-017-1681350634/6d29840f953609aca10600224f6846df-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 18
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230413/inazumaelevenorion-2018-jp-b-018-1681350634/b325dfdbae7dfa486b9b1042f35ff74f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 19
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230413/inazumaelevenorion-2018-jp-b-019-1681350634/2c5b0c0d4844964b696d6f81f144b830-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 20
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230413/inazumaelevenorion-2018-jp-b-020-1681350634/11b91417b420644a113c91524d0e5dc4-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 21
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-021-1681268502/b6e6ae5039c745af04778c222aef395b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 22
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-022-1681268502/a2c073d47f5508a1fc6ff38b26c4fb55-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 23
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-023-1681268502/b10bb9bc22a0c40aa31383b2e07142b1-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 24
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-024-1681268502/34dd5c2f9cada4922d3968dbfc155183-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 25
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-025-1681268501/fcc6a4ccfc85d715a7abd33b9ef854fe-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 26
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-026-1681268501/254777692e1a697ffd38139c4b033a97-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 27
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-027-1681268501/5168a4a21836e9dd9020413b7eb4fa86-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 28
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-028-1681268501/81b44a42afbe238d86137dca9bbfc7c0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 29
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-029-1681268501/57b91ea8ed694c6b47853784e0b600f3-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 30
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-030-1681268501/5cbc51449905eb6ea57ecf42990e6959-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 31
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-031-1681268501/fbc3ccf825e3d998c51d68438b3865f0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 32
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-032-1681268501/2d4e43aa6f164edfe125979c6c422aca-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 33
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-033-1681268501/0ded644e7b79ed0d6bb4c30aba4241d6-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 34
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-034-1681268501/f33378d4e0f719aaf1e31502879f771b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 35
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-035-1681268494/9967fdaf973629b6f3505740dc9cd860-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 36
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-036-1681268494/88fd3c987b51cc667e63da8a52d6f4a7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 37
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-037-1681268494/6f4b7737964d4c668b5f66be7e6145ea-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 38
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-038-1681268494/44f31084aae61585a9d007d19e82bead-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 39
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-039-1681268494/3e737276f5557d74e1fdbaca7dd77226-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 40
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-040-1681268494/b4b636d9c67d2ec90c3016cd90f64788-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 41
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-041-1681268494/ec0724147a4efb3c5968a7f624cb26f6-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 42
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-042-1681268494/7a73cfb175ade7388bd4bb787a0a8305-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 43
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-043-1681268494/09afa3b9f27e318c4fb0801e8c16c6b8-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 44
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-044-1681268494/21f2f61521eee1e95e16e556d5b17078-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 45
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-045-1681268494/d36d1b872538acf84c9045bb6861b5c8-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 46
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-046-1681268494/85404ffd7740b810417ff838bd1ead86-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 47
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230413/inazumaelevenorion-2018-jp-b-047-1681350634/b259415d7e25c1d17ebdad897a901d5a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 48
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-048-1681268494/5ba73ebbb10e04dfaf30b766b210e302-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 49 - Tập cuối
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-049-1681268494/249d9a16b438df1e0ddcd2d8d807499f-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Tenki no ko (2019)" tvg-logo="https://img.ophim8.cc/uploads/movies/dua-con-cua-thoi-tiet-thumb.jpg", Tenki no ko - Tập 1
+https://kd.opstream3.com/20220318/1716_e8c9528d/index.m3u8
 
 
 #EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 1
