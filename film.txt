@@ -5091,6 +5091,30 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaeleveno
 #EXTINF:-1 group-title="Tenki no ko (2019)" tvg-logo="https://img.ophim8.cc/uploads/movies/dua-con-cua-thoi-tiet-thumb.jpg", Tenki no ko - Tập 1
 https://kd.opstream3.com/20220318/1716_e8c9528d/index.m3u8
 
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 1
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-001-1657094191/78ac4b0672664b11c6346ba34b446c5f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 2
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-002-1657094191/27e2d2f4630e1295c43b0aa7f974add5-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 3
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-003-1657094191/d048d2bd99ba2346b985e3b572558bae-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 4
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-004-1657094191/df623c25187d4f6aa4255f3e4c34705a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 5
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-005-1657094191/f0a257ca3d0504fcce7c7e9c35fbd801-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 6
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-006-1657094191/47fccdeb040d2d7bbe566340dc4c7814-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 7
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-007-1657094191/7a860cad728ac58a9a1b0d3d5a18a835-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 8
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-008-1657094191/2bcb96adca49a21d773f27c048ca22cc-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 9
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-009-1657094191/7ae61dcf6d1cb721b56928db29d02118-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 10
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-010-1657094191/d950572060b1065e349c9675419b60bd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 11
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-011-1657094191/75070f0f2deb5daaab7f5aab20b78fef-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 12 - Hết
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-012-1657094191/a636c0d48c2c4910d18e421210d473be-1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 1
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-001-1678191445/61497a2ae68cb2409633397221d66274-1080p.mp4/playlist.m3u8
