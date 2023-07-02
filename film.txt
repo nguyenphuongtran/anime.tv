@@ -3199,7 +3199,7 @@ https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220104/anime_paytv_ra
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220104/anime_paytv_rascaldoesnotdreamofbunnygirlsenpai_2018_ep11/8a5cb674889c110065bfb78d6f9f027d_1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Hội Chứng Tuổi Teen Và Cô Gái Có Đôi Tai Thỏ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/28/hoi-chung-tuoi-teen-va-co-gai-co-doi-tai-tho-13-tap-fpt-play-1664354302126_Portrait_origin.jpg", Hội Chứng Tuổi Teen Và Cô Gái Có Đôi Tai Thỏ - Tập 12
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220104/anime_paytv_rascaldoesnotdreamofbunnygirlsenpai_2018_ep12/42b885aef5effaa42edbb0620dc08070_1080p.mp4/playlist.m3u8
-#EXTINF:-1 group-title="6206389876ab67f3a6470a73" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/28/hoi-chung-tuoi-teen-va-co-gai-co-doi-tai-tho-13-tap-fpt-play-1664354302126_Portrait_origin.jpg", Hội Chứng Tuổi Teen Và Cô Gái Có Đôi Tai Thỏ - Tập 13
+#EXTINF:-1 group-title="Hội Chứng Tuổi Teen Và Cô Gái Có Đôi Tai Thỏ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/28/hoi-chung-tuoi-teen-va-co-gai-co-doi-tai-tho-13-tap-fpt-play-1664354302126_Portrait_origin.jpg", Hội Chứng Tuổi Teen Và Cô Gái Có Đôi Tai Thỏ - Tập 13
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220104/anime_paytv_rascaldoesnotdreamofbunnygirlsenpai_2018_ep13/a46ae09ceeca63f69d7f216af138d56d_1080p.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Bạn Thuở Nhỏ Sẽ Không Thua" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/04/2-osananajimi-ga-zettai-ni-makenai-love-comedy_portrait_revised04-05-2022_16g30-47.jpg", Bạn Thuở Nhỏ Sẽ Không Thua - Tập 1
