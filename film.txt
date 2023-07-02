@@ -4278,3 +4278,531 @@ https://vod-cdn01.danet.vn/AVOD/MUSE/CautiousHero/CautiousHero_11/CautiousHero_1
 #EXTINF:-1 group-title="Anh Hùng Thận Trọng" tvg-logo="https://images.danet.vn/images//src/486/5a/cf98381237eceb87ef4fe9c48fdf2db5.jpg", Anh Hùng Thận Trọng - Tập 12
 https://vod-cdn01.danet.vn/AVOD/MUSE/CautiousHero/CautiousHero_12/CautiousHero_12_720p.m3u8
 
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 01
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep01/af026bac5844e21ed0a5814b2005cc8a_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 02
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep02/d4cef1925f4ca861cce5017680a2c63e_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 03
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep03/ae87681fadbcdd4d70a5d036ad3012e0_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 04
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep04/51e50702428c3a6fae225a71966a3cdb_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 05
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep05/b4eece204fe19aa351020995d01c0b75_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 06
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep06/04bf489a7aa67fd66017bc1b4c453c68_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 07
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep07/24cbdf5fba0cb3f4129cbb7134c9f523_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 08
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep08/8be425075bc581500ce24edf97e9bc21_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 09
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep09/2da482b4ad4135309be5d537afbd5895_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 10
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep10/a1e814a2da5979b860e21fa347027094_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 11
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep11/6693e7ee7fbe2dec84370c0b8c932f90_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Vùng Đất Thây Ma (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/19/vung-dat-thay-ma-phan-1-fpt-play-1663581121438_Portrait_origin.jpg", Vùng Đất Thây Ma (Phần 1) - Tập 12
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211120/anime_paytv_zombielandsaga_2018_jp_b_12t_ep12/5b0640929acaa6a7089a64fbc1da95be_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 1
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-001-1655712410/1b1e0c5454fac175040bfd979706cb93-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 2
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-002-1655712410/4ef163b7d28d66ed6cb6b40cf69614c9-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 3
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-003-1655712410/7e42dc29047c19b10a9540f55e8b9073-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 4
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-004-1655712410/553e113745c6aa0783c1cba802604905-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 5
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-005-1655712410/09bf1495ab0e7467c2f928d79f924b2e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 6
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-006-1655712410/5f23ea7a6c04310c95fde9cb3d0feef1-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 7
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-007-1655712410/bd5090148cc319d3788ebece93af33f4-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 8
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-008-1655712410/bf43670e289ddceda567ab22d814b0b3-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 9
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-009-1655712410/94f7ed5d917b5436bd3c8d73a28f263d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 10
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-010-1655712410/13affa14ca0453132d3dc8ad669aabf9-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 11
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-011-1655712410/5e35b7a05be5d9ff6b58eccff0de53e0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 12
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-012-1655712410/53e1ea6652f4810d66a09b0ed1f27db2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Nơi Xa Vời Hơn Cả Vũ Trụ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/aplacefurtherthantheuniverse_2018_jp_b_13t_lg15-07-2022_09g30-39.jpg", Nơi Xa Vời Hơn Cả Vũ Trụ - Tập 13
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220620/aplacefurtherthantheuniverse-2018-jp-013-1655712409/dd1c75b4a41214d458e057b67620012d-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 1A
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep01a/73f0c17970d9976f5e9ede7db0dbea33_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 1B
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep01b/5ad4f603f77dfa9d167c2c0ba51e387f_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 2
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep02/460a0088c36163be27d6bf6fe31c8c66_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 3
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep03/54e2b268b7976a03fcb7aacc1d8f8ef3_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 4
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep04/220e16a931b02bd2309f0ed30ed4ecbb_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 5
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep05/91a14a23fc0b7e177c497ca7f10457f4_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 6
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep06/864e0dc0eaf7c41fe8dbe3a5e3fde669_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 7
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep07/c69b3aecc763b116ddcd61e44e501279_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 8
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep08/5a65cb8c7b3290567c2239a90e7fc529_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 9
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep09/464120b9f4516f4c8dbaf64a1195d6df_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 10
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep10/be3d85be9d4bc2ab46815e3843dbc424_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Trò Chơi Sinh Tử" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/06/07/tro-choi-sinh-tu-fpt-play-1686108016824_Portrait_origin.jpg", Trò Chơi Sinh Tử - Tập 11- Hết
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210603/anime_muse_darwinsgame_ep11/88fa6846f80a8075b5940f52bbf03963_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 1
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200418/anime_anione_gleipnir_2020_ep01/33ecc4ff87753c8b6ce12c06570e351e_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 2
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200413/anime_anione_gleipnir_2020_ep02/ad9f63bfb1edf5db8446bbdcd75d80d2_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 3
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200418/anime_anione_gleipnir_2020_ep03/eb4a0cb99f48943ff38a6c6e8eebc13f_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 4
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200426/anime-anione-gleipnir-2020-ep04/26177a96dba75aeeffb4d9539bcd0d8f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 5
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200503/anime_anione_gleipnir_2020_ep05/4291bf7521be183ddd02c9c42c6207d1_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 6
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200511/anime_anione_gleipnir_2020_ep06_v2/5750dd5916b2f7d568f102639fa8a934_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 7
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200517/anime_anione_gleipnir_2020_ep07/01a8598fe7db1dca59a5300595fe13ac_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 08
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200526/anime_anione_gleipnir_2020_ep08/b7e95736c0c5ad06ca62b7b1b903865a_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 09
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200531/anime_anione_gleipnir_2020_ep09/96c1b167120aa8b7c6af6ce97b896815_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 10
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200607/anime_anione_gleipnir_2020_ep10/9bb8d4885df8da3c82c2892c11ed34cf_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 11
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200614/anime-anione-gleipnir-2020-ep11/caec5d6c74f7ab8e1e6aadeafc084474-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 12
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200621/anime_anione_gleipnir_2020_ep012/ba12abfa237ac418dc097f24f3f2ef5f_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sợi Xích Thần" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/30/soi-xich-than-fpt-play-1669779808648_Portrait_origin.jpg", Sợi Xích Thần - Tập 13 - Hết
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200628/anime_anione_gleipnir_2020_ep13/3aecdc603f678b621a3ce6697359ff23_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 1
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-001-1672279012/737abd1477f404c3bbd05f6a4afd7c7f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 2
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-002-1672279012/6687f6f12ba5e40315afee737fb12bde-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 3
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-003-1672279012/5de4636ac0121ec71dbf8733565ed6af-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 4
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-004-1672279012/c3bc473e218e380a3ac4ceb7bbe64988-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 5
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-005-1672279012/2d940e091d8f6f0c1604f1bb952102ab-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 6
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-006-1672279012/c029945a6b6d0d38b4d471949b784fb5-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 7
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-007-1672279012/11b4d0c876cb25d97e8fec57656d9c6b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 8
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-008-1672279012/5e7ab0ef68f1d348a8c46849e4f1d241-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 9
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-009-1672279012/d2cdf784bd8e1e00595dfcd365dc2f08-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 10
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-010-1672279012/aeea26d453957b71b7c2de0b06ee0964-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 11
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-011-1672279005/c8942f047aa0d564fc6ff34f9bf4d913-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 12
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-012-1672279005/e3e1524a2fdff594869cb83636d4f476-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 13
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-013-1672279004/7139c63528312eb8a76a66bfdd9e3be1-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 14
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-014-1672279005/931a96ab86db86bde00422d6f3422a5e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 15
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-015-1672279004/b420aa70cd34311fbdab315d20330d9d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 16
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-016-1672279004/121cfa2b99cf04e6148378eb80391d8e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 17
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-017-1672279004/fc51bc20cec53650ddc7e967d0c0c3b1-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 18
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-018-1672279004/4aaad112d76445131a945c9c5248a3c2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 19
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-019-1672279004/80a590db972b013b739b7a3ce6b13c86-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 20
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-020-1672279004/9ceb01f61f9d34009cd4786d9ed65f4f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 21
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-021-1672279004/89f420444fc7cebe080d00c0b3f478ab-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 22
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-022-1672279004/a69e01ffc74780a17aa4c69e1d1198bb-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 23
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-023-1672279004/def0787b42e6fb7c41d7e6ebda793401-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 24
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-024-1672279004/ab4eb1f76ee6fd7ad98b26324681a969-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 25
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-025-1672279004/897e95922fdf271e592d4436a00d2141-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 26
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-026-1672278994/9ec5df696fd849620634b4a6458044ad-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 27
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-027-1672278994/56f945f4261403b329fa151ebe2387ac-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 28
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-028-1672278994/fabadd5342d1c69f973b892cdfb87860-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 29
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-029-1672278994/dcaf08a127f242a54b96f4c795bce25f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 30
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-030-1672278994/0e5a66e5654cc057c785cf5e410c7522-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 31
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-031-1672278994/bf1a06862121705e2624e418414d9f88-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 32
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-032-1672278994/bba7350a8fb2de52d15f638eb533ea0b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 33
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-033-1672278994/fc8fb47ce21a1d941f839c346961cdcd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 34
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-034-1672278993/f84c290f6b897d96bc2e71ccfd3bf8c4-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 35
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-035-1672278994/1e3deb073255e7f6819651879fbf20bd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 36
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-036-1672278993/d56ed92616e5c29fda0c5d63c77850a3-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 37
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-037-1672278993/a0d4efe112cf7827b403c889578ff278-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 38
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-038-1672278993/aa5b930e6caeaa72287a2800c5623af7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 39
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-039-1672278993/9ed39d6136861f845b5b67857a63eefb-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 40
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221229/cardcaptorsakura-1998-jp-040-1672278993/e1d817df61e698dc5e89560d29b80baa-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 41
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-041-1672214914/89b59b3395aec13d274fd050e2577c91-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 42
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-042-1672214914/2cacf462221ec327d866ae664e16aa76-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 43
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-043-1672214914/6b0025e6783ae4464ae8ddfb90294236-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 44
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-044-1672214914/044f59994668f67002b54d8a61c10881-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 45
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-045-1672214914/5e2df333837606a77e061208fe64a340-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 46
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-046-1672214914/89f909ba873226c6f857d7028bfe4c6f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 47
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-047-1672214914/e530119be44079331d2526bd839bd0d3-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 48
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-048-1672214914/3e19979067eb4d3a88a3f93747d2a1af-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 49
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-049-1672214914/a0c08c5e523315fa8c8ab2d1493990d0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 50
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-050-1672214914/4b456bd7a5c05323bb241989b8af3caf-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 51
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-051-1672214914/c5388da1f034fccb9caf9e167273d3cd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 52
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-052-1672214914/f669d416c22328336c760c17ec8b49e1-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 53
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-053-1672214914/2fde97b5cc26423943f41e131d2f7f6e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 54
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-054-1672214914/ff868f62db6f9ed07d27d02fb287bbb0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 55
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-055-1672214914/eb78a54b14646a98b2e88c3ae2bea24d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 56
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-056-1672198652/a7709b8cd130ac0aaa416ca828260880-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 57
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-057-1672198652/57ebfd7e35104a6a262e294186337270-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 58
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-058-1672198652/abcc45ff03b8a09a4092d79ad143b17a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 59
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-059-1672198652/22a0cd82706e602655f33b444904583c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 60
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-060-1672198652/4054eb17c2b7dbe0f427e8cdbea504ce-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 61
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-061-1672198652/6b6a128f64ccb35f69202ef896bef2bc-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 62
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-062-1672198652/49157204c7c530dfb9a06a5ae597b6cb-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 63
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-063-1672198652/6236d499201c194306e4e009dd25e36d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 64
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-064-1672198652/72967126514029db3a42b6ad9fa3f444-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 65
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-065-1672198652/0dfbdab0b2187249a54149e7b4af9823-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 66
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-066-1672198652/149336413d10763094aca5ebbd5d868f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 67
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-067-1672198652/ca6e88a18a0e5a20e41ca4d30fcb9cbd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 68
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-068-1672198652/9e8a4d8dcf05f7f840aac2fbc18c6481-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 69
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-069-1672198652/79c1dfce34aa2cfa94aad1ed78489a7f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Sakura - Thủ Lĩnh Thẻ Bài " tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/30/sakura---thu-linh-the-bai-70-tap-fpt-play-1653877550577_Portrait_origin.jpg", Sakura - Thủ Lĩnh Thẻ Bài  - Tập 70 - Tập cuối
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221228/cardcaptorsakura-1998-jp-070-1672198652/c4f4d4c2d75950aa5c9d5f5b4604e65f-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sakura Thủ Lĩnh Thẻ Bài: Clear Card Arc - Prologue (2017)" tvg-logo="https://img.ophim8.cc/uploads/movies/thu-linh-the-bai-sakura-thumb.jpg", Sakura Thủ Lĩnh Thẻ Bài: Clear Card Arc - Prologue - Tập 1
+https://aa.opstream6.com/20220603/17235_2dd87c78/index.m3u8
+
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 1
+https://1080.opstream4.com/20230630/45472_6f9da0de/index.m3u8
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 2
+https://1080.opstream4.com/20230630/45473_43d7c999/index.m3u8
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 3
+https://1080.opstream4.com/20230630/45474_1cdd5cf3/index.m3u8
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 4
+https://1080.opstream4.com/20230630/45475_c6bf3990/index.m3u8
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 5
+https://1080.opstream4.com/20230630/45476_c5c388d0/index.m3u8
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 6
+https://1080.opstream4.com/20230630/45477_02db16f3/index.m3u8
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 7
+https://1080.opstream4.com/20230630/45478_939b3b2d/index.m3u8
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 8
+https://1080.opstream4.com/20230630/45479_7aa94cb1/index.m3u8
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 9
+https://1080.opstream4.com/20230630/45480_a2a92b01/index.m3u8
+#EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 10
+https://1080.opstream4.com/20230630/45481_b6e08945/index.m3u8
+
+#EXTINF:-1 group-title="異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ - Tập 1
+https://1080.opstream4.com/20230404/43182_3ab83604/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 2
+https://hdbo.opstream5.com/20230425/34274_0c5fdf9c/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 3
+https://hdbo.opstream5.com/20230425/34275_3b95ff82/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 4
+https://hdbo.opstream5.com/20230502/34528_343b0c65/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 5
+https://hdbo.opstream5.com/20230502/34529_c44a8526/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 6
+https://hdbo.opstream5.com/20230509/34564_7541d7e5/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 7
+https://hdbo.opstream5.com/20230516/34586_4144bd1b/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 8
+https://hdbo.opstream5.com/20230523/34624_b15c825d/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 9
+https://hdbo.opstream5.com/20230530/34661_7bfa09f6/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 10
+https://hdbo.opstream5.com/20230606/34698_f71adc76/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 11
+https://hdbo.opstream5.com/20230613/34723_a7772aa2/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 12
+https://hdbo.opstream5.com/20230620/34765_df65c888/index.m3u8
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 13
+https://hdbo.opstream5.com/20230629/34783_3612d110/index.m3u8
+
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 1
+https://1080.opstream4.com/20230107/41032_271e32ec/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 2
+https://1080.opstream4.com/20230114/41546_8ccff806/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 3
+https://1080.opstream4.com/20230121/41868_0122f2f5/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 4
+https://1080.opstream4.com/20230128/42029_0766de82/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 5
+https://1080.opstream4.com/20230204/42327_2c50e1a9/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 6
+https://1080.opstream4.com/20230211/42766_8805ab4b/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 7
+https://1080.opstream4.com/20230219/42869_2402214c/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 8
+https://1080.opstream4.com/20230225/42909_ad4d71e5/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 9
+https://1080.opstream4.com/20230304/42952_b0717b2e/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 10
+https://1080.opstream4.com/20230311/43047_a06f16cd/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 11
+https://1080.opstream4.com/20230318/43092_1ceb5627/index.m3u8
+#EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 12
+https://1080.opstream4.com/20230325/43133_cb3d2c79/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 1
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-001-1678191445/61497a2ae68cb2409633397221d66274-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 2
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-002-1678191449/b13ca578ebf7fe6ae4c7d7efd4797e42-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 3
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-003-1678191454/a33d8fc58bc09ab7bca98732fc7c7389-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 4
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-004-1678191459/0f6d741deb87d4167ba19a2749f88f94-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 5
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-005-1678191464/ae61ccdc2b30808407ed37447aa8cf36-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 6
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-006-1678191476/46a71b078044ab3bf236d86b4c76a05e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 7
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-007-1678191481/049eed2a62d9e3e5743536fbab245b6e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 8
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-008-1678191486/3a0f3f64c96ae8131f809425f5dcdcab-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 9
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-009-1678191490/71778c24116418e0ce5e99c6ad65f91b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 10
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-010-1678191494/10eae797fc0f54b28ad99a5699451c4e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 11
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-011-1678193625/ea2cfb8c51bcc7375d0f572c5da5bbeb-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 12
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-012-1678193633/2e397fba123c1ea8d6a3a1a58b8f5c29-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 13
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-013-1678193638/705681c8a464de2553cd47e1870c37e1-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 14
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-014-1678193647/a18d8c511a0eb5edb4de1bc9403fa157-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 15
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-015-1678193652/33a7fcde7488987bd75270247ab5043e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 16
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-016-1678193657/a13185c59426963f77c6649d3d34a094-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 17
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-017-1678193663/bc238d7102cd1a7b351bdbe8acfa506d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 18
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-018-1678193667/a3ff0964e776eec44b612a292f972bd2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 19
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-019-1678193672/fb53b95a7a369c501ad966b14dfd6827-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 20
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-020-1678196838/11689b5555f255df54d3f40323445b67-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 21
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-021-1678196842/90a0442bff7599d4db68ce5d9194a07d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 22
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-022-1678196847/e8f3a5ce773ed9f7304a75d90731327a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 23
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-023-1678196851/937c2f31ada11b16852851bfc72efd16-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 24
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-024-1678196856/7527c6b0074a4e27a67c240cbcd7513b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 25
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-025-1678196860/b5746af49d1ac5da1f7a45b1fbefbf79-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 1
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-001-1678694809/989bc0583f21e0d406b5a322656b9a2c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 2
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-002-1678694840/0f6eaa43a3697542a49aec2707577154-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 3
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-003-1678694844/fa65812e83e160d0fad1b8ebc07b5ef8-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 4
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-004-1678694853/02208e378990ab41a701b8a331cc6e6e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 5
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-005-1678694859/a8b60335074e289cb6f8c41824b0a25a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 6
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-006-1678694887/9367e19439ec325b0ef77564598073e9-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 7
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-007-1678694892/3bf83cb879c4cb3a53e7948c7a08a468-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 8
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-008-1678694934/04cf40d67adc2ffcb089c2bbbfed85c8-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 9
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-009-1678694939/78658ee21555366b132a7ca132592999-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 10
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-010-1678694966/f92ee64dbccb1057da493aff85e40054-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 11
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-011-1678694946/c698fd14f5d2fb374856e5c52c0be75a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 12
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-012-1678694975/cfe9f10de8a5a25f6b9f219f8afc3996-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 13
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-013-1678694952/e846c6aa6317715d161595ae6566d37a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 14
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-014-1678694981/aed0d0c12a903bd19046b5a8c25c8d53-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 15
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-015-1678694988/a87f701e6cafe2726c2c1444a1cd3700-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 16
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-016-1678694984/8d4827e8b48fdb57c58da5a45c75cc47-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 17
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-017-1678696098/837bdaae0ec858e3f3cc4f9bee84e2ff-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 18
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-018-1678696107/b12e762338b3f6f061cb11747cf6cd62-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 19
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-019-1678696111/cc22507f89c2f522e507e4beb0c3092d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 20
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-020-1678696116/d1c0012fb63fb5171ce4a2a46ce29435-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 21
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-021-1678697179/4ebcbc80de71cde24a7a218d4e8418b0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 22
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-022-1678697184/c12bcc8fac14b7645d1ad3fe3a889c5f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 23
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-023-1678697189/22ccf9c22fd47f248b3cab126de3db46-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/10/dao-kiem-than-vuc-phan-2-fpt-play-1678434274996_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 2) - Tập 24
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230313/sword-art-online-ii-2014-jp-1080p-muse-024-1678697193/3eed3b13ae455818834960d001d0bb95-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 1A
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2018_ep01_a/7d3a81bcc1a6e7d6bdbc9f7c7f5ddbdd_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 1B
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2018-ep01-b/662633731b78716032364c53040f3e6a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 2
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2018-ep02/dfdb099892e445562e14652736704abf-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 3
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2018_ep03/6c2c53dc68b4c671c674538b8af95cc0_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 4
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2018-ep04/febc971baca78a866fed53780ca48447-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 5
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2018-ep05/792e38c8bac6903ceb17ad852495b79b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 6
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2018_ep06/2fe2ce2c94bcde8cd243958c9108a578_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 7
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2018_ep07/5d99132a007f963043caa5b430bb678c_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 8
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2018-ep08/e25a8b08d8de93be8cce73f8938fe1a2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 9
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime-muse-saoss3-2018-ep09/3ac935ea00bc56f60040259237e09336-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 10
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime_muse_saoss3_2018_ep10/51263f2bfa6a59ae7a7db81c6a666564_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 11
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime_muse_saoss3_2018_ep11/4f0d8f2d1766b4cc28d310cd67e184af_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 12
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime_muse_saoss3_2018_ep12/85e2532bb2a4249005248cf81f0b3fcf_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 13
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime-muse-saoss3-2018-ep13/7d14685ed372c2d30faadc3523f98ab7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 14
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime-muse-saoss3-2018-ep14/b0ae38d6d0111dbe61df3a448375c8dd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 15
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime-muse-saoss3-2018-ep15/ec53679d8515471bb5eff2c55d1870bd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 16
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime_muse_saoss3_2018_ep16/834661525f1f4bf91414ef58e3a63a79_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 17
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime_muse_saoss3_2018_ep17/db5656a822f2c786825377535b2f5276_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 18
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime-muse-saoss3-2018-ep18/e28256ead1b1272b872fdb048d25984c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 19
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime_muse_saoss3_2018_ep19/1aeeca07d36b1eb613eccd58ea5aab2b_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 20
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime_muse_saoss3_2018_ep20/7720b2dfce048ea688ef60cefe913432_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 21
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime-muse-saoss3-2018-ep21/ac5fd84c678e10f7abfa4172f3795f17-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 22
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime-muse-saoss3-2018-ep22/cb56f6617536df78bb3f543b028fdb18-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 23
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200902/anime_muse_saoss3_2018_ep23/a6e37cbacd1bb2d3b2cf0fd77bdbcb78_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 3)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/03/dao-kiem-than-vuc-phan-3-fpt-play-1667470769826_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 3) - Tập 24 - Hết
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200904/anime_muse_saoss3_2018_v2_ep24/7c9e0b076dc54811cc47cdda1269c56a_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 1
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2019-ep01/13539bd729f1586d85606158c1737b8e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 2
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2019_ep02/7f3d79996cdb9c9f8d750d7e4fb60fc5_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 3
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2019-ep03/91f1927ab84196877111641d67d7ee47-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 4
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2019_ep04/1bdc397c199fac077ef131b685eed48e_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 5
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2019-ep05/86e163c0c727712dc4945c29ee66b1f6-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 6
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2019-ep06/7bb1490a59c9eee3672ac4f7e8cbed8d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 7
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2019_ep07/68d3ded401fe606012ac0512c6485d31_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 8
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2019-ep08/2a94018b541c81fa8c2ccaf72065768d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 9
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2019_ep09/660ce3f5453e573fa95a6526636ea604_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 10
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2019-ep10/2a6a4c8dedec7ace34eeeacabac18cbe-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 11
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2019_ep11/26299da4e831aa17e6e08e86c57bc4a8_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4A)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/07/dao-kiem-than-vuc-phan-4-fpt-play-1667804105606_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4A) - Tập 12
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime_muse_saoss3_2019_ep12/8cd6dd68924d6636049a694090673c72_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 13
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/anime-muse-saoss3-2020-ep13/ac19059f9490d28140ad6295e35f158c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 14
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/anime_muse_saoss3_2020_ep14/2aed847ce9dead2f2fc579fcaae9449f_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 15
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200901/anime-muse-saoss3-2020-ep15/a95cdb32e3e50f836911a8fb670e0672-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 16
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/anime_muse_saoss3_2020_ep16/3abcc632977ad6dbd7513471c4b8b265_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 17
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/anime-muse-saoss3-2020-ep17/e30fd4f963f84f39c1122759f009f43e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 18
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/anime-muse-saoss3-2020-ep18/52eb906c71f299b1c0c6f7a6b42f62f6-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 19
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/anime_muse_saoss3_2020_ep19/8fd02e46a7ee3a7d48552fe48765d68f_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 20
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200904/anime_muse_saoss3_2020_v2_ep20/5fae9fed8e47d00c7b401a964aaa85a7_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 21
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200907/anime-muse-saoss3-2020-ep21/c5e1e496e092234f6027789bf7816a97-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 22
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200914/anime_muse_saoss3_2020_ep22/9c2b2b472204ce44e495d33a2b62c661_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 4B)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/09/dao-kiem-than-vuc-phan-4b-fpt-play-1667960334631_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 4B) - Tập 23
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200921/anime_muse_saoss3_2020_ep23/a1812699ceb05f7a424dfbbeec364fe1_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Đao Kiếm Thần Vực: Tập Đặc Biệt  - Sword Art Online Extra Edition" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/01/11/11/35a2c35e/35a2c35e-8750-480b-aa05-dff81ba1056b_640_360.jpg", Đao Kiếm Thần Vực: Tập Đặc Biệt  - Sword Art Online Extra Edition
+https://vod-zlr2.tv360.vn/video1/2023/01/11/11/577b6f50/577b6f50-1da7-44e0-a10a-342ed7fe2a5b_5_.m3u8
+
+#EXTINF:-1 group-title="Belle: Rồng và Công Chúa Tàn Nhang - Belle" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/02/15/1675325089866/f532cda7837c_640_360.jpg", Belle: Rồng và Công Chúa Tàn Nhang - Belle
+https://vod-zlr2.tv360.vn/video1/2023/02/01/14/d1ce3b80/d1ce3b80-8cb8-4431-a665-9fe8a8041dde_5_.m3u8
+
