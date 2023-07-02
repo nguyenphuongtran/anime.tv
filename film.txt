@@ -4599,6 +4599,81 @@ https://1080.opstream4.com/20230318/43092_1ceb5627/index.m3u8
 #EXTINF:-1 group-title="SỐ PHẬN CỦA VỊ HÔN THÊ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/endo-and-kobayashis-live-commentary-on-the-villainess-thumb.jpg", SỐ PHẬN CỦA VỊ HÔN THÊ - Tập 12
 https://1080.opstream4.com/20230325/43133_cb3d2c79/index.m3u8
 
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 1
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-001-1646919280/a0561a3ac7f2ea8b02ccd2a6123ba356-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 2
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-002-1646919280/27a703d58b9200e5641a49fb4b82eb37-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 3
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-003-1646919280/9f76255a99286aaeb089aa7b47cb893f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 4
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-004-1646919280/dc97f7a9e7eb2cbcf64ae4449788a12d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 5
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-005-1646919280/7767e9235bda751e41b76b43e1154d79-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 6
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-006-1646919280/375841028f7180bec36ca2778096359c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 7
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-007-1646919280/05b629ac6c04917039be9d5bd95f31e7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 8
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-008-1646919280/636daef13be360ac93928cab77bb61a0-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 9
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-009-1646919280/0331403dde601a013be9751fedb00632-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 10
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-010-1646919280/8773f855e9fd5505ac0a9956268aa577-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 11
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-011-1646919280/966a87d7045d69504281c37ddb554536-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 1)" tvg-logo="https://images.fptplay.net/media/09_03_2022/theunparalleledblackandwhiteseason1_2015_cn_b_12t_lg09-03-2022_16g51-31.jpg", Hắc Bạch Vô Song (Phần 1) - Tập 12
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220310/theunparalleledblackandwhiteseason1-2015-cn-012-1646919280/6b226f6fa6866090f5d0c16be1602dc9-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 1
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-001-1647606530/97e916b313cfe97274ab6580be6ebec8-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 2
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-002-1647606530/41d43767df55616a647261c120155e5e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 3
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-003-1647606530/f366f54fb276cbfa6d0f3cfaa2905d3a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 4
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-004-1647606530/2a78e41f974d5fa2e090ce4450a16fce-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 5
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-005-1647606530/0abe175381568f45152dffc148ee6a7a-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 6
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-006-1647606530/3dddd4c4b190f63c7329f034dec4977d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 7
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-007-1647606530/ed5a007fe7462c88c526a15a9a67063c-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 8
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-008-1647606530/6c52eeb3c80226b9c4f946fca552e0ab-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 9
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-009-1647606530/2776f364ef24375fa2a969fed4d53361-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 10
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-010-1647606530/8077ff13f61dc76a3d5badb6d9e8763f-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 11
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-011-1647606530/ce9202805d7eb4476739a1567878e07d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 2)" tvg-logo="https://images.fptplay.net/media/14_03_2022/theunparalleledblackandwhiteseason2_lg14-03-2022_16g03-32.jpg", Hắc Bạch Vô Song (Phần 2) - Tập 12
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220318/theunparalleledblackandwhiteseason2-2017-cn-012-1647606530/5ce1e717400cceb67f0d3d41f43ec9e6-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 1
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-001-1648028334/dc348b6a86e50d1ed13fa8b9463b5fdb-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 2
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-002-1648028334/3102146d9b04b8ea9e7febcda4082985-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 3
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-003-1648028334/ab9196e2fc9ca6de406f36059fd5ba73-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 4
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-004-1648028334/2c582681fea9933f1615aa1cab1fa539-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 5
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-005-1648028334/788c6733d7f3d94509abb2a0021496c8-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 6
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-006-1648028334/89c6cd562ba4d36c9fe1b71f2ee95bfd-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 7
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-007-1648028333/3ec86594367d0615bd38a062ca0d54f2-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 8
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-008-1648028333/af361b2d3faa39899116c7f49c341298-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 9
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-009-1648028333/f6c52a095b065de132e6c9425f9e6baa-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 10
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-010-1648028333/c3adaff91cbf7b15ea9591f716ad2a99-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 11
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-011-1648028333/77b1fa6079a4115155abc2507afe7560-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Hắc Bạch Vô Song (Phần 3)" tvg-logo="https://images.fptplay.net/media/21_03_2022/theunparalleledblackandwhiteseason3_2021_cn_b_12t_lg21-03-2022_19g58-23.jpg", Hắc Bạch Vô Song (Phần 3) - Tập 12
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220323/theunparalleledblackandwhiteseason3-2021-cn-012-1648028333/e3235a00450d8646d3373a4ecc642140-1080p.mp4/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 1
