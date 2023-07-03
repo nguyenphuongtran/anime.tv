@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/toi-co-thuc-su-la-nguoi-manh-nhat-khong-thumb.jpg", Tôi Có Thực Sự Là Người Mạnh Nhất  - Tập 1
+https://hdbo.opstream5.com/20230702/34786_6f64e898/index.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/horimiya-the-missing-pieces-thumb.jpg", Horimiya -piece- - Tập 1
+https://hdbo.opstream5.com/20230702/34785_e0af62f5/index.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/that-nghiep-chuyen-sinh-sang-the-gioi-khac-toi-se-nghiem-tuc-mua-2-thumb.jpg", THẤT NGHIỆP CHUYỂN SINH: SANG THẾ GIỚI KHÁC TÔI SẼ NGHIÊM TÚC - MÙA 2 - Tập 1
+https://hdbo.opstream5.com/20230703/34788_b6f24afb/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Hiệp Sĩ Lưu Ban" tvg-logo="https://images.danet.vn/images/src/331/bd7/1ad94df5f584dfbc73c7d62567d9ad69.jpg", Hiệp Sĩ Lưu Ban - Tập 1
 https://vod-cdn01.danet.vn/AVOD/ANIME/Chivalry/Chivalry_01/Chivalry_01_720p.m3u8
 #EXTINF:-1 group-title="Hiệp Sĩ Lưu Ban" tvg-logo="https://images.danet.vn/images/src/217/32e/5687abdd8d245bf98e00cb31515217bd.jpg", Hiệp Sĩ Lưu Ban - Tập 2
@@ -2133,6 +2144,30 @@ https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220103/anime_muse_dem
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220103/anime_muse_demon_slayer_mugen_train_arc_2021_ep06/c311058c93e073f9b83ca17265c21bfe_1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Chuyến Tàu Vô Tận" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/06/kimetsu-no-yaiba-mugen-train-arc_portrait_2022050606-05-2022_17g34-59.jpg", Thanh Gươm Diệt Quỷ: Chuyến Tàu Vô Tận - Tập 7
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220103/anime_muse_demon_slayer_mugen_train_arc_2021_ep07/bc9019c142324f964c6ab0efa493d358_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/10/00/a49c3de6/a49c3de6-0adc-49e1-813b-d448c3774a08_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 1
+https://vod-zlr2.tv360.vn/video1/2023/04/10/00/2adc4ad5/2adc4ad5-c644-414c-a3a5-b6492aa56c4b_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/16/23/a6877320/a6877320-b695-4a69-a416-d7c0e70df00c_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 2
+https://vod-zlr2.tv360.vn/video1/2023/04/16/23/bad4a329/bad4a329-dab6-4d7e-8283-27f94528d2c3_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/23/23/0b1af34c/0b1af34c-7317-47fc-834c-80b152bff84e_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 3
+https://vod-zlr2.tv360.vn/video1/2023/04/10/00/2adc4ad5/2adc4ad5-c644-414c-a3a5-b6492aa56c4b_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/01/00/536cf16a/536cf16a-ecc8-4ce9-a692-97c2ac3280dc_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 4
+https://vod-zlr2.tv360.vn/video1/2023/05/01/00/f3be1bc0/f3be1bc0-e350-4319-9718-757864014d56_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/00/00ec93af/00ec93af-456e-4f6b-b96c-3fb113cc5608_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 5
+https://vod-zlr2.tv360.vn/video1/2023/04/10/00/2adc4ad5/2adc4ad5-c644-414c-a3a5-b6492aa56c4b_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/14/23/b3b8c580/b3b8c580-d098-4dba-ac31-4cbe4999eb30_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 6
+https://vod-ali3.tv360.vn/video1/2023/05/08/00/1566245e/1566245e-bc68-418f-aa7f-56d600a95080_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/21/23/10407f13/10407f13-8c2a-49ca-a486-d8b95c60d2ef_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 7
+https://vod-ali3.tv360.vn/video1/2023/05/14/23/af931f49/af931f49-96b0-4050-9fa4-65c8f6d936b7_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/00/5a353347/5a353347-e565-44c0-9263-3480874538a3_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 8
+https://vod-ali3.tv360.vn/video1/2023/05/29/00/74a84fdd/74a84fdd-f24e-4547-9855-45284216a3ec_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/04/23/150e3180/150e3180-afdd-42f6-b050-1c049c6e3ccf_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 9
+https://vod-ali3.tv360.vn/video1/2023/06/04/23/23ecc6e2/23ecc6e2-6eb3-4221-a795-c5bdd61cb666_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/11/23/f92ef14b/f92ef14b-3826-4ee0-9b55-752750f649f8_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 10
+https://vod-zlr2.tv360.vn/video1/2023/06/11/23/f58ff64a/f58ff64a-20ce-4c1f-b682-bbe96eb59754_5_.m3u8
+#EXTINF:-1 group-title="Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/19/00/ada2e89b/ada2e89b-10a9-4aa4-a2b8-618de5dc3e55_640_360.jpg" , Thanh Gươm Diệt Quỷ: Phần Làng Rèn Kiếm - Demon Slayer Swordsmith Village Arc (Phát Song Song) - Tập 11
+https://vod-zlr2.tv360.vn/video1/2023/06/19/00/949f73b8/949f73b8-08d1-47ed-9813-f84549e4a3da_5_.m3u8
+
 
 #EXTINF:-1 group-title="Charlotte (2015)" tvg-logo="https://img.ophim8.cc/uploads/movies/charlotte-thumb.jpg", Charlotte - Tập 1
 https://kd.opstream3.com/20220426/9720_3b2f3155/index.m3u8
@@ -4547,7 +4582,7 @@ https://1080.opstream4.com/20230630/45480_a2a92b01/index.m3u8
 #EXTINF:-1 group-title="Ōoku: The Inner Chambers (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/ooku-nam-nhan-hau-cung-thumb.jpg", Ōoku: The Inner Chambers - Tập 10
 https://1080.opstream4.com/20230630/45481_b6e08945/index.m3u8
 
-#EXTINF:-1 group-title="異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ - Tập 1
+#EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 1
 https://1080.opstream4.com/20230404/43182_3ab83604/index.m3u8
 #EXTINF:-1 group-title="SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/sau-khi-co-duoc-nang-luc-ba-dao-o-di-gioi-toi-cung-vo-doi-o-the-gioi-thuc-thang-cap-xong-thi-cuoc-doi-cung-thay-doi-thumb.jpg", SAU KHI CÓ ĐƯỢC NĂNG LỰC BÁ ĐẠO Ở DỊ GIỚI, TÔI CŨNG VÔ ĐỐI Ở THẾ GIỚI THỰC ~THĂNG CẤP XONG THÌ CUỘC ĐỜI CŨNG THAY ĐỔI - Tập 2
 https://hdbo.opstream5.com/20230425/34274_0c5fdf9c/index.m3u8
@@ -5088,9 +5123,6 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaeleveno
 #EXTINF:-1 group-title="Đội Bóng Siêu Năng Lực: Khắc Ấn Orion" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/11/doi-bong-sieu-nang-luc-khac-an-orion-fpt-play-1681207038247_Portrait_origin.jpg", Đội Bóng Siêu Năng Lực: Khắc Ấn Orion - Tập 49 - Tập cuối
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230412/inazumaelevenorion-2018-jp-b-049-1681268494/249d9a16b438df1e0ddcd2d8d807499f-1080p.mp4/playlist.m3u8
 
-#EXTINF:-1 group-title="Tenki no ko (2019)" tvg-logo="https://img.ophim8.cc/uploads/movies/dua-con-cua-thoi-tiet-thumb.jpg", Tenki no ko - Tập 1
-https://kd.opstream3.com/20220318/1716_e8c9528d/index.m3u8
-
 #EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 1
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-001-1657094191/78ac4b0672664b11c6346ba34b446c5f-1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 2
@@ -5115,6 +5147,10 @@ https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmag
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-011-1657094191/75070f0f2deb5daaab7f5aab20b78fef-1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Pháp Sư Ở Thế Giới Mới" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/15/isekaicheatmagician_2019_jp_b_12t_lg15-07-2022_09g38-58.jpg", Pháp Sư Ở Thế Giới Mới - Tập 12 - Hết
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220706/isekaicheatmagician-2019-jp-012-1657094191/a636c0d48c2c4910d18e421210d473be-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Ainbo: Nữ Chiến Binh Amazon - Ainbo" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/b0659d08/b0659d08-f738-453b-ba3f-3e5b34fdef3d_640_360.jpg", Ainbo: Nữ Chiến Binh Amazon - Ainbo
+https://vod-zlr2.tv360.vn/video1/2023/03/10/15/5af75406/5af75406-889f-44f7-a8d5-ea609f1d4ad9_5_.m3u8
+
 
 #EXTINF:-1 group-title="Đao Kiếm Thần Vực (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/02/dao-kiem-than-vuc-fpt-play-1677731189844_Portrait_origin.jpg", Đao Kiếm Thần Vực (Phần 1) - Tập 1
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230307/sword-art-online-2012-jp-1080p-muse-001-1678191445/61497a2ae68cb2409633397221d66274-1080p.mp4/playlist.m3u8
@@ -5320,4 +5356,288 @@ https://vod-zlr2.tv360.vn/video1/2023/01/11/11/577b6f50/577b6f50-1da7-44e0-a10a-
 
 #EXTINF:-1 group-title="Belle: Rồng và Công Chúa Tàn Nhang - Belle" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/02/15/1675325089866/f532cda7837c_640_360.jpg", Belle: Rồng và Công Chúa Tàn Nhang - Belle
 https://vod-zlr2.tv360.vn/video1/2023/02/01/14/d1ce3b80/d1ce3b80-8cb8-4431-a665-9fe8a8041dde_5_.m3u8
+
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/aa2/f36/0f0559de7b4743a9cb2fc85963c73e22.jpg", Cang Giả Kim Thuật Sư - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_01/FullMetalAlchemist2003_01.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/e39/b4d/9b2ec7490ceb3e12141d9949bd9ac6fa.jpg", Cang Giả Kim Thuật Sư - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_02/FullMetalAlchemist2003_02_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/5ef/95a/2a44fb9b99b6ed6e6c0c742cd50b9603.jpg", Cang Giả Kim Thuật Sư - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_03/FullMetalAlchemist2003_03_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/bed/eff/adf9959553be2926254a91ac79a979a0.jpg", Cang Giả Kim Thuật Sư - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_04/FullMetalAlchemist2003_04_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/911/55f/b3a9dfaa0cba7ea6976eea2ff7a99c25.jpg", Cang Giả Kim Thuật Sư - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_05/FullMetalAlchemist2003_05_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/f49/d29/d602a698ef4a06d4e5d99e91cdd5a30c.jpg", Cang Giả Kim Thuật Sư - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_06/FullMetalAlchemist2003_06_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/b79/c49/a2ac13dfef701c22b2f01179801ef483.jpg", Cang Giả Kim Thuật Sư - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_07/FullMetalAlchemist2003_07_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/5b2/349/4a9d71901ab3c4f07673383a243a6b10.jpg", Cang Giả Kim Thuật Sư - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_08/FullMetalAlchemist2003_08_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/876/89a/112dda4508ed8fd0dc62be3d81fd7560.jpg", Cang Giả Kim Thuật Sư - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_09/FullMetalAlchemist2003_09_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/b51/2f4/4ed8160a29dc3a95f831125488973ee6.jpg", Cang Giả Kim Thuật Sư - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_10/FullMetalAlchemist2003_10_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/fc9/f84/c80a6b6a15f7f0dd0d7772190fbc4363.jpg", Cang Giả Kim Thuật Sư - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_11/FullMetalAlchemist2003_11_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/d9c/1b4/630df8b3e1a53fd0e996fb7fd3512128.jpg", Cang Giả Kim Thuật Sư - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_12/FullMetalAlchemist2003_12_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/73d/153/c6a71531d5d65ff094b3fe474a10cc8a.jpg", Cang Giả Kim Thuật Sư - Tập 13
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_13/FullMetalAlchemist2003_13_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/d8e/8ea/f19319d75ae6a6c0d6c34285d3368ceb.jpg", Cang Giả Kim Thuật Sư - Tập 14
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_14/FullMetalAlchemist2003_14_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/a8e/aee/d20217344bc53d1afdb03da7878552a0.jpg", Cang Giả Kim Thuật Sư - Tập 15
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_15/FullMetalAlchemist2003_15_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/dc6/beb/00778165d5fd0b4adfb64bdcac040fb8.jpg", Cang Giả Kim Thuật Sư - Tập 16
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_16/FullMetalAlchemist2003_16_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/6cd/d20/25d51e04e93aeb8317867eb965e52e00.jpg", Cang Giả Kim Thuật Sư - Tập 17
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_17/FullMetalAlchemist2003_17_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/a6f/2c6/c31c55f009dffe3bcf552cf15f2e37a1.jpg", Cang Giả Kim Thuật Sư - Tập 18
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_18/FullMetalAlchemist2003_18_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/bbb/2a8/d657fb0f17dc63b24f6eb17eecb353f1.jpg", Cang Giả Kim Thuật Sư - Tập 19
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_19/FullMetalAlchemist2003_19_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/fbe/a4c/ee33c81517295c9a0ac06238af8ce32d.jpg", Cang Giả Kim Thuật Sư - Tập 20
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_20/FullMetalAlchemist2003_20_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/be6/9ae/5c03b89ed2b81bc212bf84e098645d5b.jpg", Cang Giả Kim Thuật Sư - Tập 21
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_21/FullMetalAlchemist2003_21_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/fef/2df/eda654bb981617752769d9f5044fd062.jpg", Cang Giả Kim Thuật Sư - Tập 22
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_22/FullMetalAlchemist2003_22_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/759/676/6b2d44df55bdf5ffdb07709601053d59.jpg", Cang Giả Kim Thuật Sư - Tập 23
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_23/FullMetalAlchemist2003_23_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/516/e9c/47639e85afe4e597a15908a6ebac38bf.jpg", Cang Giả Kim Thuật Sư - Tập 24
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_24/FullMetalAlchemist2003_24_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/a02/da1/16e832ea857c6ea2ddb65804ba8740ae.jpg", Cang Giả Kim Thuật Sư - Tập 25
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_25/FullMetalAlchemist2003_25_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/366/b6b/6c87da3ffe80ec906a7666863b8a81f0.jpg", Cang Giả Kim Thuật Sư - Tập 26
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_26/FullMetalAlchemist2003_26_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/4e1/20e/d4679e123cc22194841c4dddb7eade01.jpg", Cang Giả Kim Thuật Sư - Tập 27
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_27/FullMetalAlchemist2003_27_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/2e2/ef3/6590f9cdbe0ca62160d3b5ea0a66c495.jpg", Cang Giả Kim Thuật Sư - Tập 28
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_28/FullMetalAlchemist2003_28_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/3ea/28e/28377a4eef83174cad04376b7ca66b7d.jpg", Cang Giả Kim Thuật Sư - Tập 29
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_29/FullMetalAlchemist2003_29_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/cd1/24d/713b86f3ae45780615049553462c8185.jpg", Cang Giả Kim Thuật Sư - Tập 30
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_30/FullMetalAlchemist2003_30_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/447/3dd/07d1ff585a3dff6f4ff33e862515786d.jpg", Cang Giả Kim Thuật Sư - Tập 31
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_31/FullMetalAlchemist2003_31_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/37c/d01/527ed133427895e1fb18b113a6a9c075.jpg", Cang Giả Kim Thuật Sư - Tập 32
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_32/FullMetalAlchemist2003_32_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/162/a41/e93854d8c365d76dab6323fab04c2f50.jpg", Cang Giả Kim Thuật Sư - Tập 33
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_33/FullMetalAlchemist2003_33_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/3f6/3d4/d3207782f44c70f3bf1de472df1d85d4.jpg", Cang Giả Kim Thuật Sư - Tập 34
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_34/FullMetalAlchemist2003_34_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/6d/6f6/40dfeed6db56cc0caf0ba1bd8bb95c51.jpg", Cang Giả Kim Thuật Sư - Tập 35
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_35/FullMetalAlchemist2003_35_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/f3e/909/6b00ebadea9f50fce05a4d23bd655279.jpg", Cang Giả Kim Thuật Sư - Tập 36
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_36/FullMetalAlchemist2003_36_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/5b9/b1f/61a2b82f425a31545e7ad4687e163f0d.jpg", Cang Giả Kim Thuật Sư - Tập 37
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_37/FullMetalAlchemist2003_37_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/2d5/978/d2b5f64578ee26decb2168f68e3a6945.jpg", Cang Giả Kim Thuật Sư - Tập 38
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_38/FullMetalAlchemist2003_38_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/c57/157/ecc4af717ed6d217691eeecad62432f0.jpg", Cang Giả Kim Thuật Sư - Tập 39
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_39/FullMetalAlchemist2003_39_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/4ad/f1/9d0c4ede4389d031e314d26e7f16b5fe.jpg", Cang Giả Kim Thuật Sư - Tập 40
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_40/FullMetalAlchemist2003_40_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/9dd/1c4/6d2fd7b515491982cfc22efa11b5ea4e.jpg", Cang Giả Kim Thuật Sư - Tập 41
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_41/FullMetalAlchemist2003_41_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/e5d/7f/5ee16fa368f376ef05fb2e633560ef19.jpg", Cang Giả Kim Thuật Sư - Tập 42
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_42/FullMetalAlchemist2003_42_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/153/f78/d69f4407533a22d6732ebaac4fcf8911.jpg", Cang Giả Kim Thuật Sư - Tập 43
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_43/FullMetalAlchemist2003_43_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/2da/25/dcdc758bfe7b76117d68235dfb1a01c7.jpg", Cang Giả Kim Thuật Sư - Tập 44
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_44/FullMetalAlchemist2003_44_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/63c/3cc/3425ec082f74f6a1ce5fbbc50bdc215c.jpg", Cang Giả Kim Thuật Sư - Tập 45
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_45/FullMetalAlchemist2003_45_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/3f2/c83/7a4cefd6269349ead6a8ec03f1bb7326.jpg", Cang Giả Kim Thuật Sư - Tập 46
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_46/FullMetalAlchemist2003_46_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/382/238/7b9067b179704a61b48a1211b55da238.jpg", Cang Giả Kim Thuật Sư - Tập 47
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_47/FullMetalAlchemist2003_47_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/176/63b/eaed36bd5a856fdaf1be3327a4631e4b.jpg", Cang Giả Kim Thuật Sư - Tập 48
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_48/FullMetalAlchemist2003_48_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/6e7/76e/a90a703a3f185e5200bf8c10310b9a85.jpg", Cang Giả Kim Thuật Sư - Tập 49
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_49/FullMetalAlchemist2003_49_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/f02/3ed/dcfd5430cff922344d23a830abd9b02e.jpg", Cang Giả Kim Thuật Sư - Tập 50
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_50/FullMetalAlchemist2003_50_720p.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư" tvg-logo="https://images.danet.vn/images//src/24/960/baf8406e221c6c4c10b27d6729a942c5.jpg", Cang Giả Kim Thuật Sư - Tập 51
+https://vod-cdn01.danet.vn/AVOD/MUSE/FullMetalAlchemist/FullMetalAlchemist2003_51/FullMetalAlchemist2003_51_720p.m3u8
+
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 1
+https://hdbo.opstream5.com/20220715/20570_daebe893/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 2
+https://hdbo.opstream5.com/20220715/20571_f09789e8/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 3
+https://hdbo.opstream5.com/20220715/20572_0bf99d43/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 4
+https://hdbo.opstream5.com/20220715/20573_67b37cb1/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 5
+https://hdbo.opstream5.com/20220715/20574_a0ae65f1/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 6
+https://hdbo.opstream5.com/20220715/20575_642cf91c/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 7
+https://hdbo.opstream5.com/20220715/20576_d17e0ced/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 8
+https://hdbo.opstream5.com/20220715/20577_73c767bf/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 9
+https://hdbo.opstream5.com/20220715/20578_c28f38a1/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 10
+https://hdbo.opstream5.com/20220715/20579_240d2acd/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 11
+https://hdbo.opstream5.com/20220715/20580_8506d3e0/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 12
+https://hdbo.opstream5.com/20220715/20581_79cccac9/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 13
+https://hdbo.opstream5.com/20220715/20582_2fcfd713/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 14
+https://hdbo.opstream5.com/20220715/20583_9cc26c75/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 15
+https://hdbo.opstream5.com/20220715/20584_eb8df538/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 16
+https://hdbo.opstream5.com/20220715/20585_884b5463/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 17
+https://hdbo.opstream5.com/20220715/20586_e7b0f061/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 18
+https://hdbo.opstream5.com/20220715/20587_67f986ff/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 19
+https://hdbo.opstream5.com/20220715/20588_0b69a276/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 20
+https://hdbo.opstream5.com/20220715/20589_4ec0603d/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 21
+https://hdbo.opstream5.com/20220715/20590_d3fc5151/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 22
+https://hdbo.opstream5.com/20220715/20591_ca96bf78/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 23
+https://hdbo.opstream5.com/20220715/20592_86f23cc7/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 24
+https://hdbo.opstream5.com/20220715/20593_7b15f4cf/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 25
+https://hdbo.opstream5.com/20220715/20594_69087b9d/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 26
+https://hdbo.opstream5.com/20220715/20595_77b97f4e/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 27
+https://hdbo.opstream5.com/20220715/20596_99e77a2b/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 28
+https://hdbo.opstream5.com/20220715/20597_28406ec8/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 29
+https://hdbo.opstream5.com/20220715/20598_f7c87d6e/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 30
+https://hdbo.opstream5.com/20220715/20599_1aa83776/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 31
+https://hdbo.opstream5.com/20220715/20600_9030313c/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 32
+https://hdbo.opstream5.com/20220715/20601_f8c043c7/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 33
+https://hdbo.opstream5.com/20220715/20602_e6a95ddc/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 34
+https://hdbo.opstream5.com/20220715/20603_bdbc99e1/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 35
+https://hdbo.opstream5.com/20220715/20604_ee009978/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 36
+https://hdbo.opstream5.com/20220715/20605_14e772e6/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 37
+https://hdbo.opstream5.com/20220715/20606_3455735a/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 38
+https://hdbo.opstream5.com/20220715/20607_640ce34b/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 39
+https://hdbo.opstream5.com/20220715/20608_b47775ef/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 40
+https://hdbo.opstream5.com/20220715/20609_97d5862a/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 41
+https://hdbo.opstream5.com/20220715/20610_681190e3/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 42
+https://hdbo.opstream5.com/20220715/20611_addc7c44/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 43
+https://hdbo.opstream5.com/20220715/20612_d71499d2/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 44
+https://hdbo.opstream5.com/20220715/20613_7832ce2d/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 45
+https://hdbo.opstream5.com/20220715/20614_41f29a35/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 46
+https://hdbo.opstream5.com/20220715/20615_6beb8c9c/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 47
+https://hdbo.opstream5.com/20220715/20616_21e9335c/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 48
+https://hdbo.opstream5.com/20220715/20617_870e2519/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 49
+https://hdbo.opstream5.com/20220715/20618_70a7a4b4/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 50
+https://hdbo.opstream5.com/20220715/20619_ced6f4de/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 51
+https://hdbo.opstream5.com/20220715/20620_630a1bef/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 52
+https://hdbo.opstream5.com/20220715/20621_9f7fa0e5/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 53
+https://hdbo.opstream5.com/20220715/20622_a0f45bfa/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 54
+https://hdbo.opstream5.com/20220715/20623_77e11bae/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 55
+https://hdbo.opstream5.com/20220715/20624_f88fffa3/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 56
+https://hdbo.opstream5.com/20220715/20625_b04f2e87/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 57
+https://hdbo.opstream5.com/20220715/20626_d8b3b952/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 58
+https://hdbo.opstream5.com/20220715/20627_2a3cb7ec/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 59
+https://hdbo.opstream5.com/20220715/20628_68d1e89a/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 60
+https://hdbo.opstream5.com/20220715/20629_4255cfa4/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 61
+https://hdbo.opstream5.com/20220715/20630_31ce2f16/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 62
+https://hdbo.opstream5.com/20220715/20631_e839c639/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 63
+https://hdbo.opstream5.com/20220715/20632_c3d71621/index.m3u8
+#EXTINF:-1 group-title="Cang Giả Kim Thuật Sư 2 (2009)" tvg-logo="https://img.ophim8.cc/uploads/movies/gia-kim-thuat-su-brotherhood-thumb.jpg", Cang Giả Kim Thuật Sư 2 - Tập 64
+https://hdbo.opstream5.com/20220715/20633_8aef01e8/index.m3u8
+
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/dc2/c2e/5535572f57a99fb90cce3a13d2675afa.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_01/Mushokutensei_01.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/71b/9a9/1ab2f77748af8afb980a1da8e82cb69c.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_02/Mushokutensei_02_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/a53/b90/1bdd8a925bd70d239c7db31fa0e43b72.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_03/Mushokutensei_03_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/bdf/693/ffecf98b8f2dd2eac9be9aa44d2cdac8.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_04/Mushokutensei_04_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/aa8/528/941d131ce6f544969c210ca2cf668e0d.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_05/Mushokutensei_05_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/bde/239/800041c8d61c65aecb3a1d888bda2328.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_06/Mushokutensei_06_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/815/2cd/2bf9f88fb2ad2ad2f4aa535f6ee5f76c.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_07/Mushokutensei_07_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/b3f/575/6f987e94a7cfaa1b7dcfbfc3a32bc14b.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_08/Mushokutensei_08_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/af2/1fc/4a913ede7e7a72790cef4e50754c1c80.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_09/Mushokutensei_09_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/e38/64a/bf249a32900b3ec320c07946fd9a272a.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_10/Mushokutensei_10_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/52d/155/bc5dbe67deb119c2b0705b4ac52115ef.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_11/Mushokutensei_11_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/f6e/8ff/b835b58d99a19703c79277114994e095.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_12/Mushokutensei_12_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/c98/4f7/2bcc843f84205cecf8075f47733ee1e7.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 13
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_13/Mushokutensei_13_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/738/f33/8d3e65078f002721988866d86b54e8a8.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 14
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_14/Mushokutensei_14_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/484/31b/682e1d39074f3338a8b137ad01341a09.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 15
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_15/Mushokutensei_15_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/5e9/30c/649c5ca0b54cc9b9781f666adf5a8655.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 16
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_16/Mushokutensei_16_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/512/83a/ec8561be15213950a3a9135a73a0cdad.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 17
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_17/Mushokutensei_17_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/34a/d91/82c4b5904cb8089d38d90fb40d734f8d.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 18
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_18/Mushokutensei_18_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/fa3/c46/52be0ee90191fd1ec9c6c5efa397a74c.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 19
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_19/Mushokutensei_19_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/da3/b3d/f3a9a07d8345d9d189596e9773774c6e.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 20
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_20/Mushokutensei_20_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/afd/160/99b7d59ee82da43e556e84346652aad5.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 21
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_21/Mushokutensei_21_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/11c/7c0/46fe5a1a85f795f37868ec49e107d615.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 22
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_22/Mushokutensei_22_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/59a/348/1af2e254a122b9bc3e5a0d1cdc218e56.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 23
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_23/Mushokutensei_23_720p.m3u8
+#EXTINF:-1 group-title="Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc" tvg-logo="https://images.danet.vn/images//src/0/e72/66c83de596cd0821de4e199b2183d8c4.jpg", Thất nghiệp chuyển sinh: Sang thế giới khác tôi sẽ nghiêm túc - Tập 24
+https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_24/Mushokutensei_24_720p.m3u8
+
+#EXTINF:-1 group-title="Đứa con của thời tiết" tvg-logo="https://img.ophim8.cc/uploads/movies/dua-con-cua-thoi-tiet-thumb.jpg", Đứa con của thời tiết
+https://kd.opstream3.com/20220318/1716_e8c9528d/index.m3u8
 
