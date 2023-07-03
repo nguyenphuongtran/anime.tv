@@ -5665,3 +5665,411 @@ https://vod-cdn01.danet.vn/AVOD/MUSE/Mushokutensei/Mushokutensei_24/Mushokutense
 #EXTINF:-1 group-title="Đứa con của thời tiết" tvg-logo="https://img.ophim8.cc/uploads/movies/dua-con-cua-thoi-tiet-thumb.jpg", Đứa con của thời tiết
 https://kd.opstream3.com/20220318/1716_e8c9528d/index.m3u8
 
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/6af/370/7723b3f525b0873e225f4ae1a5a09b08.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_01/InsomniacsAfterSchool_01_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/709/aa0/2729d3a9f08dc10d09de31d2890d2c16.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_02/InsomniacsAfterSchool_02_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/17d/62b/788c1b80e0cad9b4eab91c02236859f6.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_03/InsomniacsAfterSchool_03_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/82d/944/f800792fb0f7c905a0713640be06a003.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_04/InsomniacsAfterSchool_04_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/167/78/bca6a072b0eb71e982487328c5856dfc.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_05/InsomniacsAfterSchool_05_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/a63/c68/3bee786a12399f65a486365380fd6acb.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_06/InsomniacsAfterSchool_06_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/812/f6f/2c5b82250d6bfa041ad42fe251512d71.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_07/InsomniacsAfterSchool_07_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/8fe/d6f/d6362012b4abeb64c5544ab9039eba29.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_08/InsomniacsAfterSchool_08_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/7a5/f08/43f812af8fec110b49178e7352e297a2.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_09/InsomniacsAfterSchool_09_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/b44/bbd/f7a4aa89449638576bf63eca40ef5688.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_10/InsomniacsAfterSchool_10_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/948/53b/ef51dac02136de238bbeffa6e4cde297.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_11/InsomniacsAfterSchool_11_720p.m3u8
+#EXTINF:-1 group-title="Câu Lạc Bộ Những Kẻ Mất Ngủ" tvg-logo="https://images.danet.vn/images//src/b6b/24b/bad4b74dfffaf6e6f5cc839bf8c869a8.jpg", Câu Lạc Bộ Những Kẻ Mất Ngủ - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/InsomniacsAfterSchool/InsomniacsAfterSchool_12/InsomniacsAfterSchool_12_720p.m3u8
+
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/cfc/ccd/83e1e4d86b4a549a727435006d99c3d6.jpg", Bạn Gái Thuê - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_01/RentAGirlFriend_S1_01_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/e3/6fa/b090c7d8c35199be20b9b7c59d8378ed.jpg", Bạn Gái Thuê - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_02/RentAGirlFriend_S1_02_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/eb2/f5b/6d2aaeb29cfaa6562c3bc4b9d5f11e41.jpg", Bạn Gái Thuê - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_03/RentAGirlFriend_S1_03_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/c9/7e4/32cd247715ea241afb7400086a0f2dd4.jpg", Bạn Gái Thuê - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_04/RentAGirlFriend_S1_04_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/f3a/a4d/3c982fa0dc5d7ada7b9eb33c0e2ae310.jpg", Bạn Gái Thuê - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_05/RentAGirlFriend_S1_05_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/8dd/494/ea2875f98d62b1f829661a1bc041ed62.jpg", Bạn Gái Thuê - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_06/RentAGirlFriend_S1_06_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/ec0/c4/69e79ecc303a2f5afcc44f93699b2973.jpg", Bạn Gái Thuê - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_07/RentAGirlFriend_S1_07_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/9ba/ce0/2aefc448029fd3cd6bb7a54250353d10.jpg", Bạn Gái Thuê - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_08/RentAGirlFriend_S1_08_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/587/c75/2f4e75ac75f31ea94d7db1fb1a06cf16.jpg", Bạn Gái Thuê - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_09/RentAGirlFriend_S1_09_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/356/ce/204c9b6e4d03c5e1419d1d39021d703e.jpg", Bạn Gái Thuê - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_10/RentAGirlFriend_S1_10_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/1d5/30d/9dbef4a1259d1ec5b67071819284d300.jpg", Bạn Gái Thuê - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_11/RentAGirlFriend_S1_11_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê" tvg-logo="https://images.danet.vn/images//src/999/e9a/94d9ad9e5a6f9f2005b0e65f29160af3.jpg", Bạn Gái Thuê - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S1_12/RentAGirlFriend_S1_12_720p.m3u8
+
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/c07/a15/da9045c727b71a09efb17a5f5ea88a48.jpg", Bạn Gái Thuê - Phần 2 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_01/RentAGirlFriend_S2_01_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/35/2bc/5eede4a8c66c71b0134898c88ffe0285.jpg", Bạn Gái Thuê - Phần 2 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_02/RentAGirlFriend_S2_02_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/930/361/84b832df239a27debc7e208738143d22.jpg", Bạn Gái Thuê - Phần 2 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_03/RentAGirlFriend_S2_03_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/cf1/d5b/c01e174f98f91d9a54ae4bcc0abfb257.jpg", Bạn Gái Thuê - Phần 2 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_04/RentAGirlFriend_S2_04_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/d06/beb/933a3a4c954b73d71a8109655f0c7092.jpg", Bạn Gái Thuê - Phần 2 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_05/RentAGirlFriend_S2_05_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/340/156/5643998a82a51d76ab512ed34b2a50aa.jpg", Bạn Gái Thuê - Phần 2 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_06/RentAGirlFriend_S2_06_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/8c7/c6/8a1f96f948814274ab71207f0d096c5c.jpg", Bạn Gái Thuê - Phần 2 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_07/RentAGirlFriend_S2_07_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/ebe/afe/ba194aea2931419a7a0c670b8cee09b8.jpg", Bạn Gái Thuê - Phần 2 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_08/RentAGirlFriend_S2_08_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/62c/e01/aeb70ff998c6fb6e2e3e77745343840c.jpg", Bạn Gái Thuê - Phần 2 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_09/RentAGirlFriend_S2_09_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/1b2/5c2/3d86514c39b2aa6a2907bedf01a67770.jpg", Bạn Gái Thuê - Phần 2 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_10/RentAGirlFriend_S2_10_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/681/fbb/7119fc307d950ad6e92228dbd89678e1.jpg", Bạn Gái Thuê - Phần 2 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_11/RentAGirlFriend_S2_11_720p.m3u8
+#EXTINF:-1 group-title="Bạn Gái Thuê - Phần 2" tvg-logo="https://images.danet.vn/images//src/d53/161/fa1421cff445e5757d0cb5f95c655833.jpg", Bạn Gái Thuê - Phần 2 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/RentAGirlFriend/RentAGirlFriend_S2_12/RentAGirlFriend_S2_12_720p.m3u8
+
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/878/2d5/13a80bd6fa072c417114234dd7228121.jpg", Lớp Học Đề Cao Thực Lực  - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_01/ClassroomOfTheElite_01_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/d82/929/a5aac97d7e98cda74ac536d4eeb1f925.jpg", Lớp Học Đề Cao Thực Lực  - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_02/ClassroomOfTheElite_02_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/507/4d9/2c5878fbfaa69e298c52929d21a54a01.jpg", Lớp Học Đề Cao Thực Lực  - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_03/ClassroomOfTheElite_03_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/366/d73/712b08c466f8397ff394103b19508489.jpg", Lớp Học Đề Cao Thực Lực  - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_04/ClassroomOfTheElite_04_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/358/43b/52b7f3d5269d1ceb7841268cacf2609c.jpg", Lớp Học Đề Cao Thực Lực  - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_05/ClassroomOfTheElite_05_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/61f/ad3/3c0a7953dc2df2295516f09608e1d688.jpg", Lớp Học Đề Cao Thực Lực  - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_06/ClassroomOfTheElite_06_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/26/bcb/72dce89a1964dd5abe4f7a9f97504958.jpg", Lớp Học Đề Cao Thực Lực  - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_07/ClassroomOfTheElite_07_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/fb1/809/cf789da8da00c155db0e92786d886e62.jpg", Lớp Học Đề Cao Thực Lực  - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_08/ClassroomOfTheElite_08_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/381/803/cf10235927f15e92d5f1b42f37fb7d80.jpg", Lớp Học Đề Cao Thực Lực  - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_09/ClassroomOfTheElite_09_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/e11/39a/428d1896748333f28a39e7f3c07e4a8c.jpg", Lớp Học Đề Cao Thực Lực  - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_10/ClassroomOfTheElite_10_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/f46/c43/b809f7063315f082f135769d9852d4be.jpg", Lớp Học Đề Cao Thực Lực  - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_11/ClassroomOfTheElite_11_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực " tvg-logo="https://images.danet.vn/images//src/f96/95b/8007f11ef4be699233f772c612aa94a1.jpg", Lớp Học Đề Cao Thực Lực  - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_12/ClassroomOfTheElite_12_720p.m3u8
+
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/7e5/5a3/efaf0df566aff5de777e290fc63190d6.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_01/ClassroomOfTheElite_S2_01_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/a13/eb1/83e5f945a8e40f4b2b365c70ddeb5cf4.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_02/ClassroomOfTheElite_S2_02_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/109/2cb/e67410ebb32ca9d3405539915ce42f1d.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_03/ClassroomOfTheElite_S2_03_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/bd4/751/f251389c578de0b72c63f36075febd42.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_04/ClassroomOfTheElite_S2_04_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/710/42f/015efa1fc1b6e7c522904ca975bd85db.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_05/ClassroomOfTheElite_S2_05_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/65e/f8f/ee953504cc7b707b2c80fdba2315e98a.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_06/ClassroomOfTheElite_S2_06_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/530/140/6a0083dc43d8c09fead4d7ecd8b76a6b.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_07/ClassroomOfTheElite_S2_07_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/d78/bc7/9fc469b6876ebca74f461f28c86bcc9a.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_08/ClassroomOfTheElite_S2_08_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/c40/257/cb3e8ba26e61fe1c8f81f2e41e2d81e0.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_09/ClassroomOfTheElite_S2_09_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/3d0/db7/66abcea555106179c770dcafd9a03291.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_10/ClassroomOfTheElite_S2_10_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/5ca/6a6/5bdde0ac0a983680537208c651fb5493.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_11/ClassroomOfTheElite_S2_11_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/dd8/d64/f038c5ac1d0b143811fd4c34eb8411cb.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_12/ClassroomOfTheElite_S2_12_720p.m3u8
+#EXTINF:-1 group-title="Lớp Học Đề Cao Thực Lực 2" tvg-logo="https://images.danet.vn/images//src/6a/4bf/035bc2f3f862d3a9dd40c200f6725c45.jpg", Lớp Học Đề Cao Thực Lực 2 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/MUSE/ClassroomOfTheElite/ClassroomOfTheElite_S2_13/ClassroomOfTheElite_S2_13_720p.m3u8
+
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/c6b/26b/5f62670a2450aee8caca3ddcac67ad78.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_01/MadeInAbyss_S2_01_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/eab/35c/af39d94852c74a51513d6640feb7ee2e.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_02/MadeInAbyss_S2_02_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/9ef/216/1d3eb21542e0004c32a936be3171687c.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_03/MadeInAbyss_S2_03_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/c96/e73/4906da9a5fe67e792a5f735001ecf881.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_04/MadeInAbyss_S2_04_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/665/787/9ae0950077b5f8debd2711455cf12694.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_05/MadeInAbyss_S2_05_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/f2d/6a3/d4598a6c4fc2ebb3c1fac8049cb1659e.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_06/MadeInAbyss_S2_06_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/46c/7ca/f044fca393cc7d1854aa2a1a0f968545.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_07/MadeInAbyss_S2_07_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/425/b31/25671b4fa85fb3bf6a9681c6c36b4bd3.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_08/MadeInAbyss_S2_08_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/202/32b/6caacf5c9442aff4e236214f6d7bb019.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_09/MadeInAbyss_S2_09_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/b1c/ce/60f51da9b990e82f1bc0b0e8effc9099.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_10/MadeInAbyss_S2_10_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/4c/2d8/b674376d044d50b20d1315d737dab220.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_11/MadeInAbyss_S2_11_720p.m3u8
+#EXTINF:-1 group-title="Made in Abyss: Thành phố vàng trong ngày nắng cháy" tvg-logo="https://images.danet.vn/images//src/e51/57d/525a1b6efeeb2bd337258744f9ac7287.jpg", Made in Abyss: Thành phố vàng trong ngày nắng cháy - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_S2_12/MadeInAbyss_S2_12_720p.m3u8
+
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/8c/a06/36aa5c0f8080c221065f8f61a0ef9f10.jpg", MADE IN ABYSS - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_01/MadeInAbyss_01_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/679/4c8/24a36a1f5216595c6b1d1997833d96b2.jpg", MADE IN ABYSS - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_02/MadeInAbyss_02_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/5f4/d4b/f2feabb28e143c939312992e24afd252.jpg", MADE IN ABYSS - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_03/MadeInAbyss_03_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/5ef/c9f/f588e25398822fb9ff655f2dfdb565ad.jpg", MADE IN ABYSS - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_04/MadeInAbyss_04_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/812/1cb/7a3d393375849a71cd7788f9ae8242d3.jpg", MADE IN ABYSS - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_05/MadeInAbyss_05_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/8df/7d/7d653eb0fd53d4b2fbcbf8a5753734b1.jpg", MADE IN ABYSS - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_06/MadeInAbyss_06_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/6bf/aee/2482c969f7d9f875b52dd605146974e1.jpg", MADE IN ABYSS - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_07/MadeInAbyss_07_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/6e2/f16/d4e730cf8ffee2843926cacede155ce1.jpg", MADE IN ABYSS - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_08/MadeInAbyss_08_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/f40/844/092c8a8b3f8d8e8c139e603a515017f5.jpg", MADE IN ABYSS - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_09/MadeInAbyss_09_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/7aa/15f/66b46f1ffa7313f21e024e1c1cf04d61.jpg", MADE IN ABYSS - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_10/MadeInAbyss_10_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/c1d/e90/f5abcb4916e29c2046686f8da7169a1d.jpg", MADE IN ABYSS - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_11/MadeInAbyss_11_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/f57/44a/70a8932d9ca3a618c2eefa5a9d5e2797.jpg", MADE IN ABYSS - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_12/MadeInAbyss_12_720p.m3u8
+#EXTINF:-1 group-title="MADE IN ABYSS" tvg-logo="https://images.danet.vn/images//src/ac8/737/8952453a2ca1f4674bdb780069b65f36.jpg", MADE IN ABYSS - Tập 13
+https://vod-cdn01.danet.vn/AVOD/MUSE/MadeInAbyss/MadeInAbyss_13/MadeInAbyss_13_720p.m3u8
+
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/e05/82c/fefeeb7a356845973dc310a2b60f761e.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 00
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_00/SaekanoFlat_S1_00_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/db8/cd3/5ca688b5e17c324abf453b362c9c1a5e.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_01/SaekanoFlat_S1_01_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/bfb/8e7/c2b178ab42b814c55e1ffa983ee4f296.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_02/SaekanoFlat_S1_02_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/3b/579/0faac78311b5266f8e48e54a4635b4bb.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_03/SaekanoFlat_S1_03_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/56/505/52d07f52b26f9c1f0cd2a25783d4629b.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_04/SaekanoFlat_S1_04_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/ff5/4c8/263913aa75e7a26f6f266091d32e436f.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_05/SaekanoFlat_S1_05_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/823/4e4/b4ae3af75ed9e78968b9e1883970be13.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_06/SaekanoFlat_S1_06_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/bca/dbd/b620c9754d66d7502261c84c71fde36f.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_07/SaekanoFlat_S1_07_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/25d/3fa/3515cdc00e709e42ded4aa5eab0ac40c.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_08/SaekanoFlat_S1_08_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/47e/d8d/2c7786d78631780dcb36287ee60d2f60.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_09/SaekanoFlat_S1_09_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/b7b/8a8/44e734d7e96b57edff6253cd46906bb2.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_10/SaekanoFlat_S1_10_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/cd4/548/0736f20774a8af149ebba79f23b7a7ba.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_11/SaekanoFlat_S1_11_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/817/e2a/5dec98f8c1a8168f03aad5c5930a26a7.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_12/SaekanoFlat_S1_12_720p.m3u8
+
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/e05/82c/fefeeb7a356845973dc310a2b60f761e.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 00
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_00/SaekanoFlat_S1_00_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/db8/cd3/5ca688b5e17c324abf453b362c9c1a5e.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_01/SaekanoFlat_S1_01_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/bfb/8e7/c2b178ab42b814c55e1ffa983ee4f296.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_02/SaekanoFlat_S1_02_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/3b/579/0faac78311b5266f8e48e54a4635b4bb.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_03/SaekanoFlat_S1_03_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/56/505/52d07f52b26f9c1f0cd2a25783d4629b.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_04/SaekanoFlat_S1_04_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/ff5/4c8/263913aa75e7a26f6f266091d32e436f.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_05/SaekanoFlat_S1_05_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/823/4e4/b4ae3af75ed9e78968b9e1883970be13.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_06/SaekanoFlat_S1_06_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/bca/dbd/b620c9754d66d7502261c84c71fde36f.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_07/SaekanoFlat_S1_07_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/25d/3fa/3515cdc00e709e42ded4aa5eab0ac40c.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_08/SaekanoFlat_S1_08_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/47e/d8d/2c7786d78631780dcb36287ee60d2f60.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_09/SaekanoFlat_S1_09_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/b7b/8a8/44e734d7e96b57edff6253cd46906bb2.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_10/SaekanoFlat_S1_10_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/cd4/548/0736f20774a8af149ebba79f23b7a7ba.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_11/SaekanoFlat_S1_11_720p_720p.m3u8
+#EXTINF:-1 group-title="Chương Trình Đào Tạo Bạn Gái" tvg-logo="https://images.danet.vn/images//src/817/e2a/5dec98f8c1a8168f03aad5c5930a26a7.jpg", Chương Trình Đào Tạo Bạn Gái - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/SaekanoFlat/SaekanoFlat_S1_12/SaekanoFlat_S1_12_720p_720p.m3u8
+
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/a4/d9c/7835d5fead5d2711bc61d40a9137b8a2.jpg", Dũng sĩ đã chết! - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_01/TheLegendaryHeroIsDead_01.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/8cd/358/e55c04d01213843b2f45a88bc82d3d7f.jpg", Dũng sĩ đã chết! - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_02/TheLegendaryHeroIsDead_02.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/5df/dec/ba10608542c951687a6b732760508c5a.jpg", Dũng sĩ đã chết! - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_03/TheLegendaryHeroIsDead_03.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/dba/d2e/fe3d93fb8612b66e515d8cb2dbc5bc63.jpg", Dũng sĩ đã chết! - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_04/TheLegendaryHeroIsDead_04.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/960/dd5/73dda82895ebdc508544caecbf38219c.jpg", Dũng sĩ đã chết! - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_05/TheLegendaryHeroIsDead_05.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/b46/3fd/24bf81cd74b7c696c2192f713fad0666.jpg", Dũng sĩ đã chết! - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_06/TheLegendaryHeroIsDead_06.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/647/fb5/0d7f67de0e8aa3659229a4349df57615.jpg", Dũng sĩ đã chết! - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_07/TheLegendaryHeroIsDead_07.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/c1f/4d6/420fa6b4d3d6f33a8549424f2917a8d7.jpg", Dũng sĩ đã chết! - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_08/TheLegendaryHeroIsDead_08.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/11d/cc6/273b14a051e5ccb8113981c0071afb92.jpg", Dũng sĩ đã chết! - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_09/TheLegendaryHeroIsDead_09.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/4e9/5ee/cbc1cea49f6ed245578505ea3e41796e.jpg", Dũng sĩ đã chết! - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_10/TheLegendaryHeroIsDead_10.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/404/daa/f7e74f87fef8dd4404615728397d9557.jpg", Dũng sĩ đã chết! - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_11/TheLegendaryHeroIsDead_11.m3u8
+#EXTINF:-1 group-title="Dũng sĩ đã chết!" tvg-logo="https://images.danet.vn/images//src/31f/1/c3d7dfdd632a8b2ba26a388d75c610a3.jpg", Dũng sĩ đã chết! - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/TheLegendaryHeroIsDead/TheLegendaryHeroIsDead_12/TheLegendaryHeroIsDead_12.m3u8
+
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/484/d98/6239c76b2b44dcc0c6ea622ddcc3bd48.jpg", New Game 1 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_01/NewGame_S1_01_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/6c3/133/21bee90cfa945bf08321681d6ca91dbc.jpg", New Game 1 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_02/NewGame_S1_02_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/d82/5bc/e8323b720df22424fbf5bc8472af9dbd.jpg", New Game 1 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_03/NewGame_S1_03_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/f60/883/cdba681a90cfc88a2bb86a5cd88a0e86.jpg", New Game 1 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_04/NewGame_S1_04_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/5a7/a95/d7fdb9826bad01ab1f4de9dfeb49c09e.jpg", New Game 1 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_05/NewGame_S1_05_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/55b/16e/e375771fd7a85ab58e7a7af0cca5dfcd.jpg", New Game 1 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_06/NewGame_S1_06_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/bad/c00/c159f44bc1cf5ef231a66c0ab1b30800.jpg", New Game 1 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_07/NewGame_S1_07_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/c95/dbe/56396d9acde855cd528837c1dd50838d.jpg", New Game 1 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_08/NewGame_S1_08_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/149/57e/e9002047bb4403b791c47216e7dfbcf1.jpg", New Game 1 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_09/NewGame_S1_09_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/7f5/795/ace0b52356f82100298d232b337806ce.jpg", New Game 1 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_10/NewGame_S1_10_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/1ff/e34/6943e2d4a164bd9107ff11d42d7ba7a7.jpg", New Game 1 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_11/NewGame_S1_11_720p.m3u8
+#EXTINF:-1 group-title="New Game 1" tvg-logo="https://images.danet.vn/images//src/5fa/56c/a53ada460638481fa389028326008bdd.jpg", New Game 1 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S1_12/NewGame_S1_12_720p.m3u8
+
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/be0/6e4/30b3e0c0a2bbe0e6522c0cdd0f8f8626.jpg", New Game 2 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_01/NewGame_S2_01_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/9b7/195/91ca8b53650e0ca2939230a507cbd408.jpg", New Game 2 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_02/NewGame_S2_02_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/bfc/ba1/8db84e24fc2c43d0f95c86e049f99753.jpg", New Game 2 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_03/NewGame_S2_03_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/fad/2ae/192d3f74bd16eeb8d60f266f08617c88.jpg", New Game 2 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_04/NewGame_S2_04_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/8ec/542/ca03ac8e8208077da6c11402e80fd428.jpg", New Game 2 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_05/NewGame_S2_05_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/266/4e4/304b4245bfb375010ea5b0ed73fbeea7.jpg", New Game 2 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_06/NewGame_S2_06_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/3d3/ca0/4c98ef5a850ae1fcf88e33b68a23395d.jpg", New Game 2 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_07/NewGame_S2_07_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/a2f/957/1a234b15de9e34a934a7694ab276e413.jpg", New Game 2 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_08/NewGame_S2_08_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/f4e/2ab/53984665fbb184833cc6578fcee50dd2.jpg", New Game 2 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_09/NewGame_S2_09_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/f9d/ddf/1d23a19dd74771ae698c3d6e3401e3a3.jpg", New Game 2 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_10/NewGame_S2_10_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/67f/2a5/85cf394f2425f7851c6b5ae5836f8820.jpg", New Game 2 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_11/NewGame_S2_11_720p.m3u8
+#EXTINF:-1 group-title="New Game 2" tvg-logo="https://images.danet.vn/images//src/682/202/b8462d98407e02a8a09c26177fa34058.jpg", New Game 2 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/NewGame/NewGame_S2_12/NewGame_S2_12_720p.m3u8
+
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/d29/7a3/674320f6d457e2b05f257a40ac78fc33.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_01/Skeletonknight_01_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/891/dc6/14b1a0c6c1679c82b465304755328bd8.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_02/Skeletonknight_02_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/296/e71/cb73af33b24787086e549939a1a8efb4.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_03/Skeletonknight_03_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/ba8/c6f/21e0c525432b567d883ff85a68a8d8bd.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_04/Skeletonknight_04_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/7de/ed5/90c659ece739faea7120311a07dad049.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_05/Skeletonknight_05_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/6e9/b71/4c9e1b6ad903cba7f655de3dfc567f37.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_06/Skeletonknight_06_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/60f/efb/8b33034fb460f099d9b1e146a3b2d7f9.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_07/Skeletonknight_07_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/a4a/849/d793dbd19b46cd8e07e3aac811e2e7f8.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_08/Skeletonknight_08_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/2ef/1d1/a351ea6cd17d73fcc6098ae0981c3ccd.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_09/Skeletonknight_09_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/5f/cd/d318a10d249d0307192f91ae550eb797.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_10/Skeletonknight_10_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/435/76e/c2ccf305cb3c7ddbd1c22f8250eae553.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_11/Skeletonknight_11_720p.m3u8
+#EXTINF:-1 group-title="Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác" tvg-logo="https://images.danet.vn/images//src/9e0/195/cd1f1e6e3ae9a6323088f25ef51f87cf.jpg", Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/SkeletonKnight/Skeletonknight_12/Skeletonknight_12_720p.m3u8
+
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/b5d/f9a/5097f102622975c41e05371404076596.jpg", Golden Kamuy S1 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_01/GoldenKamuy_01_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/a27/8b6/747214808ccc4b140416ed63a2a0c154.jpg", Golden Kamuy S1 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_02/GoldenKamuy_02_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/a1f/179/f2a5861c41666264c1de2e91f2cece82.jpg", Golden Kamuy S1 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_03/GoldenKamuy_03_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/5aa/4ad/c4b7b3349852ea88188ced8a5fd2025d.jpg", Golden Kamuy S1 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_04/GoldenKamuy_04_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/161/ac0/c627ef5321d852bcb002053b5086b227.jpg", Golden Kamuy S1 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_05/GoldenKamuy_05_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/acc/19f/053282b9f4097a15673d538569a70ef4.jpg", Golden Kamuy S1 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_06/GoldenKamuy_06_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/c2e/2d4/4cd35808b442d749b4ead93f0422d232.jpg", Golden Kamuy S1 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_07/GoldenKamuy_07_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/f2d/638/0be4be1707118a4512983ac00fbd2beb.jpg", Golden Kamuy S1 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_08/GoldenKamuy_08_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/ce6/bc2/305d3ba93f231461b5910626869706e3.jpg", Golden Kamuy S1 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_09/GoldenKamuy_09_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/6ce/6d6/8b4b0a2300a77a4c5fa5282aeb383fc1.jpg", Golden Kamuy S1 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_10/GoldenKamuy_10_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/8ba/bb6/f8a43fa0116ad12c692352c63e3a8da2.jpg", Golden Kamuy S1 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_11/GoldenKamuy_11_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S1" tvg-logo="https://images.danet.vn/images//src/c65/3aa/74716f9821c453344abda81588eb546b.jpg", Golden Kamuy S1 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_12/GoldenKamuy_12_720p.m3u8
+
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/b02/b6f/95c69231280665b8b2b18966075cce90.jpg", Golden Kamuy S2 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_13/GoldenKamuy_s2_13_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/3be/c3f/df5e6beb1db56864a78400b7c2c742b4.jpg", Golden Kamuy S2 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_14/GoldenKamuy_s2_14_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/4a0/928/59e2802a7017a29dcfafd862fabf5430.jpg", Golden Kamuy S2 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_15/GoldenKamuy_s2_15_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/25d/625/2032ef90e0dc921ba9e9f4f832e547f3.jpg", Golden Kamuy S2 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_16/GoldenKamuy_s2_16_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/561/35/dc8b79152fb1e4979f2cba133ca1f5c6.jpg", Golden Kamuy S2 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_17/GoldenKamuy_s2_17_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/e41/a3e/90bfffa1325ac4a522a36da8a1e28072.jpg", Golden Kamuy S2 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_18/GoldenKamuy_s2_18_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/fde/9ac/12bb129a714630339f3a32172d9013db.jpg", Golden Kamuy S2 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_19/GoldenKamuy_s2_19_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/497/eeb/df2124b4f45c0a2ff798a164a37acef3.jpg", Golden Kamuy S2 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_20/GoldenKamuy_s2_20_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/e60/5b1/3b1d6ad1610615d09bf96ee38748cee0.jpg", Golden Kamuy S2 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_21/GoldenKamuy_s2_21_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/cec/c86/5cfe8c1ff0e5cd521a5522bfcd594cda.jpg", Golden Kamuy S2 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_22/GoldenKamuy_s2_22_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/5f1/f55/b3d81fe7dce6d9bf19adef06c552c697.jpg", Golden Kamuy S2 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_23/GoldenKamuy_s2_23_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S2" tvg-logo="https://images.danet.vn/images//src/adc/bd0/06d3d99306b6d21ecd31fc396ccbf542.jpg", Golden Kamuy S2 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s2_24/GoldenKamuy_s2_24_720p.m3u8
+
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/78a/749/8aa34a9a43bd73c5b24988ccbce4f1be.jpg", Golden Kamuy S3 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_25/GoldenKamuy_s3_25_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/a38/a61/0561fc1aef28c929ac342d3479dd24cb.jpg", Golden Kamuy S3 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_26/GoldenKamuy_s3_26_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/16d/7a6/418752a0d3f46f9d4b5c6f4160841772.jpg", Golden Kamuy S3 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_27/GoldenKamuy_s3_27_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/8fb/50b/52381e315f8819e61aa359f456e56e60.jpg", Golden Kamuy S3 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_28/GoldenKamuy_s3_28_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/74a/3db/af89feda3685d57ce6bac6fd0d5fed3d.jpg", Golden Kamuy S3 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_29/GoldenKamuy_s3_29_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/811/b9a/c315f92ad29061477b522c081efee543.jpg", Golden Kamuy S3 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_30/GoldenKamuy_s3_30_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/b77/961/8a1a28d8fc0939c769ceb2562e60d09f.jpg", Golden Kamuy S3 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_31/GoldenKamuy_s3_31_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/8b9/428/42cadec5d207f134083134a74493bb79.jpg", Golden Kamuy S3 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_32/GoldenKamuy_s3_32_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/240/4c7/592d9fcfc9c7cae3f08e145f509c58eb.jpg", Golden Kamuy S3 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_33/GoldenKamuy_s3_33_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/e3f/79f/13ff5624a8eb451c27693c71e28053eb.jpg", Golden Kamuy S3 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_34/GoldenKamuy_s3_34_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/c63/43c/f955346102214568017b9ba001f4bf02.jpg", Golden Kamuy S3 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_35/GoldenKamuy_s3_35_720p.m3u8
+#EXTINF:-1 group-title="Golden Kamuy S3" tvg-logo="https://images.danet.vn/images//src/a8f/527/6de17295aa7f5e0f1f43425ec7d849fb.jpg", Golden Kamuy S3 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/GoldenKamuy/GoldenKamuy_s3_36/GoldenKamuy_s3_36_720p.m3u8
+
