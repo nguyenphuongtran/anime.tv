@@ -9,30 +9,26 @@ https://hdbo.opstream5.com/20230702/34785_e0af62f5/index.m3u8
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/that-nghiep-chuyen-sinh-sang-the-gioi-khac-toi-se-nghiem-tuc-mua-2-thumb.jpg", THẤT NGHIỆP CHUYỂN SINH: SANG THẾ GIỚI KHÁC TÔI SẼ NGHIÊM TÚC - MÙA 2 - Tập 1
 https://hdbo.opstream5.com/20230703/34788_b6f24afb/index.m3u8
 
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-250x350.jpg"  Uchi no Kaisha no Chiisai Senpai no Hanashi -Tập 1
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-250x350.jpg" Uchi no Kaisha no Chiisai Senpai no Hanashi -Tập 1
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/Uchi-no-Kaisha/1/Uchi-no-Kaisha-1.m3u8
 
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega-250x350.jpg"  Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega -Tập 1
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega-250x350.jpg" Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega -Tập 1
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/Atelier-Ryza/1/Atelier-Ryza-1.m3u8
 
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/bang-dream-its-mygo-250x350.jpg"  BanG Dream! It’s MyGO!!!!! -Tập 1
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/bang-dream-its-mygo-250x350.jpg" BanG Dream! It’s MyGO!!!!! -Tập 1
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/BanG-Dream-Its-MyGO/1/BanG-Dream-Its-MyGO-1.m3u8
 
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg"   
-Genjitsu no Yohane: SUNSHINE in the MIRROR-Tập 1
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg" Genjitsu no Yohane: SUNSHINE in the MIRROR-Tập 1
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/Genjitsu-no-Yohane/1/Genjitsu-no-Yohane-1.m3u8
 
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg"   
-Genjitsu no Yohane: SUNSHINE in the MIRROR-Tập 2
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg" Genjitsu no Yohane: SUNSHINE in the MIRROR-Tập 2
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/Genjitsu-no-Yohane/2/Genjitsu-no-Yohane-2.m3u8
 
 
 
 
 
-
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////
 
 
 
