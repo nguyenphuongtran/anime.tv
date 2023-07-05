@@ -7822,7 +7822,7 @@ https://vod-zlr2.tv360.vn/video1/2023/05/30/10/5510f4be/5510f4be-93ac-46fa-b78d-
 https://vod-zlr2.tv360.vn/video1/2023/05/30/10/a3f30b25/a3f30b25-f4c6-4d06-8332-e8902679377e_3_.m3u8
 #EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/de307736/de307736-ae01-4961-aa40-9687a796407c_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 11
 https://vod-zlr2.tv360.vn/video1/2023/05/30/10/a3f30b25/a3f30b25-f4c6-4d06-8332-e8902679377e_5_.m3u8
-#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/da60b7ed/da60b7ed-6ada-4a26-a589-24c0fc293a7f_640_360.jpg", Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 12
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/da60b7ed/da60b7ed-6ada-4a26-a589-24c0fc293a7f_640_360.jpg", Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 12
 https://vod-ali3.tv360.vn/video1/2023/05/30/10/7525b280/7525b280-60d8-409b-ae26-fd1581330109_5_.m3u8
 
 #EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/15/d1d76f17/d1d76f17-09d5-487d-96fb-64ddfcd5652e_640_360.jpg" , Horimiya - Tập 1
