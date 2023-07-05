@@ -7852,3 +7852,6 @@ https://vod-zlr2.tv360.vn/video1/2023/05/29/18/9ed426f8/9ed426f8-bdab-40cf-a785-
 #EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/90c8d9ec/90c8d9ec-58f7-4169-a3ff-7d2c286f40af_640_360.jpg" , Horimiya - Tập 13
 https://vod-zlr2.tv360.vn/video1/2023/05/29/18/86539bae/86539bae-0a5a-4f89-82ab-d6434140db84_5_.m3u8
 
+#EXTINF:-1 group-title="Jujutsu Kaisen 0: Chú Thuật Hồi Chiến" tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/jujutsu-kaisen-0-chu-thuat-hoi-chien-250x350.jpg" Jujutsu Kaisen 0: Chú Thuật Hồi Chiến
+https://s2.truyentot.com/media/video-clips/anime2/01-2022/Jujutsu-Kaisen-0/Jujutsu-Kaisen-0.m3u8
+
