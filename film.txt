@@ -2,33 +2,31 @@
 
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/toi-co-thuc-su-la-nguoi-manh-nhat-khong-thumb.jpg", Tôi Có Thực Sự Là Người Mạnh Nhất  - Tập 1
 https://hdbo.opstream5.com/20230702/34786_6f64e898/index.m3u8
-
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/horimiya-the-missing-pieces-thumb.jpg", Horimiya -piece- - Tập 1
 https://hdbo.opstream5.com/20230702/34785_e0af62f5/index.m3u8
-
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/that-nghiep-chuyen-sinh-sang-the-gioi-khac-toi-se-nghiem-tuc-mua-2-thumb.jpg", THẤT NGHIỆP CHUYỂN SINH: SANG THẾ GIỚI KHÁC TÔI SẼ NGHIÊM TÚC - MÙA 2 - Tập 1
 https://hdbo.opstream5.com/20230703/34788_b6f24afb/index.m3u8
-
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-250x350.jpg" Uchi no Kaisha no Chiisai Senpai no Hanashi -Tập 1
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/Uchi-no-Kaisha/1/Uchi-no-Kaisha-1.m3u8
-
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega-250x350.jpg" Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega -Tập 1
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/Atelier-Ryza/1/Atelier-Ryza-1.m3u8
-
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/bang-dream-its-mygo-250x350.jpg" BanG Dream! It’s MyGO!!!!! -Tập 1
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/BanG-Dream-Its-MyGO/1/BanG-Dream-Its-MyGO-1.m3u8
-
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg" Genjitsu no Yohane: SUNSHINE in the MIRROR-Tập 1
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/Genjitsu-no-Yohane/1/Genjitsu-no-Yohane-1.m3u8
-
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg" Genjitsu no Yohane: SUNSHINE in the MIRROR-Tập 2
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/Genjitsu-no-Yohane/2/Genjitsu-no-Yohane-2.m3u8
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/co-ban-toi-tham-thich-lai-quen-mang-kinh-roi-thumb.jpg", CÔ BẠN TÔI THẦM THÍCH LẠI QUÊN MANG KÍNH RỒI - Tập 1
+https://hdbo.opstream5.com/20230705/34796_5575e5f2/index.m3u8
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/kiep-chuyen-sinh-ngot-ngao-thumb.jpg", KIẾP CHUYỂN SINH NGỌT NGÀO - Tập 1
+https://hdbo.opstream5.com/20230704/34793_d7c78cfd/index.m3u8
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/kiep-chuyen-sinh-ngot-ngao-thumb.jpg", KIẾP CHUYỂN SINH NGỌT NGÀO - Tập 2
+https://hdbo.opstream5.com/20230704/34795_a84fd407/index.m3u8
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/masamune-kun-no-revenge-ss2-250x350.jpg" Masamune-kun no Revenge ss2 Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Masamune-kun-no-Revenge-ss2/1/Masamune-kun-no-Revenge-ss2-1.m3u8
 
 
 
-
-
-////////////////////////////////////////////////////////////////////////////////////////
 
 
 
@@ -7801,3 +7799,56 @@ https://s1.truyentot.com/media/video-clips/anime/Doraemon-New-Series/763/Doraemo
 https://s1.truyentot.com/media/video-clips/anime/Doraemon-New-Series/764/Doraemon-New-Series-764.m3u8
 #EXTINF:-1 group-title="Doremon" tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/doraemon-new-series-meo-may-doremon-250x350.jpg", Doremon- Tập 765
 https://s1.truyentot.com/media/video-clips/anime/Doraemon-New-Series/765/Doraemon-New-Series-765.m3u8
+
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/16/4b21c883/4b21c883-293f-4da0-8a06-a88c981e909c_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 1
+https://vod-ali3.tv360.vn/video1/2023/05/29/16/54efc8be/54efc8be-5a22-43a5-a3c5-ba092c7332aa_3_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/e8e77925/e8e77925-a77a-46d2-a731-f8e0f9135630_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 2
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/08b1e454/08b1e454-d4bd-4a8b-9b43-d1bfbc4908e1_4_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/1e44f41a/1e44f41a-d4ef-4df0-9370-e1200e32f1db_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 3
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/08b1e454/08b1e454-d4bd-4a8b-9b43-d1bfbc4908e1_5_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/82631b91/82631b91-91a8-4b38-82e0-354683f089c4_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 4
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/2863b24c/2863b24c-7206-4044-aeca-d88f800c7d26_4_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/99cafca1/99cafca1-3bef-4627-addf-f0dea4edc0c9_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 5
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/2863b24c/2863b24c-7206-4044-aeca-d88f800c7d26_5_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/4d1929c1/4d1929c1-0ed4-43b1-8f5c-a6db47e6fcf3_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 6
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/9c72f33d/9c72f33d-20bb-4e99-806d-68ef94ddfd84_4_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/99877cd5/99877cd5-2361-4e36-9775-0a160994d777_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 7
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/9c72f33d/9c72f33d-20bb-4e99-806d-68ef94ddfd84_5_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/4d0aeb2f/4d0aeb2f-ddc3-47ef-ac33-30c466316f2f_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 8
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/5510f4be/5510f4be-93ac-46fa-b78d-a1437f271c60_4_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/15689022/15689022-8262-4c66-8051-9be355057d68_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 9
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/5510f4be/5510f4be-93ac-46fa-b78d-a1437f271c60_5_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/6c5ed94f/6c5ed94f-7568-451e-8ce9-006429fa7b26_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 10
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/a3f30b25/a3f30b25-f4c6-4d06-8332-e8902679377e_3_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/de307736/de307736-ae01-4961-aa40-9687a796407c_640_360.jpg" , Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 11
+https://vod-zlr2.tv360.vn/video1/2023/05/30/10/a3f30b25/a3f30b25-f4c6-4d06-8332-e8902679377e_5_.m3u8
+#EXTINF:-1 group-title="Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/30/10/da60b7ed/da60b7ed-6ada-4a26-a589-24c0fc293a7f_640_360.jpg", Đứa Con Mà Mẹ Kế Dẫn Về Từng Là Bạn Gái Cũ - My Stepmom's Daughter is My Ex - Tập 12
+https://vod-ali3.tv360.vn/video1/2023/05/30/10/7525b280/7525b280-60d8-409b-ae26-fd1581330109_5_.m3u8
+
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/15/d1d76f17/d1d76f17-09d5-487d-96fb-64ddfcd5652e_640_360.jpg" , Horimiya - Tập 1
+https://vod-zlr2.tv360.vn/video1/2023/05/29/15/e26c4832/e26c4832-ea91-4675-91f2-067ee39bd963_4_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/38eef566/38eef566-b5b8-49c0-a6f2-ffbe8e3f47c5_640_360.jpg" , Horimiya - Tập 2
+https://vod-zlr2.tv360.vn/video1/2023/05/29/15/e26c4832/e26c4832-ea91-4675-91f2-067ee39bd963_5_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/d21179ba/d21179ba-8b2a-4640-a257-96219efd0c33_640_360.jpg" , Horimiya - Tập 3
+https://vod-ali3.tv360.vn/video1/2023/05/29/18/a0f78abe/a0f78abe-55d8-4802-8810-a4f1d114ddfc_3_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/abbfe175/abbfe175-db8f-45a1-a363-5e8a604ee56f_640_360.jpg" , Horimiya - Tập 4
+https://vod-ali3.tv360.vn/video1/2023/05/29/18/a0f78abe/a0f78abe-55d8-4802-8810-a4f1d114ddfc_4_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/0567877d/0567877d-6348-4aaa-8791-ff4d0ada4dea_640_360.jpg" , Horimiya - Tập 5
+https://vod-zlr2.tv360.vn/video1/2023/05/29/18/029a1a17/029a1a17-a97b-4740-897b-a9fbcf9317f1_5_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/8087eab3/8087eab3-7119-4e02-8f06-94ad415f96ae_640_360.jpg" , Horimiya - Tập 6
+https://vod-zlr2.tv360.vn/video1/2023/05/29/18/6266117a/6266117a-d392-4d62-b014-ddb96436fd7d_5_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/eeace121/eeace121-a4c7-4f37-9cd4-aad9895e2022_640_360.jpg" , Horimiya - Tập 7
+https://vod-zlr2.tv360.vn/video1/2023/05/29/18/f5a0df11/f5a0df11-313f-4c47-95cf-1fa1803c5d98_4_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/cf2083e1/cf2083e1-555a-44d5-86a1-8f9d170264c2_640_360.jpg" , Horimiya - Tập 8
+https://vod-zlr2.tv360.vn/video1/2023/05/29/18/f5a0df11/f5a0df11-313f-4c47-95cf-1fa1803c5d98_5_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/81c5e717/81c5e717-dbfe-487c-a2af-398d6e3a2c4e_640_360.jpg" , Horimiya - Tập 9
+https://vod-ali3.tv360.vn/video1/2023/05/29/18/86539bae/86539bae-0a5a-4f89-82ab-d6434140db84_5_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/4ec321e8/4ec321e8-8a24-4053-b628-253b4a07d6df_640_360.jpg" , Horimiya - Tập 10
+https://vod-zlr2.tv360.vn/video1/2023/05/29/18/2435d2c7/2435d2c7-14b1-4a88-9056-2f9dc5dbf65c_5_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/4694ae18/4694ae18-9411-41f6-a88e-4158ae05e7c6_640_360.jpg" , Horimiya - Tập 11
+https://vod-zlr2.tv360.vn/video1/2023/05/29/18/d3bfd404/d3bfd404-960d-43e9-a21d-de5e880de3e3_5_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/ca9def81/ca9def81-c168-42cf-9544-9ba37d81b04c_640_360.jpg" , Horimiya - Tập 12
+https://vod-zlr2.tv360.vn/video1/2023/05/29/18/9ed426f8/9ed426f8-bdab-40cf-a785-f05075d7bcc2_5_.m3u8
+#EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/90c8d9ec/90c8d9ec-58f7-4169-a3ff-7d2c286f40af_640_360.jpg" , Horimiya - Tập 13
+https://vod-zlr2.tv360.vn/video1/2023/05/29/18/86539bae/86539bae-0a5a-4f89-82ab-d6434140db84_5_.m3u8
+
