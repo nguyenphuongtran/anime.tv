@@ -7852,6 +7852,82 @@ https://vod-zlr2.tv360.vn/video1/2023/05/29/18/9ed426f8/9ed426f8-bdab-40cf-a785-
 #EXTINF:-1 group-title="Horimiya" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/29/18/90c8d9ec/90c8d9ec-58f7-4169-a3ff-7d2c286f40af_640_360.jpg" , Horimiya - Tập 13
 https://vod-zlr2.tv360.vn/video1/2023/05/29/18/86539bae/86539bae-0a5a-4f89-82ab-d6434140db84_5_.m3u8
 
-#EXTINF:-1 group-title="Jujutsu Kaisen 0: Chú Thuật Hồi Chiến" tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/jujutsu-kaisen-0-chu-thuat-hoi-chien-250x350.jpg" Jujutsu Kaisen 0: Chú Thuật Hồi Chiến
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/8c6/112/88bb6fbf2279f65b303e5554f7db62cf.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_01/RZ_S1_01_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/376/dcc/d56b61e07f7da806ad35f4129cf38dc5.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_02/RZ_S1_02_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/b24/152/7d20c1ce4a55d2c03bed0677fa3d3fa1.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_03/RZ_S1_03_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/ded/3e1/5395a4e15245e5a88471ce782aaaeb49.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_04/RZ_S1_04_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/743/ecb/5ddcf5c57f7ecc99dab58e4bd7db427e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_05/RZ_S1_05_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/584/65f/a550db130bd27e1610c4e85367318bb1.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_06/RZ_S1_06_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/199/d4c/8e27253c4d8bf867fe89ee89b1bec977.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_07/RZ_S1_07_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/b01/88b/074fef351ee465f5f2c9b438a64d13ae.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_08/RZ_S1_08_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/543/e5e/d0359f67e05c3a10677de0d17b418c78.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_09/RZ_S1_09_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/d3c/594/caeab61443eb80ed3011155804469f4e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_10/RZ_S1_10_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/473/9c8/adec35b1aedbec3969db935144275872.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_11/RZ_S1_11_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/3e/5fb/2b5cec507ff3378b88d2660ab834086e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_12/RZ_S1_12_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/a78/13a/973ba4bea734e8406406a12e2b8b1c07.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 13
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_13/RZ_S1_13_720p.m3u8
+
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/9f9/27a/e434b325fff70723f4fc340c8f6af257.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_01/RZ_S2_01_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/ce9/c6a/7e187a0388ee2341f382c9d90583e47c.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_02/RZ_S2_02_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/151/587/099c40c62652b16facc0786c3631725c.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_03/RZ_S2_03_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/e0e/ccc/785811265fb98dfae97df90256a58b9e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_04/RZ_S2_04_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/930/aa1/cfff417939e27555f4a118d1395662be.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_05/RZ_S2_05_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/baa/99a/e3c166d92989eb69b56068ae589efba0.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_06/RZ_S2_06_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/1e3/871/e035f3b45450a6e07e11acf338e6ed75.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_07/RZ_S2_07_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/d4d/8e4/cddbfcc4a8b0de8977e2aee76fc2c065.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_08/RZ_S2_08_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/a/874/39e4c84e7739560cb0fc7b6152492ad1.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_09/RZ_S2_09_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/2ea/54/15af9ab36ad4dc36d2fc188ffcb31e8e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_10/RZ_S2_10_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/b83/dc/d28666e6036c67f398028ddb6a4b2fa1.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_11/RZ_S2_11_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/eb8/bf5/69ea74383eb73ffc8e7bd2fc8d44854b.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_12/RZ_S2_12_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/345/808/f12b50777ee2b6fea54de379a54bc832.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_13/RZ_S2_13_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/5c6/55a/529d5927780d72a2bd33dae15f503088.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 14
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_14/RZ_S2_14_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/5ac/d07/2f564678831fcc01b12aeaf4e15de907.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 15
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_15/RZ_S2_15_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/d95/16e/2d4e630a72451234100a10dc1786ecdc.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 16
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_16/RZ_S2_16_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/903/c1e/23730d18aac35f18753844e7c2803a78.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 17
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_17/RZ_S2_17_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/716/e45/868c96e91761f9ddcb253e3ad6db63ae.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 18
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_18/RZ_S2_18_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/568/4a6/12597ee0669de7deab19217e8d695266.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 19
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_19/RZ_S2_19_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/c87/b61/c33d218d54c2f793c982d425c2806e11.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 20
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_20/RZ_S2_20_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/fdb/567/e9968873297edb4ad98e1808cca14fb9.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 21
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_21/RZ_S2_21_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/c17/3a7/250b274af5da7f7e1e03c6c352448866.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 22
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_22/RZ_S2_22_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/5fb/7ea/ed8a53e1aaf131168d3f25e8b3435cc0.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 23
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_23/RZ_S2_23_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/e73/c70/9c67b2ca7de552064dde2108148776b0.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 24
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_24/RZ_S2_24_720p.m3u8
+
+#EXTINF:-1 group-title="Chú Thuật Hồi Chiến - Jujutsu Kaisen Movie" tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/jujutsu-kaisen-0-chu-thuat-hoi-chien-250x350.jpg" Jujutsu Kaisen 0: Chú Thuật Hồi Chiến
 https://s2.truyentot.com/media/video-clips/anime2/01-2022/Jujutsu-Kaisen-0/Jujutsu-Kaisen-0.m3u8
 
