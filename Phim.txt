@@ -1,3 +1,7 @@
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTM3U
+
+
 #EXTINF:-1 group-title="Đường Triều Quỷ Sự Lục" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/24/duong-trieu-quy-su-luc-fpt-play-1679646626486_Portrait_origin.jpg", Đường Triều Quỷ Sự Lục - Tập 1
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230329/strangetaleoftangdynasty-2022-cn-001/726680153858d03bdcb7406e2e9bd891-1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Đường Triều Quỷ Sự Lục" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/03/24/duong-trieu-quy-su-luc-fpt-play-1679646626486_Portrait_origin.jpg", Đường Triều Quỷ Sự Lục - Tập 2
