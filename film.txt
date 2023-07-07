@@ -10887,5 +10887,191 @@ https://vod-cdn01.danet.vn/AVOD/MUSE/UniteUp/UniteUp_10/UniteUp_10_720p.m3u8
 #EXTINF:-1 group-title="Unite up!" tvg-logo="https://images.danet.vn/images//src/5a6/fbf/8b383b6b95222b8a429550f68f264e91.jpg", Unite up! - Tập 11
 https://vod-cdn01.danet.vn/AVOD/MUSE/UniteUp/UniteUp_11/UniteUp_11_720p.m3u8
 
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_trailer/AttackOnTitan1_trailer_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/afc/cfb/73ef0b32480c1e2f47ad0d731932690f.jpg", Đại Chiến Titan - Tập 1
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_01/AttackOnTitan1_01_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/53e/43f/ac212df9f9453ab816f86f111e2f47e4.jpg", Đại Chiến Titan - Tập 2
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_02/AttackOnTitan1_02_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/d4a/a71/80e6b48b2d0d149026cf330a1e111fa1.jpg", Đại Chiến Titan - Tập 3
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_03/AttackOnTitan1_03_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/7b1/7a9/b76ba640a49b9f8e50e97449e00dc493.jpg", Đại Chiến Titan - Tập 4
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_04/AttackOnTitan1_04_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/e6d/f99/91b3e54b7b9aecfd6208f381c9cd80bd.jpg", Đại Chiến Titan - Tập 5
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_05/AttackOnTitan1_05_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/b8e/75f/f1862b0a1c784927c89e2214f4507424.jpg", Đại Chiến Titan - Tập 6
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_06/AttackOnTitan1_06_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/7ea/131/08e82be84ddad0c655dada95e4c32334.jpg", Đại Chiến Titan - Tập 7
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_07/AttackOnTitan1_07_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/853/4fd/8350e4ea1a7da67d3ca121253d7add8a.jpg", Đại Chiến Titan - Tập 8
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_08/AttackOnTitan1_08_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/2f9/8e1/686a4eb72f7549d952146381ddf1a5c1.jpg", Đại Chiến Titan - Tập 9
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_09_v2/AttackOnTitan1_09_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/456/13c/33c09e7669725a028b986a7fba24cf7b.jpg", Đại Chiến Titan - Tập 10
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_10_v2/AttackOnTitan1_10_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/167/4e6/b81ceae02bb87b79240ceb3ca42d24fa.jpg", Đại Chiến Titan - Tập 11
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_11_v2/AttackOnTitan1_11_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/528/f99/90c084c50228a5fd326cdff310a70016.jpg", Đại Chiến Titan - Tập 12
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_12_v2/AttackOnTitan1_12_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/3d/d4a/951f6f89d26583d0cf12ce2d91e9d4bc.jpg", Đại Chiến Titan - Tập 13.5
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_13b/AttackOnTitan1_13b_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/dc1/688/db0ea4293c4e8319993171fdaffc228e.jpg", Đại Chiến Titan - Tập 13
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_13_v2/AttackOnTitan1_13_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/114/672/6e85a2d02fa546c4aec6bd5ef197330c.jpg", Đại Chiến Titan - Tập 14
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_14_v2/AttackOnTitan1_14_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/e5/c83/44d2d2f84e56888b45c8f36c8d415819.jpg", Đại Chiến Titan - Tập 15
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_15_v3/AttackOnTitan1_15_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/557/718/e6c46ad3369c3dba5453e7d177d85481.jpg", Đại Chiến Titan - Tập 16
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_16_v3/AttackOnTitan1_16_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/3ca/8ee/4ad9034386fb83feffbe8cf08f019747.jpg", Đại Chiến Titan - Tập 17
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_17_v3/AttackOnTitan1_17_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/154/3e3/4338294e740dc265c3cba90c8b6fb4d4.jpg", Đại Chiến Titan - Tập 18
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_18_v3/AttackOnTitan1_18_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/ce9/bcf/29016d88577d92ed261cb574b67be06f.jpg", Đại Chiến Titan - Tập 19
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_19_v3/AttackOnTitan1_19_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/b4c/b27/25c1d16264fbe92a2087f5cf69cb78c6.jpg", Đại Chiến Titan - Tập 20
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_20_v3/AttackOnTitan1_20_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/6a5/797/167ac60e9ddf11c632e969666fbb8932.jpg", Đại Chiến Titan - Tập 21
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_21_v3/AttackOnTitan1_21_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/f05/1d0/f1276a1ece22fd7849da4af12c0b110f.jpg", Đại Chiến Titan - Tập 22
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_22_v3/AttackOnTitan1_22_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/1b8/166/f10c367c55b4b5d5aafa13e1fcf5affd.jpg", Đại Chiến Titan - Tập 23
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_23_v3/AttackOnTitan1_23_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/eb8/c/d9db2a9005ddb2ea53e820d4d5ee26e9.jpg", Đại Chiến Titan - Tập 24
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_24_v3/AttackOnTitan1_24_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan" tvg-logo="https://images.danet.vn/images/src/e3d/33e/cdf8152df530ce1637f553d4604059e0.jpg", Đại Chiến Titan - Tập 25
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan1_25_v3/AttackOnTitan1_25_720p.m3u8
+
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/88b/64d/49b06e41710354e5cfab41c505fb36af.jpg", Đại Chiến Titan  2 - Tập 1
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_01/AttackOnTitan2_01_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/681/7f0/1420c3ca680da43fff8944ea6374e292.jpg", Đại Chiến Titan  2 - Tập 2
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_02/AttackOnTitan2_02_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/795/d0a/c4977c00137d6ffded7ade32ba6f8e89.jpg", Đại Chiến Titan  2 - Tập 3
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_03/AttackOnTitan2_03_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/362/670/8b5ab94861364acf569db8c5106e3fab.jpg", Đại Chiến Titan  2 - Tập 4
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_04/AttackOnTitan2_04_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/c6d/8cb/73f3aa4a4c95db8e54af37621b9f0c03.jpg", Đại Chiến Titan  2 - Tập 5
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_05/AttackOnTitan2_05_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/f40/8d8/456055217ad2c860fd250b0c2822149b.jpg", Đại Chiến Titan  2 - Tập 6
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_06/AttackOnTitan2_06_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/4ea/c19/42b75890dfb24a8a41431e4f03c31c47.jpg", Đại Chiến Titan  2 - Tập 7
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_07/AttackOnTitan2_07_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/e5c/76e/5eba9d10867eae23612224d3c273aa16.jpg", Đại Chiến Titan  2 - Tập 8
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_08/AttackOnTitan2_08_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/6f0/98e/fbb24fe2227e9683ee6b4bd64856e067.jpg", Đại Chiến Titan  2 - Tập 9
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_09/AttackOnTitan2_09_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/d2e/2e2/eed7b4e3ea0075b93447d480154aaf58.jpg", Đại Chiến Titan  2 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_10/AttackOnTitan2_10_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/c91/72d/c31708b332921f1cf1c7d416d834903b.jpg", Đại Chiến Titan  2 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_11/AttackOnTitan2_11_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  2" tvg-logo="https://images.danet.vn/images/src/693/a4/058d7e99ff2b88104b5e54d0232da0a2.jpg", Đại Chiến Titan  2 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan2_12/AttackOnTitan2_12_720p.m3u8
+
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/9b/7fe/38d4651644c196bf5cad699de8517859.jpg", Đại Chiến Titan 3 - Part 1 - Tập 1
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_01/AttackOnTitan3_01_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/a1a/cb0/d591e2465dc084e73136091480b59876.jpg", Đại Chiến Titan 3 - Part 1 - Tập 2
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_02/AttackOnTitan3_02_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/db7/342/78829fb422b9644767d12a62c92b8d30.jpg", Đại Chiến Titan 3 - Part 1 - Tập 3
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_03/AttackOnTitan3_03_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/8ca/d08/bfa02f45af2a195d3d88c38e7f402c57.jpg", Đại Chiến Titan 3 - Part 1 - Tập 4
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_04/AttackOnTitan3_04_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/7be/2e6/63819fdd328e38259797c32d09d1e5c5.jpg", Đại Chiến Titan 3 - Part 1 - Tập 5
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_05/AttackOnTitan3_05_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/978/636/241a4dcdf800b7921471106b68725a70.jpg", Đại Chiến Titan 3 - Part 1 - Tập 6
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_06/AttackOnTitan3_06_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/9fb/76e/27921147f18628919e412602286cc36e.jpg", Đại Chiến Titan 3 - Part 1 - Tập 7
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_07/AttackOnTitan3_07_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/831/43f/70cb21959e3b7e79a86397de957fb709.jpg", Đại Chiến Titan 3 - Part 1 - Tập 8
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_08/AttackOnTitan3_08_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/e4d/ae3/81616310b70b3df9530f91b1a2ecc471.jpg", Đại Chiến Titan 3 - Part 1 - Tập 9
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_09/AttackOnTitan3_09_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/395/98b/462470ce1e3b8032c4667baa89a75ca5.jpg", Đại Chiến Titan 3 - Part 1 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_10/AttackOnTitan3_10_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/8c0/332/201358017ce2b25f1b7902fdc3dd6ce4.jpg", Đại Chiến Titan 3 - Part 1 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_11/AttackOnTitan3_11_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 1" tvg-logo="https://images.danet.vn/images/src/3e3/20b/7df31b8a9cb3ea2a35d04a73c7bc97aa.jpg", Đại Chiến Titan 3 - Part 1 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_12/AttackOnTitan3_12_720p.m3u8
+
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/863/dc9/52e421021268f2e5e6cffd390c0be944.jpg", Đại Chiến Titan 3 - Part 2 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_13/AttackOnTitan3_13_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/d33/420/215807d59316e1bf2ca11677b25bcdd3.jpg", Đại Chiến Titan 3 - Part 2 - Tập 14
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_14_f/AttackOnTitan3_14_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/f1c/500/a419a0f519f679ee44a4510d4604f13a.jpg", Đại Chiến Titan 3 - Part 2 - Tập 15
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_15_f/AttackOnTitan3_15_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/143/4a9/4f2cd3c7db22edb1b04cc2cefb795127.jpg", Đại Chiến Titan 3 - Part 2 - Tập 16
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_16_f/AttackOnTitan3_16_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/3a7/6d2/5e3646f23ae48e4b3008b1890ff0d7d7.jpg", Đại Chiến Titan 3 - Part 2 - Tập 17
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_17_v2/AttackOnTitan3_17_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/6b5/130/b405a90d78aca59e1ba70d08c52278eb.jpg", Đại Chiến Titan 3 - Part 2 - Tập 18
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_18/AttackOnTitan3_18_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/da8/b8e/f9b3083fb58f83e480df8219c0c5900e.jpg", Đại Chiến Titan 3 - Part 2 - Tập 19
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_19_v2/AttackOnTitan3_19_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/ed/483/00ff7f3b209dc7ab84a33dcf8c3b7e23.jpg", Đại Chiến Titan 3 - Part 2 - Tập 20
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_20_v2/AttackOnTitan3_20_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/8af/ce/30d13a5eac78742a06a740be73a1bfd1.jpg", Đại Chiến Titan 3 - Part 2 - Tập 21
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_21_v3/AttackOnTitan3_21_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan 3 - Part 2" tvg-logo="https://images.danet.vn/images/src/f37/4ff/9d12ecc4ad44cca9bf8b32350acfa44f.jpg", Đại Chiến Titan 3 - Part 2 - Tập 22
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan3_22_v2/AttackOnTitan3_22_720p.m3u8
+
+EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/b1a/237/3bdbf5ab5adb3da0d42c2adbae162017.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #16 - Thiên Đàng Và Địa Ngục
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_16/AttackOnTitan4_16_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/366/111/90e6e5458a9b03ec043215f60e1529ac.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #15 - Sự Cứu Rỗi Duy Nhất
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_15/AttackOnTitan4_15_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/78b/c24/f7a214b3d4bccd81ee8268bc6618d183.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #14 - Tàn bạo
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_14_v2/AttackOnTitan4_14_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/71c/d42/1222f7c8bd39c1a57552817e22bb39b2.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #13 - Những đứa trẻ của khu rừng
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_13/AttackOnTitan4_13_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/cba/ca0/ca6158c341b1914d41dae4b6d85defae.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #12 - Thủ Lĩnh
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_12/AttackOnTitan4_12_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/a9a/520/b6c19905a1235c2695752039c245575c.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #11 - Kẻ Lừa Dối
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_11/AttackOnTitan4_11_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/d56/d7/d4757cb423e19d875a269e4566022eec.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #10 - Cuộc Tranh Luận Hợp Lý
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_10/AttackOnTitan4_10_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/5e0/b16/570fbd6f4650e131290bd63069f28850.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #9 - Những tình nguyện viên dũng cảm
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_09/AttackOnTitan4_09_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/207/fd0/2e6f9e22d937997b01d50f2fe0939c25.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #8 - Viên đạn ám sát
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_08/AttackOnTitan4_08_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/1b6/37c/50f9e7cb3939f706df5c320ff8a445f5.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #7 - Công Kích
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_07/AttackOnTitan4_07_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/1aa/534/9316b114220220caf018a72dc321dd87.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #6 - Titan Búa Chiến
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_06/AttackOnTitan4_06_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/6ec/448/448689ba20dd01710e5025560ebd97a0.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #5 - Lời Tuyên Chiến
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_05_v2/AttackOnTitan4_05_v2_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/8cd/f7a/e6be4934dacd9c3284b74c3d6ae99615.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #4 - Trao Tay 
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_04/AttackOnTitan4_04_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/4ad/50a/b1488ef6c55fa2439b557c2f7d1e4051.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #3 - Cánh Cửa Hy Vọng
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_03/AttackOnTitan4_03_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/518/aab/ea5088026d548869f6bc55fad147b04d.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #2 - Chuyến Tàu Đêm
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_02_v3/AttackOnTitan4_02_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan  4 - Mùa Cuối Cùng" tvg-logo="https://images.danet.vn/images//src/b10/4ee/8d2c9fed031d73cda17029a913939369.jpg", Đại Chiến Titan  4 - Mùa Cuối Cùng - #1 - Bên Kia Đại Dương
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_01_v4/AttackOnTitan4_01_720p.m3u8
+
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/ebe/d6c/eaf9439b21f04a4c20e3e9615f3fac1f.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #28 - Bình Minh Của Nhân Loại
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_28/AttackOnTitan4_28_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/11c/64d/a681b6034d7c21b8da1ab54cd8791fd2.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #27 - Hồi tưởng
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_27/AttackOnTitan4_27_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/5a4/e0d/b6f6437aec58baed7c8bec48f6aebea0.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #26 - Kẻ Phản Bội
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_26/AttackOnTitan4_26_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/a99/6f2/c4cd0aece113aa2e659055e1706c7b39.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #25 - Đêm của hồi kết
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_25/AttackOnTitan4_25_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/789/c7c/3dc034bf7b24ee4b762b2239888953b0.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #24 - Lòng kiêu hãnh
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_24/AttackOnTitan4_24_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/384/c72/33cf39bf0eca94c8f8e4dd02b3cef537.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #23 - Hoàng hôn
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_23/AttackOnTitan4_23_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/25f/b82/3d585ef36f35224ee9fc55b7abfcc162.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #22 - Tan Chảy
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_22/AttackOnTitan4_22_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/f9b/503/51bf600c4465c9470bbb4642aa3cd1d4.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #21 - Từ chính bạn, 2000 năm trước
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_21/AttackOnTitan4_21_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/96a/23e/63c9ab2d787278b482d64a536da0db20.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #20 - Ký ức từ tương lai
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_20/AttackOnTitan4_20_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/b4c/bb9/d6ffce5dcf096415f259a8fb87b660a4.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #19 - HAI ANH EM
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_19/AttackOnTitan4_19_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/f25/16c/bf84030358c2993bcfe7d548312ca233.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #18 - ĐÁNH LÉN
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_18/AttackOnTitan4_18_720p.m3u8
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 2" tvg-logo="https://images.danet.vn/images//src/182/ae6/db87a713abc63a50b5a8a6b587fda619.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 2 - #17 - PHÁN QUYẾT
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_17/AttackOnTitan4_17_720p.m3u8
+
+#EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 3 - Part 1" tvg-logo="https://images.danet.vn/images//src/efc/af2/807d52741cf9d8d5139276e3a50fcefc.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 3 - Part 1 - Tập 29
+https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_Part3_01_v3/AttackOnTitan4_Part3_01_v3_720p.m3u8
+
 
 
