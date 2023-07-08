@@ -1,4 +1,3 @@
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTM3U
 
 
