@@ -1621,3 +1621,544 @@ https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230326/thestarrylove-
 #EXTINF:-1 group-title="Tinh Lạc Ngưng Thành Đường" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/05/tinh-lac-ngung-thanh-duong-fpt-play-1680656211602_Portrait_origin.jpg", Tinh Lạc Ngưng Thành Đường - Tập 40 - Tập cuối
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230326/thestarrylove-2023-cn-040-checkedv2-1679844013/ad98ba5142b88c92f08723ca47c79e63-1080p.mp4/playlist.m3u8
 
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/5f7/c5/8ac4eca2f8f08eed50840b2127de6215.jpg", Cứu Thế - Tập 01
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_01/Healer_01_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/a6e/cd6/0b8a048f04e98e542f36f881cc01d506.jpg", Cứu Thế - Tập 02
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_02/Healer_02_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/b24/88b/02b4e944b0b48215cff5d717a6a2436e.jpg", Cứu Thế - Tập 03
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_03/Healer_03_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/6af/b66/24f4892ca77046299ed1c0b30c528590.jpg", Cứu Thế - Tập 04
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_04/Healer_04_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/b44/56c/81d9452b102fe9d439650209c8f53c3c.jpg", Cứu Thế - Tập 05
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_05/Healer_05_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/504/faa/322796c425a58a6000cf5a8892bd9650.jpg", Cứu Thế - Tập 06
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_06/Healer_06_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/2a3/e31/22dbc124cc58ea8fa0b7a5255d53fd82.jpg", Cứu Thế - Tập 07
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_07/Healer_07_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/fe/185/d233fef4be7b49ae6ee767e85f613de4.jpg", Cứu Thế - Tập 08
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_08/Healer_08_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/c57/f2f/464043f68deba7261fc1053928024efe.jpg", Cứu Thế - Tập 09
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_09/Healer_09_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/30c/18/e5c57380bbbe6b4b27bed9917a19d653.jpg", Cứu Thế - Tập 10
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_10/Healer_10_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/4d3/d27/fe0873ef5591ba4689fb83abd84a03ad.jpg", Cứu Thế - Tập 11
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_11/Healer_11_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/871/594/766db1c1174f396f498e4d812f7af986.jpg", Cứu Thế - Tập 12
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_12/Healer_12_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/9af/443/ed6c7c4e2229813b4d6f02f3ab174408.jpg", Cứu Thế - Tập 13
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_13/Healer_13_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/6a1/4cb/4a4f9821aab2bc35d0bfbe2f5f758603.jpg", Cứu Thế - Tập 14
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_14/Healer_14_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/68b/ece/34c917bd1d3f77d79be63d40f2a131e8.jpg", Cứu Thế - Tập 15
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_15/Healer_15_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/fdb/f06/57eec9b96a33a60a2f86d28c24fcaf1e.jpg", Cứu Thế - Tập 16
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_16/Healer_16_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/3de/f6f/2b879ee95fc4bb8c5b970c7af0badd49.jpg", Cứu Thế - Tập 17
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_17/Healer_17_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/5c6/b58/fb635b5846ea35c6939bedd3eb9df557.jpg", Cứu Thế - Tập 18
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_18/Healer_18_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/d8c/f59/264d92a75df64e8899ac55ac670475fd.jpg", Cứu Thế - Tập 19
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_19/Healer_19_720p.m3u8
+#EXTINF:-1 group-title="Cứu Thế" tvg-logo="https://images.danet.vn/images//src/e22/89f/48aeb04e35f4ec5e91fd680b64de71c5.jpg", Cứu Thế - Tập 20
+https://vod-cdn01.danet.vn/AVOD/Healer/Healer_20/Healer_20_720p.m3u8
+
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/65a/9d3/633907331841976e656737b708a134d4.jpg", Chân Hoàn Truyện - Tập 01
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_01/EmpressesInThePalace_01_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/260/f49/c7df6fef2986c4d42dbdc965f04caafd.jpg", Chân Hoàn Truyện - Tập 02
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_02/EmpressesInThePalace_02_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/992/28c/15f8605c5ef7de29cc4a64bcb312c320.jpg", Chân Hoàn Truyện - Tập 03
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_03/EmpressesInThePalace_03_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/ab/a9c/c50a1361a6896b744c743184cec6133e.jpg", Chân Hoàn Truyện - Tập 04
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_04/EmpressesInThePalace_04_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/337/c/0907d17011d79ebb10e043e4ddb3da18.jpg", Chân Hoàn Truyện - Tập 05
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_05/EmpressesInThePalace_05_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/9be/25c/a9d78b5cfce4d85715929d62aa8f1aa0.jpg", Chân Hoàn Truyện - Tập 06
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_06/EmpressesInThePalace_06_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/b2c/1c5/d8bc873854c7fd8f58e52903363f91f2.jpg", Chân Hoàn Truyện - Tập 07
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_07/EmpressesInThePalace_07_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/820/42c/1dbeea9950828266d96ed65923019a22.jpg", Chân Hoàn Truyện - Tập 08
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_08/EmpressesInThePalace_08_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/d44/165/140c3b0fdf7b4e1965929496b01601cb.jpg", Chân Hoàn Truyện - Tập 09
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_09/EmpressesInThePalace_09_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/3a9/d6e/640dc7cc962d8cc1eb77b2b3d539d7d3.jpg", Chân Hoàn Truyện - Tập 10
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_10/EmpressesInThePalace_10_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/51b/27e/6ab60bc780ced46c262157b8b0de1f3a.jpg", Chân Hoàn Truyện - Tập 11
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_11/EmpressesInThePalace_11_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/f05/8f8/51d1fc695b4b22fbdea8cce54873da7e.jpg", Chân Hoàn Truyện - Tập 12
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_12/EmpressesInThePalace_12_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/8ae/865/c28af647fc4ef37888bb403fdbc687a2.jpg", Chân Hoàn Truyện - Tập 13
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_13/EmpressesInThePalace_13_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/9d3/ff0/d668c1ba99ccd6dd7ea46a342c35df40.jpg", Chân Hoàn Truyện - Tập 14
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_14/EmpressesInThePalace_14_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/430/c76/f8be1f6834a80aac9f44499a1c53cf29.jpg", Chân Hoàn Truyện - Tập 15
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_15/EmpressesInThePalace_15_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/18f/f34/af4b5f5cb6cc0ca53341384c5960c378.jpg", Chân Hoàn Truyện - Tập 16
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_16/EmpressesInThePalace_16_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/817/8df/1b494f8b184831b44c5d79a54c0600ac.jpg", Chân Hoàn Truyện - Tập 17
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_17/EmpressesInThePalace_17_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/eb7/cda/f93029df200d33a0f2a4412f0c65cbf5.jpg", Chân Hoàn Truyện - Tập 18
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_18/EmpressesInThePalace_18_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/2e6/395/f6ffba73960677596106a5dced0bb1de.jpg", Chân Hoàn Truyện - Tập 19
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_19/EmpressesInThePalace_19_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/d92/672/b809d9c2a4e3cd19ea916087ac9b2b7c.jpg", Chân Hoàn Truyện - Tập 20
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_20/EmpressesInThePalace_20_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/82c/4b2/0c1feffc21f72904d4669e9753305db9.jpg", Chân Hoàn Truyện - Tập 21
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_21/EmpressesInThePalace_21_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/8e5/c43/088f00ab156853fcdafb24522d07f7d5.jpg", Chân Hoàn Truyện - Tập 22
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_22/EmpressesInThePalace_22_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/f9/6f2/2e7b402721e5e83338b34f1246281560.jpg", Chân Hoàn Truyện - Tập 23
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_23/EmpressesInThePalace_23_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/b11/a6/ee6b5b952b79b8364eb3072960032885.jpg", Chân Hoàn Truyện - Tập 24
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_24/EmpressesInThePalace_24_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/176/5bd/e366af513a72406c40bc891b692be223.jpg", Chân Hoàn Truyện - Tập 25
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_25/EmpressesInThePalace_25_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/fc7/f4d/fe85e2008c0e0eb7538637cbb6518499.jpg", Chân Hoàn Truyện - Tập 26
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_26/EmpressesInThePalace_26_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/f10/603/ae9707d69ce6d5f11a2cdfe6b40e1adb.jpg", Chân Hoàn Truyện - Tập 27
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_27/EmpressesInThePalace_27_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/ee/232/62e7b0bf98069cec8d6e76eac8ca7795.jpg", Chân Hoàn Truyện - Tập 28
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_28/EmpressesInThePalace_28_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/c87/68f/92748ca2fd0d35d40e20681f416f22b4.jpg", Chân Hoàn Truyện - Tập 29
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_29/EmpressesInThePalace_29_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/8af/4e5/810ce28016aeeba245a18c3541ec5ca1.jpg", Chân Hoàn Truyện - Tập 30
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_30/EmpressesInThePalace_30_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/75c/20d/347ce62b7699286af32b486b57ff2a6b.jpg", Chân Hoàn Truyện - Tập 31
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_31/EmpressesInThePalace_31_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/a7d/512/055aa06453693696b06f98b94fe23fce.jpg", Chân Hoàn Truyện - Tập 32
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_32/EmpressesInThePalace_32_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/c76/dc6/75bc4b9d0cc938cdbcddc79d7b5ab7f6.jpg", Chân Hoàn Truyện - Tập 33
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_33/EmpressesInThePalace_33_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/213/378/005640dbd9e82217e9daad35da3ac91c.jpg", Chân Hoàn Truyện - Tập 34
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_34/EmpressesInThePalace_34_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/bf5/a56/0481ec6d0eb10de64398a6944f07d327.jpg", Chân Hoàn Truyện - Tập 35
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_35/EmpressesInThePalace_35_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/7a3/9ba/02a114e857d0ebee02b225c3a05a7342.jpg", Chân Hoàn Truyện - Tập 36
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_36/EmpressesInThePalace_36_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/e88/d83/8b7a4d79dc3753c2abac14329962f19e.jpg", Chân Hoàn Truyện - Tập 37
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_37/EmpressesInThePalace_37_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/aaf/7db/27f3643d93b72fd50117e570cba23b07.jpg", Chân Hoàn Truyện - Tập 38
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_38/EmpressesInThePalace_38_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/5a5/c23/90afb55e5c4d00d57d690511d3f3727f.jpg", Chân Hoàn Truyện - Tập 39
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_39/EmpressesInThePalace_39_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/831/3c5/93ab6dba01c5ca10be6932dbfc71ddfc.jpg", Chân Hoàn Truyện - Tập 40
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_40/EmpressesInThePalace_40_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/93b/3dd/a56d2979676189c5800a83a2fb495b4c.jpg", Chân Hoàn Truyện - Tập 41
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_41/EmpressesInThePalace_41_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/37c/d91/c2a52acaf8ba61db2e8b7df4ceca8555.jpg", Chân Hoàn Truyện - Tập 42
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_42/EmpressesInThePalace_42_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/11a/ccf/984cbd8949cbb4130d0877852cf91345.jpg", Chân Hoàn Truyện - Tập 43
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_43/EmpressesInThePalace_43_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/398/630/88b503d74b9905559bf73cb83dba9276.jpg", Chân Hoàn Truyện - Tập 44
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_44/EmpressesInThePalace_44_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/da0/9e1/a42c2d1e7b8bf048c3b821d9308dc377.jpg", Chân Hoàn Truyện - Tập 45
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_45/EmpressesInThePalace_45_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/7e9/1cb/d404b71eb72cd405be37c9874283e385.jpg", Chân Hoàn Truyện - Tập 46
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_46/EmpressesInThePalace_46_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/601/bc5/49d44f4bb679be8272c484cb96443bf8.jpg", Chân Hoàn Truyện - Tập 47
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_47/EmpressesInThePalace_47_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/e4b/876/63d89fabb26cc1c9f7572a5369b58324.jpg", Chân Hoàn Truyện - Tập 48
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_48/EmpressesInThePalace_48_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/f2b/26c/fb23557c25f4312d7e549a5e3ddb710a.jpg", Chân Hoàn Truyện - Tập 49
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_49/EmpressesInThePalace_49_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/544/546/9c09fcaf1a88dbb92b395e2ae0146456.jpg", Chân Hoàn Truyện - Tập 50
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_50/EmpressesInThePalace_50_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/521/fdd/49446485a7d0700c3f2872a90df1b9a7.jpg", Chân Hoàn Truyện - Tập 51
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_51/EmpressesInThePalace_51_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/c00/620/8d7f781ddd7c765b360ed6496550bbab.jpg", Chân Hoàn Truyện - Tập 52
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_52/EmpressesInThePalace_52_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/589/db/5c37ff2b9cc801128d6008491700d3f7.jpg", Chân Hoàn Truyện - Tập 53
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_53/EmpressesInThePalace_53_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/d7f/887/2e381aeb5852b8e8d36c153f4c0e623b.jpg", Chân Hoàn Truyện - Tập 54
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_54/EmpressesInThePalace_54_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/d4e/bd1/bfd91c23eb066f6aa2ae84b82aa9f19a.jpg", Chân Hoàn Truyện - Tập 55
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_55/EmpressesInThePalace_55_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/c24/8ea/25c949a85788fc817647dd4b9f8688cc.jpg", Chân Hoàn Truyện - Tập 56
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_56/EmpressesInThePalace_56_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/f53/470/2d8ac9e25fb703eb8d646d35359719ba.jpg", Chân Hoàn Truyện - Tập 57
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_57/EmpressesInThePalace_57_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/cab/45c/47cc1344e401d13c6720c3f8d0d2139a.jpg", Chân Hoàn Truyện - Tập 58
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_58/EmpressesInThePalace_58_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/ba3/e22/51560269555586362d9ee81021d2af25.jpg", Chân Hoàn Truyện - Tập 59
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_59/EmpressesInThePalace_59_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/dee/133/bc64bec337c910a272da86a8d874d19f.jpg", Chân Hoàn Truyện - Tập 60
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_60/EmpressesInThePalace_60_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/ea/5b1/9a98b594208da970b09e7408f0f095c2.jpg", Chân Hoàn Truyện - Tập 61
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_61/EmpressesInThePalace_61_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/6fa/24/070118af168d73686562d208d439bb31.jpg", Chân Hoàn Truyện - Tập 62
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_62/EmpressesInThePalace_62_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/826/29/a99e1958e92fecf5e4ca36da69cfe460.jpg", Chân Hoàn Truyện - Tập 63
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_63/EmpressesInThePalace_63_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/c2/4/0dfd4f195d8aefe8ec8f92a56dcb57f7.jpg", Chân Hoàn Truyện - Tập 64
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_64/EmpressesInThePalace_64_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/c5a/ec2/f4676a70e40e6670e08cc45a74505be5.jpg", Chân Hoàn Truyện - Tập 65
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_65/EmpressesInThePalace_65_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/5e2/d0d/c9fbd9eeb49622a1570ff07a6a3118bf.jpg", Chân Hoàn Truyện - Tập 66
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_66/EmpressesInThePalace_66_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/370/c00/a3cddb698e441a48275011cfa9347aa2.jpg", Chân Hoàn Truyện - Tập 67
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_67/EmpressesInThePalace_67_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/550/f83/da85b8642021d2e21b19eba92bc1441e.jpg", Chân Hoàn Truyện - Tập 68
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_68/EmpressesInThePalace_68_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/edc/86b/1ee985c636c1476e82ed0f53c7c62ada.jpg", Chân Hoàn Truyện - Tập 69
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_69/EmpressesInThePalace_69_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/4f6/97c/55700255dcb58837f061e6ba742b55bc.jpg", Chân Hoàn Truyện - Tập 70
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_70/EmpressesInThePalace_70_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/c4b/dbe/ed291fdb4ddc55c7d8ab38b22dd93865.jpg", Chân Hoàn Truyện - Tập 71
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_71/EmpressesInThePalace_71_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/7c8/3de/558f9ef07c5dc6c05af190db82d4b129.jpg", Chân Hoàn Truyện - Tập 72
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_72/EmpressesInThePalace_72_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/e23/f0a/4600f5fffd6520705ae09d8f96a2b41e.jpg", Chân Hoàn Truyện - Tập 73
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_73/EmpressesInThePalace_73_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/76/3f5/10a193da88b8f42985e326a88b386a59.jpg", Chân Hoàn Truyện - Tập 74
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_74/EmpressesInThePalace_74_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/840/87/23bc9581ed696c417347d0954ffa0574.jpg", Chân Hoàn Truyện - Tập 75
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_75/EmpressesInThePalace_75_720p.m3u8
+#EXTINF:-1 group-title="Chân Hoàn Truyện" tvg-logo="https://images.danet.vn/images//src/72d/1/e5b43acb799352ef2277cc7843bced0e.jpg", Chân Hoàn Truyện - Tập 76
+https://vod-cdn01.danet.vn/AVOD/EmpressesInThePalace/EmpressesInThePalace_76/EmpressesInThePalace_76_720p.m3u8
+
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/303/f92/1a576abdb4263e077cbd16d04d2ee9f4.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_01_v2/MandV_01_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/ec2/24f/242b518c938278061a8135d93b8aec2b.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_02_v2/MandV_02_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/a92/d0a/c5017685a501e56b1a2a58f631e9a065.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_03_v2/MandV_03_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/6aa/58b/01b35ec9421f7c19ee8b52e662f69bc0.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_04_v2/MandV_04_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/60f/adf/d0664bb060692a81ac75b8dc4cc8f686.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_05_v2/MandV_05_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/482/d9e/09e2ae476794eeeb530b2f0b2808010f.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_06_v2/MandV_06_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/d18/934/d47215aaf0f421e69dc4cc3da5e647d0.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_07_v2/MandV_07_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/852/690/9e93c22f94a62d82b57de690fa91ce11.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_08_v2/MandV_08_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/ffc/e7/e0b8c6d76b0556db1d41bc60c781d0e6.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_09_v2/MandV_09_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/b5e/c85/fd831f85b4b53256dcf3a81067508f81.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_10_v2/MandV_10_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/982/83/e249c35a577d205f9b8df3643adc192d.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_11_v2/MandV_11_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/45f/9d4/2c6e9d1eda2490b041a354a9ff339792.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_12_v2/MandV_12_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/976/e46/f447e481a9fe75371dbf7efbb40eaf7b.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 13
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_13_v2/MandV_13_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/d86/514/df8a6afdce039189361eb062c57f3814.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 14
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_14_v2/MandV_14_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/ec4/e58/e6f9fbb9bad47bc1e6f5a44ee575c7ed.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 15
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_15_v2/MandV_15_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/e0e/800/d1edd56dcdea94849c89161076c48739.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 16
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_16_v2/MandV_16_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/1d9/79c/45c04f6d349f6cb5ee3a272b6778a961.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 17
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_17_v2/MandV_17_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/10a/b83/daa7c53adc47de58a8df410dfb0c3a6c.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 18
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_18_v2/MandV_18_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/e2/ef6/b9313d248f2889fb5253e8befec7fd88.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 19
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_19_v2/MandV_19_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/1f3/f80/0e22685110431865b6386f117fc2d3c9.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 20
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_20_v2/MandV_20_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/5e3/5e4/e2485b75e629bf8313f6309c3aa98281.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 21
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_21_v2/MandV_21_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/a3d/31c/62989e19c20f8de59cc557bcc9c0598f.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 22
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_22_v2/MandV_22_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/bee/ff/63aa88ace1df16d40a28dcfde6ba136d.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 23
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_23_v2/MandV_23_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/ae5/712/df21a26ea2491a6e7ea9e245ee2e93ff.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 24
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_24_v2/MandV_24_720p.m3u8
+#EXTINF:-1 group-title="Mối Tình Đầu Của Thiên Tuế Đại Nhân" tvg-logo="https://images.danet.vn/images//src/7be/8b/bb78c4538f6824f49c57dd373c477e65.jpg", Mối Tình Đầu Của Thiên Tuế Đại Nhân - Tập 25
+https://vod-cdn01.danet.vn/AVOD/MoonshineandValentine/MandV_25_v2/MandV_25_720p.m3u8
+
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 1
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220701/fallinlove-2022-cn-001-tm/a7745fbce5347c57e8d8e9006ecda546-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 2
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220701/fallinlove-2022-cn-002-tm/0f413d3d956b80a8629e3a0d544d0b46-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 3
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220701/fallinlove-2022-cn-003-tm/7f75b6a9f1e0b89f08de4fb4a46a90c1-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 4
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220704/fallinlove-2022-cn-004-tm/143250c799b6fc5b028b844f7bab7389-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 5
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220705/fallinlove-2022-cn-005-tm/d94814a20ca387cda4c988346c542b70-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 6
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220713/fallinlove-2022-cn-006-tm/4b747032f1c33d7102e436526397fb44-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 7
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220713/fallinlove-2022-cn-007-tm/99968cb5cc2dca3f7a7f5eb715f79c43-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 8
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220713/fallinlove-2022-cn-008-tm/463f6c68d147558770ba5a1bea9ad69b-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 9
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220716/fallinlove-2022-cn-009-tm/f366f1412a811e4f30f4929bd51fee28-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 10
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220716/fallinlove-2022-cn-010-tm/4ab8877432769c4bded37780d7f6244c-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 11
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220716/fallinlove-2022-cn-011-tm/0aea93c437f72cedc06f868b967d41c5-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 12
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220716/fallinlove-2022-cn-012-tm/ce068eb9f8c327c449fc1bbaafe9ed3f-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 13
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220716/fallinlove-2022-cn-013-tm/4c6a4dd9864e2a02f4485a0d3442f8a6-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 14
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220716/fallinlove-2022-cn-014-tm/9b6ab0dd169b344804490debc8130d6b-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 15
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220716/fallinlove-2022-cn-015-tm/539a5c72a97a3f1cfa4960ab4d69eaa9-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 16
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220721/fallinlove-2022-cn-016-tm/39b40b30db1c4137746f6f229fd5d6e8-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 17
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220721/fallinlove-2022-cn-017-tm/cd14a36878e2c19f023640f23274d582-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Tình Yêu Từ 0 Đến 1" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/07/01/fallinlove_2022_cn_b_18t_lg_v3_tm01-07-2022_14g31-08.jpg", Tình Yêu Từ 0 Đến 1 - Tập 18 Hết
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220727/fallinlove-2022-cn-018-tm/ef6ac8bb352c0acfb75ed510fb8c1142-1080p.mp4/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 1
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-001-1665368825/5c86193f372f66edf59960312ae6d979-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 2
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-002-1665368825/1538fee007086096f8f5f96b7f0a25eb-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 3
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-003-1665368825/5602af869ad5947c9175f91190b5e380-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 4
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-004-1665368825/ae998ea73451dc50a36d9d4cb5b7d8e9-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 5
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-005-1665368825/16119c12efe3f13a52dc46879a22aed1-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 6
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-006-1665368807/1dc99735dc0c37cda458585489b00e6e-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 7
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-007-1665368825/c74963cbb76cf62c2b3bac7862815b18-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 8
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-008-1665368807/0976404f1bd925ab01c96f6511ea2267-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 9
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-009-1665368807/ccff32a6728295e6ac0390af803efee0-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 10
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-010-1665368807/94aa35e100d684a4692f8dc7200c3144-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 11
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-011-1665368807/a62f38fcee85e83941e7637f9c9605bf-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 12
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-012-1665368807/5789da8012decce15ab09c78002d425d-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 13
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-013-1665368807/860a2e6428551c4fde7812adde9cfefd-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 14
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-014-1665368807/634752552b529a83525c48885107752c-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 15
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-015-1665368807/2f4a7f033542c856e4565e11b60f71b9-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 16
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-016-1665368807/c973a2f5249650c627a17fe3641a5252-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 17
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-017-1665368807/c1ea3fd7e4e74122aa8a1d977a6f8eee-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 18
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-018-1665368807/ba21dbe444ee1c604d7ecbb37cb3f40b-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 19
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-019-1665368807/262ee44c0d3a4a94f9f74cfc66803796-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 20
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-020-1665368807/318c6c443c662077d25193f7debbb3e5-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/04/oi-hoang-de-be-ha-cua-toi-phan-1-fpt-play-1667566280761_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 1) - Tập 21
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221010/ohmyemperorseason1-2018-cn-021-1665368807/a28bc8241c349765228ffe03f0d4ae1d-1080p.mp4/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 1
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-001-1665734766/c7f8c1b9f74bcb5156c9e31e160c14f8-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 2
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-002-1665734766/4a670177183ea68a424af819cb2edf89-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 3
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-003-1665734766/56b1c0a1b48a3ae1c1064adedb013cf0-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 4
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-004-1665734766/33163a3cd2afba9922c2a206826cedef-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 5
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-005-1665734766/d64e5d812d89cfe3dd1b422922a1aef5-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 6
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-006-1665734766/a7488041e1d76d5cf0196afaa430024e-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 7
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-007-1665734756/0d706cb510736de93d075bac1e249f61-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 8
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-008-1665734756/758e0ddea8f604234d742c847a84a246-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 9
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-009-1665734756/f63d5aa3c275bd37a2095892e1c15886-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 10
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-010-1665734756/66f32e61f97a43ec8f70d7c0192fafc7-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 11
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-011-1665734756/9ee4785f273e6e2811209498aed36562-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 12
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-012-1665734756/8fade2de3b215d245222992928e68bc9-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 13
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-013-1665734756/829533ab86c9c95aa6b866d4336b3f7b-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 14
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-014-1665734756/f81d1a144b655e47c417f46f9994a534-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 15
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-015-1665734756/48cc511435e56c8ff33bac144f1b3426-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 16
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-016-1665734756/01324edc7a5bb7fb610d90f22554fb07-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 17
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-017-1665734756/03768f150ca558345e484ea41669fb7f-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 18
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-018-1665734756/93fda785c646c2f0a80ee92769cbac29-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 19
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-019-1665734756/e48021d1ad8946e770a12ce6238c84d5-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 20
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-020-1665734756/3b710a26557d25e30658fee1a2e0c097-1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2)" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/11/oi-hoang-de-be-ha-cua-toi-phan-2-fpt-play-1668140824627_Portrait_origin.jpg", Ôi! Hoàng Đế Bệ Hạ Của Tôi (Phần 2) - Tập 21
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221014/ohmyemperorseason2-2018-cn-021-1665734756/ed4b34499781c181b45981447e643819-1080p.mp4/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 1A
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220118/tm_mirrorataleoftwincities_2022_cn_001a_logo/509e35d18a2dd8498b02c6b1fe37a9ae_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 1B
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220118/tm_mirrorataleoftwincities_2022_cn_001b_logo/4275ffe4e770afb33ea7122d8de96b94_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 2A
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220118/tm_mirrorataleoftwincities_2022_cn_002a_logo/354f955b1b859ea3a65b8b796242c2db_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 2B
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220118/tm_mirrorataleoftwincities_2022_cn_002b_logo/44854d4d973434d403a23c49fd944f15_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 3A
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220119/tm_mirrorataleoftwincities_2022_cn_003a_logo/d31752cb1262fc7d5eb36f6f0e9a809a_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 3B
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220119/tm_mirrorataleoftwincities_2022_cn_003b_logo/e8e53210332b0784e7817c43601d5d9d_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 4A
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220120/tm_mirrorataleoftwincities_2022_cn_004a_logo/09bdd1c9085e73902e642607797771d5_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 4B
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220120/tm_mirrorataleoftwincities_2022_cn_004b_logo/f66f4924ca3578b10c2f83bffcb1776f_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 5A
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_005a_logo/4b30e543f6580517a538184c29e2d16d_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 5B
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_005b_logo/6929d71f856692122d3b48340f349a59_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 6A
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_006a_logo/5a30840670670eed8ae208e0ea255c69_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 6B
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_006b_logo/a68e49851240ed6a05ad1acf753ba17b_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 7A
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_007a_logo/b8472cf96b36464dcaddab921ad48516_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 7B
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_007b_logo/34f28ca502236944f37896bb3af7e8ef_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 8A
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_008a_logo/f52d776db6db3fd4d0d1c2a851e3f5d8_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 8B
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_008b_logo/d0e05885aad18df5a2f00c5d353ea066_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 9A
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_009a_logo/40b5972f4f8df2c50a7dc61db999e972_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 9B
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_009b_logo/76fdb4434f13e61cdce9f129208953f7_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 10A
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_010a_logo/39cbdd30fbb8c64e0a091bee80396534_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 10B
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_010b_logo/a1ef33127191e4767f37a83b34c637a6_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 11A
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_011a_logo/9859cc9083dcb8b97a7f6261156b5844_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 11B
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220125/tm_mirrorataleoftwincities_2022_cn_011b_logo/5cec10a4277c3b4307a8a55c3859b791_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 12A
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220128/tm_mirrorataleoftwincities_2022_cn_012a_logo/c4cdfa49096f83807f9844ae8021de05_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 12B
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220128/tm_mirrorataleoftwincities_2022_cn_012b_logo/35293d4b3d3107a9ada3861fd09ed184_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 13A
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220128/tm_mirrorataleoftwincities_2022_cn_013a_logo/bbdd66969df2761ac2dd3f1c462667ae_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 13B
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220128/tm_mirrorataleoftwincities_2022_cn_013b_logo/99fa613d8915406e6bb7fc398dc1e9b6_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 14A
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220128/tm_mirrorataleoftwincities_2022_cn_014a_logo/68867fd2ae868db3addd22170fb99c6e_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 14B
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220128/tm_mirrorataleoftwincities_2022_cn_014b_logo/4746fde49d7236970e839257fbdd8b1e_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 15A
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220128/tm_mirrorataleoftwincities_2022_cn_015a_logo/d6a9e26cd9bc04360e2bdcccc5773daa_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 15B
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220127/tm_mirrorataleoftwincities_2022_cn_015b_logo/27314bdd3df22d6eb2f3ad3c96a2045f_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 16A
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220128/tm_mirrorataleoftwincities_2022_cn_016a_logo/8f69b1747cac90d991243beee1346132_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 16B
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220127/tm_mirrorataleoftwincities_2022_cn_016b_logo/6bd992ca8e26fc2e8ce2c2705a3a1145_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 17A
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220129/tm_mirrorataleoftwincities_2022_cn_017a_logo/d9ed3b27ca5799917d69c2a5e4d00303_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 17B
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220129/tm_mirrorataleoftwincities_2022_cn_017b_logo/6d4644f563364c20b6cb2750b7245f72_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 18A
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220129/tm_mirrorataleoftwincities_2022_cn_018a_logo/1518a47b15331638c8b9ca17f9803908_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 18B
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220129/tm_mirrorataleoftwincities_2022_cn_018b_logo/749f310c7d75199de9eb19a109b2e2d9_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 19A
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220129/tm_mirrorataleoftwincities_2022_cn_019a_logo/dc06bbc130957526151e7155ada8faa6_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 19B
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220129/tm_mirrorataleoftwincities_2022_cn_019b_logo/9cc4517faf7ef69175c0e6ec4afb0ec1_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 20A
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220129/tm_mirrorataleoftwincities_2022_cn_020a_logo/f5d0a9297a16fa380e292a3581b0758a_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 20B
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220129/tm_mirrorataleoftwincities_2022_cn_020b_logo/d395834a18148b0ba02407371fee4c9c_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 21A
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/tm_mirrorataleoftwincities_2022_cn_021a_logo/898a32409f4de0f8eb0a663ea22215fd_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 21B
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/tm_mirrorataleoftwincities_2022_cn_021b_logo/b5a4279baba3dcaf9659fae81eeb2685_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 22A
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/tm_mirrorataleoftwincities_2022_cn_022a_logo/0091fe766dab05d0e2ee0a38b25a8e52_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 22B
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/tm_mirrorataleoftwincities_2022_cn_022b_logo/f0777a41320ce45e389952ba3637586b_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 23A
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220207/tm_mirrorataleoftwincities_2022_cn_023a_logo/9ff861f7a444ac78737387dff34b9937_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 23B
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220207/tm_mirrorataleoftwincities_2022_cn_023b_logo/1efcc0afabd6255c9001628bac98330c_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 24A
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220207/tm_mirrorataleoftwincities_2022_cn_024a_logo/deff6de21858840b5b3c1d87f88f8383_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 24B
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220207/tm_mirrorataleoftwincities_2022_cn_024b_logo/eb3adaaca9b25f2093fdef83ffa17afb_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 25A
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220210/tm_mirrorataleoftwincities_2022_cn_025a_logo/9247b2eb82c7fae631876b2dda2aec07_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 25B
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220210/tm_mirrorataleoftwincities_2022_cn_025b_logo/a1b4637c904531454bfb232b2707f0b8_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 26A
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220210/tm_mirrorataleoftwincities_2022_cn_026a_logo/6ab9fb86a744ab82846029eb4ee8f055_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 26B
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220210/tm_mirrorataleoftwincities_2022_cn_026b_logo/a44961b3b376a7ddff03d0854cddcfdf_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 27A
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220210/tm_mirrorataleoftwincities_2022_cn_027a_logo/9db06839cc9eb181dc028dc6e8f544f1_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 27B
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220210/tm_mirrorataleoftwincities_2022_cn_027b_logo/6f6705b38dc48ba8945a7e3f3ba7cb57_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 28A
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220210/tm_mirrorataleoftwincities_2022_cn_028a_logo/f695f3d1e4e5746da78742fb2d2c3610_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 28B
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220210/tm_mirrorataleoftwincities_2022_cn_028b_logo/5efbd22efbb91f71af0a3e8defa15939_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 29A
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_029a_logo/92e29df6b190160d58c775f31288afd1_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 29B
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_029b_logo/0e0936210250d4d6d183e7a3ea8cb21b_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 30A
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_030a_logo/7e2ccddbbba5429dbaeb49358f3bbb30_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 30B
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_030b_logo/7992d8fc787d1ed0ceba0847d2db064e_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 31A
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_031a_logo/1af1fb47673afac7fd7c533d0e2f251f_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 31B
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_031b_logo/1a0326f7a8847b8910f4202b42044a15_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 32A
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_032a_logo/1f1501beaf7eb57aeae5695ecd237413_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 32B
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_032b_logo/64a10e574b094d851931fd442cc1f111_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 33A
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_033a_logo/35b781ddc165bc74e6f3d8588c78cc4b_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 33B
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220211/tm_mirrorataleoftwincities_2022_cn_033b_logo/bd9e558c959bd375861780f59d37ba2e_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 34A
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220212/tm_mirrorataleoftwincities_2022_cn_034a_logo/ce9737ef86ef1d0797adec415a230c31_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 34B
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220212/tm_mirrorataleoftwincities_2022_cn_034b_logo/4f3aea71b3ba53f2c2e21db8a00c50eb_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 35A
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220212/tm_mirrorataleoftwincities_2022_cn_035a_logo/d217eefadd10a104e8c02776e747c551_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 35B
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220212/tm_mirrorataleoftwincities_2022_cn_035b_logo/b3ff66c290477ca6bf7e021301005436_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 36A
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220214/tm_mirrorataleoftwincities_2022_cn_036a_logo/13e1125882ee73686288cc90a40060c4_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 36B
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220214/tm_mirrorataleoftwincities_2022_cn_036b_logo/0b6415fc506eded0a533eabce3e1ccf1_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 37A
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220215/tm_mirrorataleoftwincities_2022_cn_037a_logo/e1e182d0463c271d038d2033eb90323c_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 37B
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220215/tm_mirrorataleoftwincities_2022_cn_037b_logo/7b51c9ffd15b57759605a65ed0e19cd3_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 38A
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220215/tm_mirrorataleoftwincities_2022_cn_038a_logo/8fe35c4a4e34c388e7676d667110d032_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 38B
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220215/tm_mirrorataleoftwincities_2022_cn_038b_logo/d27d8705831ea20845d7396ee6b04d5e_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 39A
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220217/tm_mirrorataleoftwincities_2022_cn_039a_logo/2c70664490d2763e2eb87af2c9908c87_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 39B
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220216/tm_mirrorataleoftwincities_2022_cn_039b_logo/9d9292b4646ba9cd40fdf643ff3ecba0_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 40A
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220216/tm_mirrorataleoftwincities_2022_cn_040a_logo/d2ceafec967630db7d7f85ebd37aceac_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 40B
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220216/tm_mirrorataleoftwincities_2022_cn_040b_logo/d01b7dbf857b75032e0721f30b47b9a7_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 41A
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220217/tm_mirrorataleoftwincities_2022_cn_041a_logo/ec001c1104f1ee8fdd9edb5fae1af3a6_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 41B
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220217/tm_mirrorataleoftwincities_2022_cn_041b_logo/6e74ba74673a0a2da91c772ab8bd9538_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 42A
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220217/tm_mirrorataleoftwincities_2022_cn_042a_logo/7543989b5058da28eacd620c925cb017_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 42B
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220217/tm_mirrorataleoftwincities_2022_cn_042b_logo/29d49140cf0e897fff8f022ed19ac137_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 43A
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220219/tm_mirrorataleoftwincities_2022_cn_043a_logo/387372586f58026e80c8a1c90bdf2c05_1080p.mp4/playlist_720p.m3u8
+#EXTINF:-1 group-title="Kính Song Thành" tvg-logo="https://images.fptplay.net/media/18_01_2022/kinh-song-thanh-poster-2-tm18-01-2022_21g34-53.jpg", Kính Song Thành - Tập 43B
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220219/tm_mirrorataleoftwincities_2022_cn_043b_logo/47f3af78056295e21caeedb2e40016a2_1080p.mp4/playlist_720p.m3u8
+
