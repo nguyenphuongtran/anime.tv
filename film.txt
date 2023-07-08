@@ -11073,5 +11073,243 @@ https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_17/AttackOnTitan4_1
 #EXTINF:-1 group-title="Đại Chiến Titan - Mùa Cuối Cùng - Phần 3 - Part 1" tvg-logo="https://images.danet.vn/images//src/efc/af2/807d52741cf9d8d5139276e3a50fcefc.jpg", Đại Chiến Titan - Mùa Cuối Cùng - Phần 3 - Part 1 - Tập 29
 https://vod-cdn01.danet.vn/AVOD/AttackOnTitan/AttackOnTitan4_Part3_01_v3/AttackOnTitan4_Part3_01_v3_720p.m3u8
 
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/4b/618/1846d1f51a8f7176ab5d701034300172.jpg", Học Viện Anh Hùng - Tập 1
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_01/Hero_Academia_S1_01_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/73b/ea/039cfc863f95cf7e9b7d9b1e42f1c9a3.jpg", Học Viện Anh Hùng - Tập 2
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_02/Hero_Academia_S1_02_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/66d/73b/2de5025fbcb8b7eb722f496d08e432d1.jpg", Học Viện Anh Hùng - Tập 3
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_03/Hero_Academia_S1_03_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/9e2/af/e29097e2f204e0964f172f731cf6ae07.jpg", Học Viện Anh Hùng - Tập 4
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_04/Hero_Academia_S1_04_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/d2c/21e/0d98ec320d036caf5f27a6808b985d28.jpg", Học Viện Anh Hùng - Tập 5
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_05/Hero_Academia_S1_05_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/be1/c6/63c38976cb04bd57b58da3e4d9bc73a9.jpg", Học Viện Anh Hùng - Tập 6
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_06/Hero_Academia_S1_06_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/e15/fb2/a6ead2d79dff235e273839dfe12297bd.jpg", Học Viện Anh Hùng - Tập 7
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_07/Hero_Academia_S1_07_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/37f/887/f3153ae45847d0a5edfe49c2012121eb.jpg", Học Viện Anh Hùng - Tập 8
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_08/Hero_Academia_S1_08_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/3ee/c76/1bb880351b26885ec064c1ab5be651de.jpg", Học Viện Anh Hùng - Tập 9
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_09/Hero_Academia_S1_09_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/bc5/358/f49e9d70cdb506cbf0063b41aaf42e1c.jpg", Học Viện Anh Hùng - Tập 10
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_10/Hero_Academia_S1_10_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/92c/939/276ea95f98ed3acd2367956ae30a2370.jpg", Học Viện Anh Hùng - Tập 11
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_11/Hero_Academia_S1_11_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/acf/24c/5e7e772d929a2bacc2a8de0ee2767c7b.jpg", Học Viện Anh Hùng - Tập 12
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_12/Hero_Academia_S1_12_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng" tvg-logo="https://images.danet.vn/images/src/964/16a/ae4b22f696dc132e163c67bb96a80e93.jpg", Học Viện Anh Hùng - Tập 13
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S1/Hero_Academia_S1_13/Hero_Academia_S1_13_720p.m3u8
 
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/25e/f4a/b8217abec9434a6b5fe5fd56aa51dd1e.jpg", Học Viện Anh Hùng 2 - Tập 1
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_01/Hero_Academia_S2_01_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/ce8/84e/d291c0599a95e05a3324ede3dd9ce04c.jpg", Học Viện Anh Hùng 2 - Tập 2
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_02/Hero_Academia_S2_02_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/3a5/712/534887930fd19c20cfa88e189534d8ac.jpg", Học Viện Anh Hùng 2 - Tập 3
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_03/Hero_Academia_S2_03_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/b71/3ec/de8d498f00ee832bcc5cf4561b5fdab1.jpg", Học Viện Anh Hùng 2 - Tập 4
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_04/Hero_Academia_S2_04_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/82a/c86/19264434f90c86e384636b839c3d3462.jpg", Học Viện Anh Hùng 2 - Tập 5
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_05/Hero_Academia_S2_05_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/821/6b6/bcf576bc6fcb1591d4f6ae508e47070e.jpg", Học Viện Anh Hùng 2 - Tập 6
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_06/Hero_Academia_S2_06_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/1c9/b42/5e367bf4034a1da5c8afdff05822bdfc.jpg", Học Viện Anh Hùng 2 - Tập 7
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_07/Hero_Academia_S2_07_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/e02/12a/46866497059d3d8acf3cd9210fd362fc.jpg", Học Viện Anh Hùng 2 - Tập 8
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_08/Hero_Academia_S2_08_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/f94/d0a/a7fbb9705256f5dcc157abe10b501cf4.jpg", Học Viện Anh Hùng 2 - Tập 9
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_09/Hero_Academia_S2_09_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/195/688/89390ef882d76ab1067cc31e33528f7f.jpg", Học Viện Anh Hùng 2 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_10/Hero_Academia_S2_10_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/ada/268/410d58eb41e3fe7ddbc4d4c064b1fc00.jpg", Học Viện Anh Hùng 2 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_11/Hero_Academia_S2_11_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/8b/5e3/d0e35b7d71b1e3bfc321cd0d35f4ade1.jpg", Học Viện Anh Hùng 2 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_12/Hero_Academia_S2_12_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/1fe/61e/028e20e4255db770249aa53ce8a676c6.jpg", Học Viện Anh Hùng 2 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_13/Hero_Academia_S2_13_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/dd5/366/25a0c718edaeb89e4fb9d89d41bf086a.jpg", Học Viện Anh Hùng 2 - Tập 14
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_14/Hero_Academia_S2_14_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/446/4e4/5d9afdbb62115d5c7d8c5f614f3e6e87.jpg", Học Viện Anh Hùng 2 - Tập 15
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_15/Hero_Academia_S2_15_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/bcc/2f6/68cdb5f66440f5a479951194ed48484b.jpg", Học Viện Anh Hùng 2 - Tập 16
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_16/Hero_Academia_S2_16_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/56/97c/daccdacb04c185ab35288945747bf9a8.jpg", Học Viện Anh Hùng 2 - Tập 17
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_17/Hero_Academia_S2_17_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/698/289/a17aeb452ad82602c4cb176d60a8f690.jpg", Học Viện Anh Hùng 2 - Tập 18
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_18/Hero_Academia_S2_18_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/ae2/563/dc2e26246bac3d1061273d99d22703ec.jpg", Học Viện Anh Hùng 2 - Tập 19
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_19/Hero_Academia_S2_19_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/fab/824/5a5999d854b41a6f05205123a1329a94.jpg", Học Viện Anh Hùng 2 - Tập 20
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_20/Hero_Academia_S2_20_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/8e4/a43/782eb0c2910b0f35e94e9087e9efa1ca.jpg", Học Viện Anh Hùng 2 - Tập 21
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_21/Hero_Academia_S2_21_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/712/439/dc7d5e83010a05e35562e304bdfd0897.jpg", Học Viện Anh Hùng 2 - Tập 22
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_22/Hero_Academia_S2_22_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/7f2/22f/7f4e4dc8f921a4c146b9d9a1cb7d7bcb.jpg", Học Viện Anh Hùng 2 - Tập 23
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_23/Hero_Academia_S2_23_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/9d5/a5b/6de8fb8794ad4fb552de135b7a9fb95b.jpg", Học Viện Anh Hùng 2 - Tập 24
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_24/Hero_Academia_S2_24_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 2" tvg-logo="https://images.danet.vn/images/src/28/dc2/2113db28d574d26f28a4b8fe5c591605.jpg", Học Viện Anh Hùng 2 - Tập 25
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S2/Hero_Academia_S2_25/Hero_Academia_S2_25_720p.m3u8
+
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/12b/978/69f8ee5a014c522fe5aeb43850e35c44.jpg", Học Viện Anh Hùng 3 - Tập 1
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_01/Hero_Academia_S3_01_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/bde/601/90945957dd71de49ee896a8afa726ab5.jpg", Học Viện Anh Hùng 3 - Tập 2
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_02/Hero_Academia_S3_02_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/a25/b5f/605e2a3e51b9656ca445cd070fcb11f2.jpg", Học Viện Anh Hùng 3 - Tập 3
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_03/Hero_Academia_S3_03_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/a9/bef/9eafd80f2d10f2d68be62c27c55f602c.jpg", Học Viện Anh Hùng 3 - Tập 4
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_04/Hero_Academia_S3_04_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/90b/c9d/2553f87edc2fc1d795631940f2cc9627.jpg", Học Viện Anh Hùng 3 - Tập 5
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_05/Hero_Academia_S3_05_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/6d/ae8/f22034b484ef3267948d1ecbedd23162.jpg", Học Viện Anh Hùng 3 - Tập 6
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_06/Hero_Academia_S3_06_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/2bb/336/19c86c8140ac86aa91d5db282f04107d.jpg", Học Viện Anh Hùng 3 - Tập 7
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_07/Hero_Academia_S3_07_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/c6/ed7/15af652aaa21171b0422db25d7a92dce.jpg", Học Viện Anh Hùng 3 - Tập 8
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_08/Hero_Academia_S3_08_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/de2/b79/9f4b1bfb0b6cb2da8044a8c2184e56e5.jpg", Học Viện Anh Hùng 3 - Tập 9
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_09/Hero_Academia_S3_09_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/209/612/4e9f6ba65e5721924aea9efb4516218f.jpg", Học Viện Anh Hùng 3 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_10/Hero_Academia_S3_10_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/23a/fa0/35c936c6f9a75b282a9449f2bba619ed.jpg", Học Viện Anh Hùng 3 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_11/Hero_Academia_S3_11_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/66/4d6/782cb89a6d39c6a976079795c682d270.jpg", Học Viện Anh Hùng 3 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_12/Hero_Academia_S3_12_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/155/e83/7a900806f2759f040ac409178c875c74.jpg", Học Viện Anh Hùng 3 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_13/Hero_Academia_S3_13_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/656/ac7/c25281d14200326f3664f1446e2008ee.jpg", Học Viện Anh Hùng 3 - Tập 14
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_14/Hero_Academia_S3_14_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/820/bb5/b19f78f348f33f199986a77e5f50a9fc.jpg", Học Viện Anh Hùng 3 - Tập 15
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_15/Hero_Academia_S3_15_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/c12/694/667e175d5165a7fe6d9c85b5f288b221.jpg", Học Viện Anh Hùng 3 - Tập 16
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_16/Hero_Academia_S3_16_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/305/97b/2f44bc700e449b552bb0e0908f236b1b.jpg", Học Viện Anh Hùng 3 - Tập 17
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_17/Hero_Academia_S3_17_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/1d0/fe0/6241054ef90344f6bf3df8c0197f6ece.jpg", Học Viện Anh Hùng 3 - Tập 18
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_18/Hero_Academia_S3_18_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/af1/ce5/36e7de738b2b7f9420fe0c7be49ea9fe.jpg", Học Viện Anh Hùng 3 - Tập 19
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_19/Hero_Academia_S3_19_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/560/7c5/2b6f0753fa7113d1d76faa6055ab4d90.jpg", Học Viện Anh Hùng 3 - Tập 20
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_20/Hero_Academia_S3_20_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/5b1/c32/5fd393bbaaabfef443e26832ac28ed53.jpg", Học Viện Anh Hùng 3 - Tập 21
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_21/Hero_Academia_S3_21_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/20/d6d/c73c37537640c24b368cd8efa10c5206.jpg", Học Viện Anh Hùng 3 - Tập 22
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_22/Hero_Academia_S3_22_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/650/4ac/ea6e9eafae61857d6a0ddd18639f526d.jpg", Học Viện Anh Hùng 3 - Tập 23
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_23/Hero_Academia_S3_23_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 3" tvg-logo="https://images.danet.vn/images//src/ad9/78a/6b9f5b9a3fe8368aefb66826f4330432.jpg", Học Viện Anh Hùng 3 - Tập 24
+https://vod-cdn01.danet.vn/AVOD/ANIME/Hero_Academia_S3/Hero_Academia_S3_24/Hero_Academia_S3_24_720p.m3u8
+
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images//src/e0a/71c/b171a6e56b1eb1f27a4c03a621be4c09.jpg", Học Viện Anh Hùng 4 - OVA Part 1
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_26/Hero_Academia_S4_26_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images//src/219/492/2ec5871ac12f61b8591d678dbc125db6.jpg", Học Viện Anh Hùng 4 - OVA- Part 2
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_27/Hero_Academia_S4_27_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images//src/b2c/189/d3547508ba320abac42a5a1e7c7dd994.jpg", Học Viện Anh Hùng 4 - Tập 25
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_25/Hero_Academia_S4_25_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images//src/f66/195/07ce755dfe68187e0fa63c04210296b8.jpg", Học Viện Anh Hùng 4 - Tập 24
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_24/Hero_Academia_S4_24_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images//src/dc0/50e/5bce793bb4787519e84a7331a4acdc72.jpg", Học Viện Anh Hùng 4 - Tập 23
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_23_v2/Hero_Academia_S4_23_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images//src/2e9/7e0/21ec401bbca9f3060bea62b204e3cbf9.jpg", Học Viện Anh Hùng 4 - Tập 22
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_22/Hero_Academia_S4_22_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images//src/eff/498/c89e9c0f8884cd68d05e00dd3df25a60.jpg", Học Viện Anh Hùng 4 - Tập 21
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_21/Hero_Academia_S4_21_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images//src/2dc/a35/3ee7f244a2326584a02791143fb317b0.jpg", Học Viện Anh Hùng 4 - Tập 20
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_20_v2/Hero_Academia_S4_20_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images//src/d3f/dbd/10a546c2d72b90b85541c4c9fd776c6b.jpg", Học Viện Anh Hùng 4 - Tập 19
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_19/Hero_Academia_S4_19_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/942/8c3/72f897b14c4701937bbaf7e4ad82f8e2.jpg", Học Viện Anh Hùng 4 - Tập 18
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_18/Hero_Academia_S4_18_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/308/777/5799d79a95e5110ef4a9bb4d0766ac43.jpg", Học Viện Anh Hùng 4 - Tập 17
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_17/Hero_Academia_S4_17_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/72d/fc1/69548699787196efceaa7a0a0d84f92b.jpg", Học Viện Anh Hùng 4 - Tập 16 
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_16_v2/Hero_Academia_S4_16_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/17a/9e5/3a4b52782e9f542305fa7e2eac08a7c4.jpg", Học Viện Anh Hùng 4 - Tập 15
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_15_v3/Hero_Academia_S4_15_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/e8b/a7/d81dadc8935a1640117ffb4b51d999c0.png", Học Viện Anh Hùng 4 - Tập 14
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_14/Hero_Academia_S4_14_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/f0b/f28/55bf47ad66b73c812b37f0bd96449a3e.jpg", Học Viện Anh Hùng 4 - Tập 13 
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_13/Hero_Academia_S4_13_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/168/535/ab5b0f5606958930d69a22f0b2516819.jpg", Học Viện Anh Hùng 4 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_12/Hero_Academia_S4_12_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/42e/4d9/60e02e5a91b9e6680549877acbffe1dc.jpg", Học Viện Anh Hùng 4 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_11_v2/Hero_Academia_S4_11_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/565/a7d/bcb191af9a35865292357ac538b39f38.jpg", Học Viện Anh Hùng 4 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_10/Hero_Academia_S4_10_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/273/1ea/0bf1b4ab286b7e9436e1c508f36b446c.jpg", Học Viện Anh Hùng 4 - TẬP 9 
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_09/Hero_Academia_S4_09_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/3e5/b81/62239df615f99a499d85eb6777a08f6c.jpg", Học Viện Anh Hùng 4 - Tập 8
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_08/Hero_Academia_S4_08_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/136/3f0/61854f6bcd323cb5325e7955b217f66c.jpg", Học Viện Anh Hùng 4 - Tập 7
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_07/Hero_Academia_S4_07_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/d20/510/6601707d3bcdee1c6079341738378ee1.jpg", Học Viện Anh Hùng 4 - Tập 6 
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_06_v2/Hero_Academia_S4_06_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/17/32/486828c877266508a0c5ea17bb853152.jpg", Học Viện Anh Hùng 4 - Tập 5
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_05/Hero_Academia_S4_05_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/7ad/456/e0bc215f56a0d9e42b42b4ef4fd7bd10.jpg", Học Viện Anh Hùng 4 - Tập 4
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_04/Hero_Academia_S4_04_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/7f6/ee6/9e8bb3acedc3d3bc071350020b6c6796.jpg", Học Viện Anh Hùng 4 - Tập 3
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_03_v2/Hero_Academia_S4_03_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/5a4/35d/4ae717b2b31bab16613278d0380a195a.jpg", Học Viện Anh Hùng 4 - Tập 2 
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_02/Hero_Academia_S4_02_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 4" tvg-logo="https://images.danet.vn/images/src/2bc/a42/69959ee5205abd7f5db901a320a0900a.jpg", Học Viện Anh Hùng 4 - Tập 1
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S4/Hero_Academia_S4_01_v3/Hero_Academia_S4_01_720p.m3u8
+
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/254/751/1323183c11183292c243c7ed1d543ca9.jpg", Học Viện Anh Hùng 5 - PV3
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_pv3/Hero_Academia_S5_pv3_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/e5f/4c0/046779d6d5d2e59c09dc497fdcd5b034.jpg", Học Viện Anh Hùng 5 - Tập 25
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_25/Hero_Academia_S5_25_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/e2c/a97/2063b865f1e058ca384596e9d1263ccc.jpg", Học Viện Anh Hùng 5 - Tập 24
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_24/Hero_Academia_S5_24_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/d8f/fce/c038de4b861659cd0c87c1102de183c8.jpg", Học Viện Anh Hùng 5 - Tập 23
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_23_v2/Hero_Academia_S5_23_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/bdb/4c6/1d3975cdb6b388558fb545e160acd15d.jpg", Học Viện Anh Hùng 5 - Tập 22
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_22/Hero_Academia_S5_22_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/732/9a4/6a11af52131f6fa13b794bab805cb036.jpg", Học Viện Anh Hùng 5 - Tập 21
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_21/Hero_Academia_S5_21_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/ce7/713/388ebb39cdca9106b0727dbf9d5fc240.jpg", Học Viện Anh Hùng 5 - Tập 20
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_20/Hero_Academia_S5_20_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/141/70d/ea17c1dc59655f1003d29432a6297dc6.jpg", Học Viện Anh Hùng 5 - Tập 19
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_19/Hero_Academia_S5_19_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/73/20c/a411a421eca83abe83cc4d60ce54723e.jpg", Học Viện Anh Hùng 5 - Tập 18
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_18/Hero_Academia_S5_18_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/7b2/e91/e7a474a1980894b4e489dd5fde802932.jpg", Học Viện Anh Hùng 5 - Tập 17
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_17/Hero_Academia_S5_17_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/cae/f04/13717959b7c1a9b056a04abdc9e8fe33.jpg", Học Viện Anh Hùng 5 - Tập 16
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_16/Hero_Academia_S5_16_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/44f/111/6b703d096c4789527a453f89313b70ec.jpg", Học Viện Anh Hùng 5 - Tập 15
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_15_v2/Hero_Academia_S5_15_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/50e/c13/c19d3535231b48d252c303189e81f7a8.jpg", Học Viện Anh Hùng 5 - Tập 14
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_14_v2/Hero_Academia_S5_14_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/eeb/3a2/b879e5459c7d52b31f2f0db16843a4c5.jpg", Học Viện Anh Hùng 5 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_13_v2/Hero_Academia_S5_13_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/b00/882/a447ac144283aa19ec3761ab5d771e9e.jpg", Học Viện Anh Hùng 5 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_12_v2/Hero_Academia_S5_12_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/c18/56b/5a46c4d3bf85a8ed2c867da1a4d57aa2.jpg", Học Viện Anh Hùng 5 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_11/Hero_Academia_S5_11_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/5dc/43b/cbb0a6eb632efca5ef82b6742503edbc.jpg", Học Viện Anh Hùng 5 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_10/Hero_Academia_S5_10_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/2de/d1d/e6daed4fb1ff975c82d2903bf8153b2c.jpg", Học Viện Anh Hùng 5 - Tập 9
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_09/Hero_Academia_S5_09_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/15a/aac/b6f585376e70ef9070ea7c1dff912730.jpg", Học Viện Anh Hùng 5 - Tập 8
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_08/Hero_Academia_S5_08_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/cb6/523/93a50997feaa515fcc86504573ad1900.jpg", Học Viện Anh Hùng 5 - Tập 7
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_07/Hero_Academia_S5_07_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/bf3/f62/f562e4e8d489b793e52c9589b9864d3c.jpg", Học Viện Anh Hùng 5 - Tập 6
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_06/Hero_Academia_S5_06_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/8ee/80e/f380217e22fd45c5eea644a2fca2d1fe.jpg", Học Viện Anh Hùng 5 - Tập 5
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_05/Hero_Academia_S5_05_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/ef/1b3/6959f8b8391426fd40535babb5ccc94f.jpg", Học Viện Anh Hùng 5 - Tập 4
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_04/Hero_Academia_S5_04_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/27a/f0b/3e362e33186ae654deaa3df29ff2ec0c.jpg", Học Viện Anh Hùng 5 - Tập 3
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_03/Hero_Academia_S5_03_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/c9a/b6a/6e75aeda5e14b014dafdeae7f498e8c5.png", Học Viện Anh Hùng 5 - Tập 2 
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_02_v2/Hero_Academia_S5_02_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5" tvg-logo="https://images.danet.vn/images//src/230/e8a/e12b809e43a5654ca0aca0425a733f4a.jpg", Học Viện Anh Hùng 5 - Tập 1
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_01_v2/Hero_Academia_S5_01_720p.m3u8
+
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5 - Movie" tvg-logo="https://images.danet.vn/images//src/8ef/83/a49bc998c58b902a758af061e26c121e.jpg", Học Viện Anh Hùng 5 - Hiệp Hội Anh Hùng Bóng Chày - Tập 26
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_26/Hero_Academia_S5_26_720p.m3u8
+#EXTINF:-1 group-title="Học Viện Anh Hùng 5 - Movie" tvg-logo="https://images.danet.vn/images//src/7a2/266/a49bc998c58b902a758af061e26c121e.jpg", Học Viện Anh Hùng 5 - Dù Cho Xuống Địa Ngục Cũng Phải Cười! - Tập 27
+https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_27/Hero_Academia_S5_27_720p.m3u8
 
