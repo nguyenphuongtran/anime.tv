@@ -1,30 +1,49 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTM3U
 
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/toi-co-thuc-su-la-nguoi-manh-nhat-khong-thumb.jpg", Tôi Có Thực Sự Là Người Mạnh Nhất  - Tập 1
-https://hdbo.opstream5.com/20230702/34786_6f64e898/index.m3u8
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/horimiya-the-missing-pieces-thumb.jpg", Horimiya -piece- - Tập 1
-https://hdbo.opstream5.com/20230702/34785_e0af62f5/index.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/kanojo-okarishimasu-ss3-300x450.jpg" Bạn Gái Thuê SS3 - Tập 1 
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Kanojo-Okarishimasu-ss3/1/Kanojo-Okarishimasu-ss3-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/07/06/chu-thuat-hoi-chien-phan-2-fpt-play-1688635660509_Portrait_origin.jpg", Chú Thuật Hồi Chiến (Phần 2) - Tập 1
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230706/jujutsu-kaisen-season-2-2023-jp-1080p-medialink-001-v1-1688637047/1521f4ff447843ce8d0ae1af6d7d60f7-1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-300x450.jpg", Nữ Vương Trùm Cuối Tàn Độc - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Higeki-no-Genkyou/1/Higeki-no-Genkyou-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi-300x450.jpg", Thánh Giả Vô Song  - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Seija-Musou/1/Seija-Musou-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/nanatsu-no-maken-ga-shihai-suru-300x450.jpg", Thất Kiếm Ma Thuật Thống Trị Thế Giới - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Nanatsu-no-Maken-ga-Shihai-suru/1/Nanatsu-no-Maken-ga-Shihai-suru-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-300x450.jpg", Chuyển sinh thành tủ lạnh - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Jidou-Hanbaiki-ni-Umarekawatta/1/Jidou-Hanbaiki-ni-Umarekawatta-1.m3u8
+
+
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/that-nghiep-chuyen-sinh-sang-the-gioi-khac-toi-se-nghiem-tuc-mua-2-thumb.jpg", THẤT NGHIỆP CHUYỂN SINH: SANG THẾ GIỚI KHÁC TÔI SẼ NGHIÊM TÚC - MÙA 2 - Tập 1
-https://hdbo.opstream5.com/20230703/34788_b6f24afb/index.m3u8
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-250x350.jpg" Uchi no Kaisha no Chiisai Senpai no Hanashi -Tập 1
-https://s1.truyentot.com/media/video-clips/anime2/01-2023/Uchi-no-Kaisha/1/Uchi-no-Kaisha-1.m3u8
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega-250x350.jpg" Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega -Tập 1
-https://s1.truyentot.com/media/video-clips/anime2/01-2023/Atelier-Ryza/1/Atelier-Ryza-1.m3u8
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/bang-dream-its-mygo-250x350.jpg" BanG Dream! It’s MyGO!!!!! -Tập 1
-https://s1.truyentot.com/media/video-clips/anime2/01-2023/BanG-Dream-Its-MyGO/1/BanG-Dream-Its-MyGO-1.m3u8
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg" Genjitsu no Yohane: SUNSHINE in the MIRROR-Tập 1
-https://s1.truyentot.com/media/video-clips/anime2/01-2023/Genjitsu-no-Yohane/1/Genjitsu-no-Yohane-1.m3u8
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg" Genjitsu no Yohane: SUNSHINE in the MIRROR-Tập 2
-https://s1.truyentot.com/media/video-clips/anime2/01-2023/Genjitsu-no-Yohane/2/Genjitsu-no-Yohane-2.m3u8
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Mushoku-Tensei-ss2/0/Mushoku-Tensei-ss2-0.m3u8
+
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/co-ban-toi-tham-thich-lai-quen-mang-kinh-roi-thumb.jpg", CÔ BẠN TÔI THẦM THÍCH LẠI QUÊN MANG KÍNH RỒI - Tập 1
-https://hdbo.opstream5.com/20230705/34796_5575e5f2/index.m3u8
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Suki-na-Ko-ga-Megane/1/Suki-na-Ko-ga-Megane-1.m3u8
+
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/kiep-chuyen-sinh-ngot-ngao-thumb.jpg", KIẾP CHUYỂN SINH NGỌT NGÀO - Tập 1
-https://hdbo.opstream5.com/20230704/34793_d7c78cfd/index.m3u8
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Okashi-na-Tensei/1/Okashi-na-Tensei-1.m3u8
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/kiep-chuyen-sinh-ngot-ngao-thumb.jpg", KIẾP CHUYỂN SINH NGỌT NGÀO - Tập 2
-https://hdbo.opstream5.com/20230704/34795_a84fd407/index.m3u8
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/masamune-kun-no-revenge-ss2-250x350.jpg" Masamune-kun no Revenge ss2 Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Okashi-na-Tensei/2/Okashi-na-Tensei-2.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/masamune-kun-no-revenge-ss2-250x350.jpg" Masamunebáo thù ss2 Tập 1
 https://s2.truyentot.com/media/video-clips/anime2/01-2023/Masamune-kun-no-Revenge-ss2/1/Masamune-kun-no-Revenge-ss2-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/lv1-maou-to-one-room-yuusha-300x450.jpg" Lv1 Maou to One Room Yuusha -  Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Lv1-Maou-to-One-Room-Yuusha/1/Lv1-Maou-to-One-Room-Yuusha-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-300x450.jpg" Uchi no Kaisha no Chiisai Senpai no Hanashi - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Uchi-no-Kaisha/1/Uchi-no-Kaisha-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/jitsu-wa-ore-saikyou-deshita-300x450.jpg" Tôi Có Thực Sự Là Người Mạnh Nhất - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Jitsu-wa-Ore/1/Jitsu-wa-Ore-1.m3u8
+
 
 
 
