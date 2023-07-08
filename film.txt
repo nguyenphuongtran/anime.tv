@@ -11313,3 +11313,187 @@ https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_26/Hero_Academ
 #EXTINF:-1 group-title="Học Viện Anh Hùng 5 - Movie" tvg-logo="https://images.danet.vn/images//src/7a2/266/a49bc998c58b902a758af061e26c121e.jpg", Học Viện Anh Hùng 5 - Dù Cho Xuống Địa Ngục Cũng Phải Cười! - Tập 27
 https://vod-cdn01.danet.vn/AVOD/Hero_Academia_S5/Hero_Academia_S5_27/Hero_Academia_S5_27_720p.m3u8
 
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/dcc/490/8a9708d477a27fd52547cad39e183f72.jpg", OverLord - Phần 1 - Tập 1
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_01/Overlord_01_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/b07/a6b/86efed8b9fa0f381196ff67dc9d091c4.jpg", OverLord - Phần 1 - Tập 2
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_02/Overlord_02_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/7f5/723/018e84d3d93522885a48386453d71cb5.jpg", OverLord - Phần 1 - Tập 3
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_03/Overlord_03_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/69c/c37/7bd96c85cb103a8b3bb5b4832c321502.jpg", OverLord - Phần 1 - Tập 4
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_04/Overlord_04_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/18/831/172bd4ceaf2b3d2ca670e745e0a39ed5.jpg", OverLord - Phần 1 - Tập 5
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_05/Overlord_05_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/60/db7/c9bfa83faf02a7db95687b752058eec4.jpg", OverLord - Phần 1 - Tập 6
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_06/Overlord_06_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/f49/df9/9232491e6caf6ec85115891be9720f11.jpg", OverLord - Phần 1 - Tập 7
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_07/Overlord_07_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/cd4/fb8/fbb65e7076386044794e191e62c56083.jpg", OverLord - Phần 1 - Tập 8
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_08/Overlord_08_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/74b/e8f/8570b5d7e6e19e49b1fa68a77819d3c3.jpg", OverLord - Phần 1 - Tập 9
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_09/Overlord_09_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/6ef/532/35a87bedc48b960dc9006da504921d36.jpg", OverLord - Phần 1 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_10/Overlord_10_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/88e/2c4/20cffecd37313c222e7f03684b1bdeff.jpg", OverLord - Phần 1 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_11/Overlord_11_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/be8/ee9/26cc98d83adf0d20df3fe8b491416a79.jpg", OverLord - Phần 1 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_12/Overlord_12_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 1" tvg-logo="https://images.danet.vn/images/src/41f/f8f/e627e969fc4fff929233ee15b3ac85fe.jpg", OverLord - Phần 1 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord/Overlord_13/Overlord_13_720p.m3u8
+
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/bd6/c51/c34b8fcbd4d5e49c1985b324a365894a.jpg", OverLord - Phần 2 - Tập 1
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_01/Overlord2_01_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/443/4f0/df89f6553370f34a99527809c2419765.jpg", OverLord - Phần 2 - Tập 2
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_02/Overlord2_02_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/52c/818/fb2f54e18a88d230132eb16372ca0667.jpg", OverLord - Phần 2 - Tập 3
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_03/Overlord2_03_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/722/d1d/a6264f5e9f51c3d5f3346e59157560d0.jpg", OverLord - Phần 2 - Tập 4
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_04/Overlord2_04_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/b53/82f/94b4b4356c9b5b3934da8af87621b548.jpg", OverLord - Phần 2 - Tập 5
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_05/Overlord2_05_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/a3c/f74/ed146beb1283ea95fac252c4ce20c272.jpg", OverLord - Phần 2 - Tập 6
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_06/Overlord2_06_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/efa/1a0/ee5637ac31613dad75696b25e2c22ab8.jpg", OverLord - Phần 2 - Tập 7
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_07/Overlord2_07_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/891/47d/576b5d5b0c34623abdcceedd8e38eaec.jpg", OverLord - Phần 2 - Tập 8
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_08/Overlord2_08_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/613/1da/e5729273760954f31e678eb273329363.jpg", OverLord - Phần 2 - Tập 9
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_09/Overlord2_09_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/452/10b/71fa6c5484e3ca29b9d2e8dc165a23c2.jpg", OverLord - Phần 2 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_10/Overlord2_10_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/ec0/ab6/903667d8526b7a953187191d3dfd7b1d.jpg", OverLord - Phần 2 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_11/Overlord2_11_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/18f/bf2/196fc1de806294ba981d3f788165cfb6.jpg", OverLord - Phần 2 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_12/Overlord2_12_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 2" tvg-logo="https://images.danet.vn/images/src/88/83a/a1430de7f5d5da34c25a8c3d4c0402c3.jpg", OverLord - Phần 2 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord2/Overlord2_13/Overlord2_13_720p.m3u8
+
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/294/87b/a79b778e9dd416692f3f1a29b66e9d33.jpg", OverLord - Phần 3 - Tập 1
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_01/Overlord3_01_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/b09/e1a/3aa716b8a3714f0ab21b439b888aaa29.jpg", OverLord - Phần 3 - Tập 2
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_02/Overlord3_02_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/39b/444/988a88441830ee12a89320eed255929f.jpg", OverLord - Phần 3 - Tập 3
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_03/Overlord3_03_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/b13/16f/5ab650ed61f250e0e3d80ba2e615605a.jpg", OverLord - Phần 3 - Tập 4
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_04/Overlord3_04_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/1c8/4c2/56cb077d73e9d4b645a4804b204e5cfa.jpg", OverLord - Phần 3 - Tập 5
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_05/Overlord3_05_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/1f5/c08/4193e64629f5ac042b06953780c941be.jpg", OverLord - Phần 3 - Tập 6
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_06/Overlord3_06_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/df8/de3/31445ed61ffd115f3945b7b3d01b342c.jpg", OverLord - Phần 3 - Tập 7
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_07/Overlord3_07_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/b89/1a3/4fe9d4233c40e7b0693573af9924ab28.jpg", OverLord - Phần 3 - Tập 8
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_08/Overlord3_08_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/bc3/f6d/e44f43f4918ac61843612b0a025634ff.jpg", OverLord - Phần 3 - Tập 9
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_09/Overlord3_09_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/261/fcb/f784868cecb4528cd28ce981c237e8a5.jpg", OverLord - Phần 3 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_10/Overlord3_10_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/149/b2b/99c7e00b5b92f57c5bcc8a93f88eae2e.jpg", OverLord - Phần 3 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_11/Overlord3_11_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/f55/cd/4df7e5fae88e9e8de0adbdf6fddfcf9b.jpg", OverLord - Phần 3 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_12/Overlord3_12_720p.m3u8
+#EXTINF:-1 group-title="OverLord - Phần 3" tvg-logo="https://images.danet.vn/images/src/bfc/fb9/7d6ee543786f055938806a8788dc7533.jpg", OverLord - Phần 3 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/ANIME/Overlord3/Overlord3_13/Overlord3_13_720p.m3u8
+
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/1b5/5d7/5900104e55175eddfb9492e2a4e17f14.jpg", OverLord 4 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_01/Overlord4_01_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/ea6/79f/cd04b69cea5c2424c13fb8124a5b600a.jpg", OverLord 4 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_02/Overlord4_02_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/1c7/d74/41ac4b448b31f9f576dfd80b7854f6b7.jpg", OverLord 4 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_03/Overlord4_03_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/8dd/9c3/4075732fae46225261a6449d75dd1c09.png", OverLord 4 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_04/Overlord4_04_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/721/9b8/3831b2bdb6b1eb2ea1a7dd7ae7c0d8f7.jpg", OverLord 4 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_05_v2/Overlord4_05_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/3cd/51b/8970f2bb9761ca4f55ced9213cb8f631.jpg", OverLord 4 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_06_v2/Overlord4_06_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/e7b/572/245ef242ba8f3e8bacdcb502e885730c.jpg", OverLord 4 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_07/Overlord4_07_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/ac1/cd7/53b0ad1378ad72930a7a0fc95a7ba783.jpg", OverLord 4 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_08/Overlord4_08_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/da7/6b3/7e2d748dbb0929fe7eff7814a0aa5d45.jpg", OverLord 4 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_09/Overlord4_09_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/376/686/3add1b007f4008c85ee7b58186d22205.jpg", OverLord 4 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_10/Overlord4_10_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/681/22e/60aeed68c01c90e1b288129e363388e6.jpg", OverLord 4 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_11/Overlord4_11_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/f6a/b04/7465151048cf11171a4f539aec366b8d.jpg", OverLord 4 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_12/Overlord4_12_720p.m3u8
+#EXTINF:-1 group-title="OverLord 4" tvg-logo="https://images.danet.vn/images//src/4f9/1/17dbd12c9e66b134c571dd3e5eb57e94.jpg", OverLord 4 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/Simulcast/Overlord4/Overlord4_13/Overlord4_13_720p.m3u8
+
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/8c6/112/88bb6fbf2279f65b303e5554f7db62cf.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_01/RZ_S1_01_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/376/dcc/d56b61e07f7da806ad35f4129cf38dc5.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_02/RZ_S1_02_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/b24/152/7d20c1ce4a55d2c03bed0677fa3d3fa1.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_03/RZ_S1_03_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/ded/3e1/5395a4e15245e5a88471ce782aaaeb49.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_04/RZ_S1_04_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/743/ecb/5ddcf5c57f7ecc99dab58e4bd7db427e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_05/RZ_S1_05_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/584/65f/a550db130bd27e1610c4e85367318bb1.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_06/RZ_S1_06_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/199/d4c/8e27253c4d8bf867fe89ee89b1bec977.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_07/RZ_S1_07_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/b01/88b/074fef351ee465f5f2c9b438a64d13ae.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_08/RZ_S1_08_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/543/e5e/d0359f67e05c3a10677de0d17b418c78.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_09/RZ_S1_09_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/d3c/594/caeab61443eb80ed3011155804469f4e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_10/RZ_S1_10_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/473/9c8/adec35b1aedbec3969db935144275872.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_11/RZ_S1_11_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/3e/5fb/2b5cec507ff3378b88d2660ab834086e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_12/RZ_S1_12_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác" tvg-logo="https://images.danet.vn/images//src/a78/13a/973ba4bea734e8406406a12e2b8b1c07.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác - Tập 13
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S1_13/RZ_S1_13_720p.m3u8
+
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/9f9/27a/e434b325fff70723f4fc340c8f6af257.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 01
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_01/RZ_S2_01_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/ce9/c6a/7e187a0388ee2341f382c9d90583e47c.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 02
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_02/RZ_S2_02_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/151/587/099c40c62652b16facc0786c3631725c.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 03
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_03/RZ_S2_03_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/e0e/ccc/785811265fb98dfae97df90256a58b9e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 04
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_04/RZ_S2_04_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/930/aa1/cfff417939e27555f4a118d1395662be.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 05
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_05/RZ_S2_05_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/baa/99a/e3c166d92989eb69b56068ae589efba0.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 06
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_06/RZ_S2_06_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/1e3/871/e035f3b45450a6e07e11acf338e6ed75.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 07
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_07/RZ_S2_07_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/d4d/8e4/cddbfcc4a8b0de8977e2aee76fc2c065.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 08
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_08/RZ_S2_08_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/a/874/39e4c84e7739560cb0fc7b6152492ad1.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 09
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_09/RZ_S2_09_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/2ea/54/15af9ab36ad4dc36d2fc188ffcb31e8e.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 10
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_10/RZ_S2_10_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/b83/dc/d28666e6036c67f398028ddb6a4b2fa1.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 11
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_11/RZ_S2_11_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/eb8/bf5/69ea74383eb73ffc8e7bd2fc8d44854b.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 12
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_12/RZ_S2_12_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/345/808/f12b50777ee2b6fea54de379a54bc832.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 13
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_13/RZ_S2_13_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/5c6/55a/529d5927780d72a2bd33dae15f503088.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 14
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_14/RZ_S2_14_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/5ac/d07/2f564678831fcc01b12aeaf4e15de907.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 15
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_15/RZ_S2_15_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/d95/16e/2d4e630a72451234100a10dc1786ecdc.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 16
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_16/RZ_S2_16_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/903/c1e/23730d18aac35f18753844e7c2803a78.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 17
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_17/RZ_S2_17_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/716/e45/868c96e91761f9ddcb253e3ad6db63ae.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 18
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_18/RZ_S2_18_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/568/4a6/12597ee0669de7deab19217e8d695266.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 19
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_19/RZ_S2_19_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/c87/b61/c33d218d54c2f793c982d425c2806e11.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 20
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_20/RZ_S2_20_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/fdb/567/e9968873297edb4ad98e1808cca14fb9.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 21
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_21/RZ_S2_21_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/c17/3a7/250b274af5da7f7e1e03c6c352448866.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 22
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_22/RZ_S2_22_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/5fb/7ea/ed8a53e1aaf131168d3f25e8b3435cc0.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 23
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_23/RZ_S2_23_720p.m3u8
+#EXTINF:-1 group-title="Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2" tvg-logo="https://images.danet.vn/images//src/e73/c70/9c67b2ca7de552064dde2108148776b0.jpg", Re:Zero - Bắt đầu lại từ con số 0 tại thế giới khác S2 - Tập 24
+https://vod-cdn01.danet.vn/AVOD/MUSE/RZ/RZ_S2_24/RZ_S2_24_720p.m3u8
+
