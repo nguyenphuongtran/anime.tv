@@ -1,5 +1,69 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/dark-gathering-250x350.jpg" TenPuru: Thợ Săn Ác Linh - Tập 1
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Dark-Gathering/1/Dark-Gathering-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/temple-250x350.jpg" TenPuru: Không ai có thể sống đơn độc - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Temple/1/Temple-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/shinigami-bocchan-to-kuro-maid-ss2-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái phần 2 - Tập 1
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Shinigami-Bocchan-to-Kuro-Maid-ss2/1/Shinigami-Bocchan-to-Kuro-Maid-ss2-1.m3u8
+
+
+https://animehot.xyz/wp-content/uploads/2023/07/eiyuu-kyoushitsu-250x350.jpg" Lớp Học Anh Hùng - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Eiyuu-Kyoushitsu/1/Eiyuu-Kyoushitsu-1.m3u8
+
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-250x350.jpeg" Xác Sống 100: 100 Điều Tôi Muốn Làm Trước Khi Trở Thành Xác Sống
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Zom-100/1/Zom-100-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/level-1-dakedo-unique-skill-de-saikyou-desu-250x350.jpg" Mặc Dù Chỉ Cấp Độ 1 Nhưng Vì Có Kỹ Năng Độc Nhất Nên Tôi Là Người Mạnh Nhất - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Level-1-dakedo-Unique-Skill/1/Level-1-dakedo-Unique-Skill-1.m3u8
+
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg" Genjitsu no Yohane: NẮNG TRONG GƯƠNG - Tập 2
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Genjitsu-no-Yohane/1/Genjitsu-no-Yohane-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/06/genjitsu-no-yohane-sunshine-in-the-mirror-250x350.jpg" Genjitsu no Yohane: NẮNG TRONG GƯƠNG - Tập 2
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Genjitsu-no-Yohane/1/Genjitsu-no-Yohane-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/ayaka-a-story-of-bonds-and-wounds-250x350.jpg" Ayaka: Câu chuyện về những ràng buộc và vết thương Tập 2
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Ayaka/2/Ayaka-2.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/ayaka-a-story-of-bonds-and-wounds-250x350.jpg" Ayaka: Câu chuyện về những ràng buộc và vết thương Tập 1
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Ayaka/1/Ayaka-1.m3u8
+
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/that-nghiep-chuyen-sinh-sang-the-gioi-khac-toi-se-nghiem-tuc-mua-2-thumb.jpg", THẤT NGHIỆP CHUYỂN SINH: SANG THẾ GIỚI KHÁC TÔI SẼ NGHIÊM TÚC - MÙA 2 - Tập 1
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Mushoku-Tensei-ss2/1/Mushoku-Tensei-ss2-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/horimiya-piece-250x350.jpg" Horimiya: Piece Tập 2
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Horimiya-Piece/2/Horimiya-Piece-2.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/horimiya-piece-250x350.jpg" Horimiya: Piece Tập 1
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Horimiya-Piece/1/Horimiya-Piece-1.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega-250x350.jpg" Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega - Tập 2
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Atelier-Ryza/2/Atelier-Ryza-2.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega-250x350.jpg" Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega - Tập 1
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Atelier-Ryza/1/Atelier-Ryza-1.m3u8
+
+
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/jitsu-wa-ore-saikyou-deshita-300x450.jpg" Tôi Có Thực Sự Là Người Mạnh Nhất - Tập 2
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Jitsu-wa-Ore/2/Jitsu-wa-Ore-2.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-300x450.jpg" Uchi no Kaisha no Chiisai Senpai no Hanashi - Tập 2
+https://s2.truyentot.com/media/video-clips/anime2/01-2023/Uchi-no-Kaisha/2/Uchi-no-Kaisha-2.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/liar-liar-250x350.jpg" Trò Chơi Nói Dối - Tập 2 
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Liar-Liar/2/Liar-Liar-2.m3u8
+
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/liar-liar-250x350.jpg" Trò Chơi Nói Dối - Tập 1
+https://s1.truyentot.com/media/video-clips/anime2/01-2023/Liar-Liar/1/Liar-Liar-1.m3u8
+
+
 
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/kanojo-okarishimasu-ss3-300x450.jpg" Bạn Gái Thuê SS3 - Tập 1 
 https://s2.truyentot.com/media/video-clips/anime2/01-2023/Kanojo-Okarishimasu-ss3/1/Kanojo-Okarishimasu-ss3-1.m3u8
@@ -31,7 +95,7 @@ https://s2.truyentot.com/media/video-clips/anime2/01-2023/Okashi-na-Tensei/1/Oka
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://img.ophim8.cc/uploads/movies/kiep-chuyen-sinh-ngot-ngao-thumb.jpg", KIẾP CHUYỂN SINH NGỌT NGÀO - Tập 2
 https://s2.truyentot.com/media/video-clips/anime2/01-2023/Okashi-na-Tensei/2/Okashi-na-Tensei-2.m3u8
 
-#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/masamune-kun-no-revenge-ss2-250x350.jpg" Masamunebáo thù ss2 Tập 1
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/masamune-kun-no-revenge-ss2-250x350.jpg" Masamune báo thù ss2 Tập 1
 https://s2.truyentot.com/media/video-clips/anime2/01-2023/Masamune-kun-no-Revenge-ss2/1/Masamune-kun-no-Revenge-ss2-1.m3u8
 
 #EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animeweb.vip/wp-content/uploads/2023/07/lv1-maou-to-one-room-yuusha-300x450.jpg" Lv1 Maou to One Room Yuusha -  Tập 1
@@ -50,7 +114,30 @@ https://s2.truyentot.com/media/video-clips/anime2/01-2023/Jitsu-wa-Ore/1/Jitsu-w
 
 
 
-
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 1
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/1/Shinigami-Bocchan-to-Kuro-Maid-1.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 2
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/2/Shinigami-Bocchan-to-Kuro-Maid-2.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 3
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/3/Shinigami-Bocchan-to-Kuro-Maid-3.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 4
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/4/Shinigami-Bocchan-to-Kuro-Maid-4.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 5
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/5/Shinigami-Bocchan-to-Kuro-Maid-5.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 6
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/6/Shinigami-Bocchan-to-Kuro-Maid-6.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 7
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/7/Shinigami-Bocchan-to-Kuro-Maid-7.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 8
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/8/Shinigami-Bocchan-to-Kuro-Maid-8.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 9
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/9/Shinigami-Bocchan-to-Kuro-Maid-9.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 10
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/10/Shinigami-Bocchan-to-Kuro-Maid-10.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 11
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/11/Shinigami-Bocchan-to-Kuro-Maid-11.m3u8
+#EXTINF:-1 group-title="Công Tước Tử Thần Và Cô Hầu Gái " tvg-logo="https://animehot.xyz/wp-content/uploads/2022/11/shinigami-bocchan-to-kuro-maid-250x350.jpg" Công Tước Tử Thần Và Cô Hầu Gái - Tập 12
+https://s1.truyentot.com/media/video-clips/anime2/02-2021/Shinigami-Bocchan-to-Kuro-Maid/12/Shinigami-Bocchan-to-Kuro-Maid-12.m3u8
 
 #EXTINF:-1 group-title="Hiệp Sĩ Lưu Ban" tvg-logo="https://images.danet.vn/images/src/331/bd7/1ad94df5f584dfbc73c7d62567d9ad69.jpg", Hiệp Sĩ Lưu Ban - Tập 1
 https://vod-cdn01.danet.vn/AVOD/ANIME/Chivalry/Chivalry_01/Chivalry_01_720p.m3u8
