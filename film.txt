@@ -10,7 +10,7 @@ https://s2.truyentot.com/media/video-clips/anime2/01-2023/Temple/1/Temple-1.m3u8
 https://s1.truyentot.com/media/video-clips/anime2/01-2023/Shinigami-Bocchan-to-Kuro-Maid-ss2/1/Shinigami-Bocchan-to-Kuro-Maid-ss2-1.m3u8
 
 
-https://animehot.xyz/wp-content/uploads/2023/07/eiyuu-kyoushitsu-250x350.jpg", Lớp Học Anh Hùng - Tập 1
+#EXTINF:-1 group-title="Anime đang ra" tvg-logo="https://animehot.xyz/wp-content/uploads/2023/07/eiyuu-kyoushitsu-250x350.jpg", Lớp Học Anh Hùng - Tập 1
 https://s2.truyentot.com/media/video-clips/anime2/01-2023/Eiyuu-Kyoushitsu/1/Eiyuu-Kyoushitsu-1.m3u8
 
 
